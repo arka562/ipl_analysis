@@ -1,4 +1,4 @@
-from utils.helpers import first_or_blank
+from utils.helper import first_or_blank
 
 def season_from_info(info):
     season = info.get("season")
