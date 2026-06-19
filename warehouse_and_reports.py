@@ -148,3 +148,73 @@ REPORT_QUERIES = {
         limit 25
     """,
 }
+
+def sql_path(path):
+    return str(path).replace("\\", "/").replace("'", "''")
+
+
+def load_tables(connection, processed_dir):
+    for table_name, file_name in TABLES.items():
+        csv_path = processed_dir / file_name
+        if not csv_path.exists():
+            raise FileNotFoundError(f"Missing required input file: {csv_path}")
+        connection.execute(f"drop table if exists {table_name}")
+        connection.execute(
+            f"create table {table_name} as "
+            f"select * from read_csv_auto('{sql_path(csv_path)}', header=true)"
+        )
+
+
+def export_reports(connection, reports_dir):
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    for report_name, query in REPORT_QUERIES.items():
+        output_path = reports_dir / f"{report_name}.csv"
+        connection.execute(
+            f"copy ({query}) to '{sql_path(output_path)}' with (header true, delimiter ',')"
+        )
+        count = connection.execute(f"select count(*) from ({query})").fetchone()[0]
+        print(f"  {report_name}.csv — {count} rows")
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Load processed CSVs into DuckDB and generate SQL report CSVs."
+    )
+    parser.add_argument("--processed-dir", default="ipl_analytics_platform/data/processed")
+    parser.add_argument("--warehouse-path", default="ipl_analytics_platform/data/warehouse/ipl.duckdb")
+    parser.add_argument("--reports-dir", default="ipl_analytics_platform/reports/tables")
+    args = parser.parse_args()
+
+    warehouse_path = Path(args.warehouse_path)
+    warehouse_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Always rebuild clean
+    if warehouse_path.exists():
+        warehouse_path.unlink()
+
+    connection = duckdb.connect(str(warehouse_path))
+
+    try:
+        print("Loading tables into DuckDB...")
+        load_tables(connection, Path(args.processed_dir))
+
+        for table_name in TABLES:
+            count = connection.execute(f"select count(*) from {table_name}").fetchone()[0]
+            print(f"  {table_name}: {count} rows")
+
+        print("\nGenerating reports...")
+        export_reports(connection, Path(args.reports_dir))
+
+        counts = {
+            table_name: connection.execute(f"select count(*) from {table_name}").fetchone()[0]
+            for table_name in TABLES
+        }
+    finally:
+        connection.close()
+
+    print(f"\nWarehouse : {warehouse_path.resolve()}")
+    print(f"Reports   : {Path(args.reports_dir).resolve()}")
+
+
+if __name__ == "__main__":
+    main()
