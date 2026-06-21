@@ -179,9 +179,6 @@ def build_player_impact(deliveries):
     )
 
 
----------------------------------------------------------------------------
-Venue Par Score
----------------------------------------------------------------------------
 
 def build_venue_par_score(matches, innings):
     match_lookup  = build_match_lookup(matches)
@@ -422,80 +419,77 @@ def build_death_indexes(deliveries):
     )
 
 
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
 
-# def main():
-#     parser = argparse.ArgumentParser(description="Build advanced IPL analytics metrics.")
-#     parser.add_argument("--processed-dir", default="ipl_analytics_platform/data/processed")
-#     parser.add_argument("--output-dir",    default="ipl_analytics_platform/reports/advanced_metrics")
-#     args = parser.parse_args()
+def main():
+    parser = argparse.ArgumentParser(description="Build advanced IPL analytics metrics.")
+    parser.add_argument("--processed-dir", default="ipl_analytics_platform/data/processed")
+    parser.add_argument("--output-dir",    default="ipl_analytics_platform/reports/advanced_metrics")
+    args = parser.parse_args()
 
-#     processed_dir = Path(args.processed_dir)
-#     output_dir    = Path(args.output_dir)
+    processed_dir = Path(args.processed_dir)
+    output_dir    = Path(args.output_dir)
 
-#     print("Reading processed CSVs...")
-#     matches    = read_csv(processed_dir / "matches.csv")
-#     innings    = read_csv(processed_dir / "innings.csv")
-#     deliveries = read_csv(processed_dir / "deliveries.csv")
+    print("Reading processed CSVs...")
+    matches    = read_csv(processed_dir / "matches.csv")
+    innings    = read_csv(processed_dir / "innings.csv")
+    deliveries = read_csv(processed_dir / "deliveries.csv")
 
-#     print("Building player impact scores...")
-#     player_impact = build_player_impact(deliveries)
+    print("Building player impact scores...")
+    player_impact = build_player_impact(deliveries)
 
-#     print("Building venue par scores...")
-#     venue_par = build_venue_par_score(matches, innings)
+    print("Building venue par scores...")
+    venue_par = build_venue_par_score(matches, innings)
 
-#     print("Building team phase strength...")
-#     team_phase = build_team_phase_strength(deliveries)
+    print("Building team phase strength...")
+    team_phase = build_team_phase_strength(deliveries)
 
-#     print("Building death-over indexes...")
-#     death_batting, death_bowling = build_death_indexes(deliveries)
+    print("Building death-over indexes...")
+    death_batting, death_bowling = build_death_indexes(deliveries)
 
-#     write_csv(
-#         output_dir / "player_impact_score.csv",
-#         player_impact,
-#         [
-#             "player", "role_signal", "player_impact_score", "batting_score", "bowling_score",
-#             "impact_eligible", "batting_runs", "batting_balls", "batting_strike_rate",
-#             "batting_average", "boundary_pct", "bowling_wickets", "bowling_balls",
-#             "bowling_economy", "wickets_per_over", "dot_ball_pct",
-#         ],
-#     )
-#     write_csv(
-#         output_dir / "venue_par_score.csv",
-#         venue_par,
-#         [
-#             "venue", "city", "matches", "venue_par_score", "median_first_innings_score",
-#             "highest_first_innings_score", "lowest_first_innings_score", "chasing_win_pct",
-#         ],
-#     )
-#     write_csv(
-#         output_dir / "team_phase_strength.csv",
-#         team_phase,
-#         ["team", "phase", "innings", "runs", "run_rate", "wickets_lost_per_innings", "team_phase_strength_score"],
-#     )
-#     write_csv(
-#         output_dir / "death_over_batting_index.csv",
-#         death_batting,
-#         ["player", "death_batting_index", "death_runs", "death_balls", "death_strike_rate", "death_boundary_pct"],
-#     )
-#     write_csv(
-#         output_dir / "death_over_bowling_index.csv",
-#         death_bowling,
-#         [
-#             "player", "death_bowling_index", "death_wickets", "death_balls",
-#             "death_runs_conceded", "death_economy", "death_wickets_per_over", "death_dot_ball_pct",
-#         ],
-#     )
+    write_csv(
+        output_dir / "player_impact_score.csv",
+        player_impact,
+        [
+            "player", "role_signal", "player_impact_score", "batting_score", "bowling_score",
+            "impact_eligible", "batting_runs", "batting_balls", "batting_strike_rate",
+            "batting_average", "boundary_pct", "bowling_wickets", "bowling_balls",
+            "bowling_economy", "wickets_per_over", "dot_ball_pct",
+        ],
+    )
+    write_csv(
+        output_dir / "venue_par_score.csv",
+        venue_par,
+        [
+            "venue", "city", "matches", "venue_par_score", "median_first_innings_score",
+            "highest_first_innings_score", "lowest_first_innings_score", "chasing_win_pct",
+        ],
+    )
+    write_csv(
+        output_dir / "team_phase_strength.csv",
+        team_phase,
+        ["team", "phase", "innings", "runs", "run_rate", "wickets_lost_per_innings", "team_phase_strength_score"],
+    )
+    write_csv(
+        output_dir / "death_over_batting_index.csv",
+        death_batting,
+        ["player", "death_batting_index", "death_runs", "death_balls", "death_strike_rate", "death_boundary_pct"],
+    )
+    write_csv(
+        output_dir / "death_over_bowling_index.csv",
+        death_bowling,
+        [
+            "player", "death_bowling_index", "death_wickets", "death_balls",
+            "death_runs_conceded", "death_economy", "death_wickets_per_over", "death_dot_ball_pct",
+        ],
+    )
 
-#     print(f"\nAdvanced metrics written to : {output_dir.resolve()}")
-#     print(f"Player impact rows          : {len(player_impact)}")
-#     print(f"Venue par rows              : {len(venue_par)}")
-#     print(f"Team phase rows             : {len(team_phase)}")
-#     print(f"Death batting rows          : {len(death_batting)}")
-#     print(f"Death bowling rows          : {len(death_bowling)}")
+    print(f"\nAdvanced metrics written to : {output_dir.resolve()}")
+    print(f"Player impact rows          : {len(player_impact)}")
+    print(f"Venue par rows              : {len(venue_par)}")
+    print(f"Team phase rows             : {len(team_phase)}")
+    print(f"Death batting rows          : {len(death_batting)}")
+    print(f"Death bowling rows          : {len(death_bowling)}")
 
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
