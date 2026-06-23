@@ -1,0 +1,31 @@
+match_id,season,innings,batting_team,runs_so_far,wickets_so_far,final_score,predicted_final_score,absolute_error
+419148,2009,2,Royal Challengers Bangalore,76,1,162,162,0
+1422130,2024,1,Sunrisers Hyderabad,74,3,162,162,0
+1359501,2023,2,Punjab Kings,77,5,150,150,0
+980915,2016,2,Kolkata Knight Riders,72,0,146,146,0
+1136567,2018,1,Mumbai Indians,78,4,147,147,0
+1181768,2019,2,Chennai Super Kings,72,2,148,148,0
+1216542,2020,1,Sunrisers Hyderabad,100,0,201,201,0
+1178404,2019,2,Chennai Super Kings,70,3,162,162,0
+335985,2007,2,Royal Challengers Bangalore,76,3,166,166,0
+598011,2013,2,Pune Warriors,72,5,142,142,0
+598023,2013,2,Royal Challengers Bangalore,67,3,123,123,0
+1359542,2023,2,Kolkata Knight Riders,82,3,175,175,0
+1178406,2019,2,Mumbai Indians,97,2,172,172,0
+829799,2015,1,Sunrisers Hyderabad,86,1,185,185,0
+1426299,2024,2,Chennai Super Kings,77,2,145,145,0
+548306,2012,2,Mumbai Indians,76,3,115,115,0
+829801,2015,2,Delhi Daredevils,66,2,120,121,1
+734033,2014,2,Rajasthan Royals,64,3,163,162,1
+729299,2014,2,Royal Challengers Bangalore,77,2,148,149,1
+1216505,2020,2,Delhi Capitals,81,1,154,153,1
+419143,2009,2,Rajasthan Royals,111,1,157,156,1
+1254100,2021,1,Rajasthan Royals,77,2,164,163,1
+1359530,2023,2,Rajasthan Royals,107,1,151,152,1
+1136603,2018,2,Rajasthan Royals,88,2,177,176,1
+1178400,2019,1,Rajasthan Royals,74,4,151,150,1
+1473506,2025,2,Punjab Kings,89,1,187,186,1
+1082596,2017,2,Sunrisers Hyderabad,89,1,140,141,1
+598016,2013,2,Kolkata Knight Riders,82,2,153,154,1
+1082610,2017,2,Gujarat Lions,103,3,192,191,1
+1473440,2025,2,Chennai Super Kings,96,3,158,159,1

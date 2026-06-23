@@ -1,0 +1,51 @@
+match_id,season,innings,batting_team,over_number,current_score,wickets_lost,target,runs_required,batting_team_won,win_probability
+335982,2007,1,Kolkata Knight Riders,4,50,0,,,1,66.3
+335982,2007,1,Kolkata Knight Riders,11,102,1,,,1,64.9
+335982,2007,1,Kolkata Knight Riders,16,158,2,,,1,75.6
+335982,2007,2,Royal Challengers Bangalore,3,12,2,223.0,211.0,0,4.5
+335982,2007,2,Royal Challengers Bangalore,12,59,8,223.0,164.0,0,0.7
+335982,2007,2,Royal Challengers Bangalore,15,82,9,223.0,141.0,0,0.7
+335983,2007,1,Chennai Super Kings,5,42,1,,,1,55.7
+335983,2007,1,Chennai Super Kings,10,88,3,,,1,57.3
+335983,2007,1,Chennai Super Kings,15,161,4,,,1,81.7
+335983,2007,1,Chennai Super Kings,17,183,5,,,1,82.4
+335983,2007,1,Chennai Super Kings,19,215,5,,,1,83.2
+335983,2007,2,Kings XI Punjab,1,9,0,241.0,232.0,0,10.8
+335983,2007,2,Kings XI Punjab,4,37,0,241.0,204.0,0,7.7
+335983,2007,2,Kings XI Punjab,11,115,2,241.0,126.0,0,9.7
+335984,2007,1,Rajasthan Royals,3,17,1,,,0,33.0
+335984,2007,1,Rajasthan Royals,6,40,2,,,0,35.5
+335984,2007,1,Rajasthan Royals,13,80,6,,,0,11.2
+335984,2007,1,Rajasthan Royals,18,111,8,,,0,13.0
+335984,2007,1,Rajasthan Royals,19,121,8,,,0,15.0
+335984,2007,2,Delhi Daredevils,2,21,1,130.0,109.0,1,81.3
+335984,2007,2,Delhi Daredevils,3,26,1,130.0,104.0,1,86.6
+335984,2007,2,Delhi Daredevils,4,36,1,130.0,94.0,1,86.4
+335984,2007,2,Delhi Daredevils,7,59,1,130.0,71.0,1,93.0
+335984,2007,2,Delhi Daredevils,8,71,1,130.0,59.0,1,97.4
+335984,2007,2,Delhi Daredevils,15,128,1,130.0,2.0,1,98.5
+335985,2007,1,Mumbai Indians,6,47,3,,,0,50.1
+335985,2007,1,Mumbai Indians,7,54,3,,,0,53.7
+335985,2007,1,Mumbai Indians,14,99,4,,,0,54.7
+335985,2007,2,Royal Challengers Bangalore,5,37,1,166.0,129.0,1,58.2
+335985,2007,2,Royal Challengers Bangalore,6,40,1,166.0,126.0,1,61.1
+335985,2007,2,Royal Challengers Bangalore,17,136,4,166.0,30.0,1,69.4
+335986,2007,1,Deccan Chargers,10,52,4,,,0,19.0
+335986,2007,1,Deccan Chargers,15,77,6,,,0,14.7
+335986,2007,1,Deccan Chargers,17,102,6,,,0,26.3
+335986,2007,1,Deccan Chargers,18,105,8,,,0,18.2
+335986,2007,2,Kolkata Knight Riders,2,16,1,111.0,95.0,1,92.3
+335986,2007,2,Kolkata Knight Riders,9,35,3,111.0,76.0,1,70.6
+335986,2007,2,Kolkata Knight Riders,14,77,4,111.0,34.0,1,89.4
+335986,2007,2,Kolkata Knight Riders,19,112,5,111.0,-1.0,1,91.4
+335987,2007,1,Kings XI Punjab,2,6,0,,,0,38.8
+335987,2007,1,Kings XI Punjab,6,54,1,,,0,48.8
+335987,2007,1,Kings XI Punjab,7,60,2,,,0,49.8
+335987,2007,1,Kings XI Punjab,9,73,4,,,0,42.3
+335987,2007,1,Kings XI Punjab,12,98,4,,,0,40.0
+335987,2007,1,Kings XI Punjab,14,113,4,,,0,43.0
+335987,2007,1,Kings XI Punjab,19,155,8,,,0,42.7
+335987,2007,2,Rajasthan Royals,2,13,1,167.0,154.0,1,39.2
+335987,2007,2,Rajasthan Royals,12,102,4,167.0,65.0,1,67.6
+335988,2007,1,Deccan Chargers,12,60,4,,,0,22.5
+335988,2007,1,Deccan Chargers,15,73,5,,,0,14.7

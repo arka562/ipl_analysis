@@ -1,0 +1,2507 @@
+match_id,season,innings,batting_team,winner,batting_result,runs,wickets,legal_balls,overs
+1082591,2017,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,207,4,120,20.0
+1082591,2017,2,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,172,10,118,19.4
+1082592,2017,1,Mumbai Indians,Rising Pune Supergiant,Loser,184,8,120,20.0
+1082592,2017,2,Rising Pune Supergiant,Rising Pune Supergiant,Winner,187,3,119,19.5
+1082593,2017,1,Gujarat Lions,Kolkata Knight Riders,Loser,183,4,120,20.0
+1082593,2017,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,184,0,89,14.5
+1082594,2017,1,Rising Pune Supergiant,Kings XI Punjab,Loser,163,6,120,20.0
+1082594,2017,2,Kings XI Punjab,Kings XI Punjab,Winner,164,4,114,19.0
+1082595,2017,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,157,8,120,20.0
+1082595,2017,2,Delhi Daredevils,Royal Challengers Bangalore,Loser,142,9,120,20.0
+1082596,2017,1,Gujarat Lions,Sunrisers Hyderabad,Loser,135,7,120,20.0
+1082596,2017,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,140,1,93,15.3
+1082597,2017,1,Kolkata Knight Riders,Mumbai Indians,Loser,178,7,120,20.0
+1082597,2017,2,Mumbai Indians,Mumbai Indians,Winner,180,6,119,19.5
+1082598,2017,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,148,4,120,20.0
+1082598,2017,2,Kings XI Punjab,Kings XI Punjab,Winner,150,2,87,14.3
+1082599,2017,1,Delhi Daredevils,Delhi Daredevils,Winner,205,4,120,20.0
+1082599,2017,2,Rising Pune Supergiant,Delhi Daredevils,Loser,108,10,97,16.1
+1082600,2017,1,Sunrisers Hyderabad,Mumbai Indians,Loser,158,8,120,20.0
+1082600,2017,2,Mumbai Indians,Mumbai Indians,Winner,159,6,112,18.4
+1082601,2017,1,Kings XI Punjab,Kolkata Knight Riders,Loser,170,9,120,20.0
+1082601,2017,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,171,2,99,16.3
+1082602,2017,1,Royal Challengers Bangalore,Mumbai Indians,Loser,142,5,120,20.0
+1082602,2017,2,Mumbai Indians,Mumbai Indians,Winner,145,6,113,18.5
+1082603,2017,1,Rising Pune Supergiant,Gujarat Lions,Loser,171,8,120,20.0
+1082603,2017,2,Gujarat Lions,Gujarat Lions,Winner,172,3,108,18.0
+1082604,2017,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,172,6,120,20.0
+1082604,2017,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,155,6,120,20.0
+1082605,2017,1,Delhi Daredevils,Delhi Daredevils,Winner,188,6,120,20.0
+1082605,2017,2,Kings XI Punjab,Delhi Daredevils,Loser,137,9,120,20.0
+1082606,2017,1,Gujarat Lions,Mumbai Indians,Loser,176,4,120,20.0
+1082606,2017,2,Mumbai Indians,Mumbai Indians,Winner,177,4,117,19.3
+1082607,2017,1,Rising Pune Supergiant,Rising Pune Supergiant,Winner,161,8,120,20.0
+1082607,2017,2,Royal Challengers Bangalore,Rising Pune Supergiant,Loser,134,9,120,20.0
+1082608,2017,1,Delhi Daredevils,Kolkata Knight Riders,Loser,168,7,120,20.0
+1082608,2017,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,169,6,119,19.5
+1082609,2017,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,159,6,120,20.0
+1082609,2017,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,154,10,118,19.4
+1082610,2017,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,213,2,120,20.0
+1082610,2017,2,Gujarat Lions,Royal Challengers Bangalore,Loser,192,7,120,20.0
+1082611,2017,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,191,4,120,20.0
+1082611,2017,2,Delhi Daredevils,Sunrisers Hyderabad,Loser,176,5,120,20.0
+1082612,2017,1,Kings XI Punjab,Mumbai Indians,Loser,198,4,120,20.0
+1082612,2017,2,Mumbai Indians,Mumbai Indians,Winner,199,2,93,15.3
+1082613,2017,1,Kolkata Knight Riders,Gujarat Lions,Loser,187,5,120,20.0
+1082613,2017,2,Gujarat Lions,Gujarat Lions,Winner,188,6,110,18.2
+1082614,2017,1,Mumbai Indians,Mumbai Indians,Winner,142,8,120,20.0
+1082614,2017,2,Delhi Daredevils,Mumbai Indians,Loser,128,7,120,20.0
+1082615,2017,1,Sunrisers Hyderabad,Rising Pune Supergiant,Loser,176,3,120,20.0
+1082615,2017,2,Rising Pune Supergiant,Rising Pune Supergiant,Winner,179,4,120,20.0
+1082616,2017,1,Kings XI Punjab,Kings XI Punjab,Winner,188,7,120,20.0
+1082616,2017,2,Gujarat Lions,Kings XI Punjab,Loser,162,7,120,20.0
+1082617,2017,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,131,10,117,19.3
+1082617,2017,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,49,10,58,9.4
+1082618,2017,1,Rising Pune Supergiant,Rising Pune Supergiant,Winner,160,6,120,20.0
+1082618,2017,2,Mumbai Indians,Rising Pune Supergiant,Loser,157,8,120,20.0
+1082620,2017,1,Rising Pune Supergiant,Kolkata Knight Riders,Loser,182,5,120,20.0
+1082620,2017,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,184,3,109,18.1
+1082621,2017,1,Royal Challengers Bangalore,Gujarat Lions,Loser,134,10,120,20.0
+1082621,2017,2,Gujarat Lions,Gujarat Lions,Winner,135,3,83,13.5
+1082622,2017,1,Delhi Daredevils,Kolkata Knight Riders,Loser,160,6,120,20.0
+1082622,2017,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,161,3,98,16.2
+1082623,2017,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,207,3,120,20.0
+1082623,2017,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,181,9,120,20.0
+1082624,2017,1,Rising Pune Supergiant,Rising Pune Supergiant,Winner,157,3,120,20.0
+1082624,2017,2,Royal Challengers Bangalore,Rising Pune Supergiant,Loser,96,9,120,20.0
+1082625,2017,1,Gujarat Lions,,No result,153,9,120,20.0
+1082625,2017,2,Mumbai Indians,,No result,153,10,120,20.0
+1082625,2017,3,Mumbai Indians,,No result,11,2,5,0.5
+1082625,2017,4,Gujarat Lions,,No result,6,0,6,1.0
+1082626,2017,1,Delhi Daredevils,Kings XI Punjab,Loser,67,10,103,17.1
+1082626,2017,2,Kings XI Punjab,Kings XI Punjab,Winner,68,0,47,7.5
+1082627,2017,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,209,3,120,20.0
+1082627,2017,2,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,161,7,120,20.0
+1082628,2017,1,Royal Challengers Bangalore,Mumbai Indians,Loser,162,8,120,20.0
+1082628,2017,2,Mumbai Indians,Mumbai Indians,Winner,165,6,119,19.5
+1082629,2017,1,Gujarat Lions,Rising Pune Supergiant,Loser,161,10,119,19.5
+1082629,2017,2,Rising Pune Supergiant,Rising Pune Supergiant,Winner,167,5,119,19.5
+1082630,2017,1,Sunrisers Hyderabad,Delhi Daredevils,Loser,185,3,120,20.0
+1082630,2017,2,Delhi Daredevils,Delhi Daredevils,Winner,189,4,115,19.1
+1082631,2017,1,Kolkata Knight Riders,Rising Pune Supergiant,Loser,155,8,120,20.0
+1082631,2017,2,Rising Pune Supergiant,Rising Pune Supergiant,Winner,158,6,116,19.2
+1082632,2017,1,Gujarat Lions,Delhi Daredevils,Loser,208,7,120,20.0
+1082632,2017,2,Delhi Daredevils,Delhi Daredevils,Winner,214,3,105,17.3
+1082633,2017,1,Kings XI Punjab,Kings XI Punjab,Winner,138,7,120,20.0
+1082633,2017,2,Royal Challengers Bangalore,Kings XI Punjab,Loser,119,10,114,19.0
+1082634,2017,1,Rising Pune Supergiant,Rising Pune Supergiant,Winner,148,8,120,20.0
+1082634,2017,2,Sunrisers Hyderabad,Rising Pune Supergiant,Loser,136,9,120,20.0
+1082635,2017,1,Mumbai Indians,Mumbai Indians,Winner,212,3,120,20.0
+1082635,2017,2,Delhi Daredevils,Mumbai Indians,Loser,66,10,82,13.4
+1082636,2017,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,158,6,120,20.0
+1082636,2017,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,159,4,91,15.1
+1082637,2017,1,Kings XI Punjab,Gujarat Lions,Loser,189,3,120,20.0
+1082637,2017,2,Gujarat Lions,Gujarat Lions,Winner,192,4,118,19.4
+1082638,2017,1,Mumbai Indians,Sunrisers Hyderabad,Loser,138,7,120,20.0
+1082638,2017,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,140,3,110,18.2
+1082639,2017,1,Kings XI Punjab,Kings XI Punjab,Winner,167,6,120,20.0
+1082639,2017,2,Kolkata Knight Riders,Kings XI Punjab,Loser,153,6,120,20.0
+1082640,2017,1,Gujarat Lions,Delhi Daredevils,Loser,195,5,120,20.0
+1082640,2017,2,Delhi Daredevils,Delhi Daredevils,Winner,197,8,118,19.4
+1082641,2017,1,Kings XI Punjab,Kings XI Punjab,Winner,230,3,120,20.0
+1082641,2017,2,Mumbai Indians,Kings XI Punjab,Loser,223,6,120,20.0
+1082642,2017,1,Delhi Daredevils,Delhi Daredevils,Winner,168,8,120,20.0
+1082642,2017,2,Rising Pune Supergiant,Delhi Daredevils,Loser,161,7,120,20.0
+1082643,2017,1,Gujarat Lions,Sunrisers Hyderabad,Loser,154,10,116,19.2
+1082643,2017,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,158,2,109,18.1
+1082644,2017,1,Mumbai Indians,Mumbai Indians,Winner,173,5,120,20.0
+1082644,2017,2,Kolkata Knight Riders,Mumbai Indians,Loser,164,8,120,20.0
+1082645,2017,1,Kings XI Punjab,Rising Pune Supergiant,Loser,73,10,95,15.5
+1082645,2017,2,Rising Pune Supergiant,Rising Pune Supergiant,Winner,78,1,72,12.0
+1082646,2017,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,161,6,120,20.0
+1082646,2017,2,Delhi Daredevils,Royal Challengers Bangalore,Loser,151,10,120,20.0
+1082647,2017,1,Rising Pune Supergiant,Rising Pune Supergiant,Winner,162,4,120,20.0
+1082647,2017,2,Mumbai Indians,Rising Pune Supergiant,Loser,142,9,120,20.0
+1082648,2017,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,128,7,120,20.0
+1082648,2017,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,48,3,32,5.2
+1082649,2017,1,Kolkata Knight Riders,Mumbai Indians,Loser,107,10,113,18.5
+1082649,2017,2,Mumbai Indians,Mumbai Indians,Winner,111,4,87,14.3
+1082650,2017,1,Mumbai Indians,Mumbai Indians,Winner,129,8,120,20.0
+1082650,2017,2,Rising Pune Supergiant,Mumbai Indians,Loser,128,6,120,20.0
+1136561,2018,1,Mumbai Indians,Chennai Super Kings,Loser,165,4,120,20.0
+1136561,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,169,9,119,19.5
+1136562,2018,1,Delhi Daredevils,Kings XI Punjab,Loser,166,7,120,20.0
+1136562,2018,2,Kings XI Punjab,Kings XI Punjab,Winner,167,4,113,18.5
+1136563,2018,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,176,7,120,20.0
+1136563,2018,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,177,6,113,18.5
+1136564,2018,1,Rajasthan Royals,Sunrisers Hyderabad,Loser,125,9,120,20.0
+1136564,2018,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,127,1,96,16.0
+1136565,2018,1,Kolkata Knight Riders,Chennai Super Kings,Loser,202,6,120,20.0
+1136565,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,205,5,119,19.5
+1136566,2018,1,Rajasthan Royals,Rajasthan Royals,Winner,153,5,107,17.5
+1136566,2018,2,Delhi Daredevils,Rajasthan Royals,Loser,60,4,36,6.0
+1136567,2018,1,Mumbai Indians,Sunrisers Hyderabad,Loser,147,8,120,20.0
+1136567,2018,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,151,9,120,20.0
+1136568,2018,1,Kings XI Punjab,Royal Challengers Bangalore,Loser,155,10,116,19.2
+1136568,2018,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,159,6,117,19.3
+1136569,2018,1,Mumbai Indians,Delhi Daredevils,Loser,194,7,120,20.0
+1136569,2018,2,Delhi Daredevils,Delhi Daredevils,Winner,195,3,120,20.0
+1136570,2018,1,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,138,8,120,20.0
+1136570,2018,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,139,5,114,19.0
+1136571,2018,1,Rajasthan Royals,Rajasthan Royals,Winner,217,4,120,20.0
+1136571,2018,2,Royal Challengers Bangalore,Rajasthan Royals,Loser,198,6,120,20.0
+1136572,2018,1,Kings XI Punjab,Kings XI Punjab,Winner,197,7,120,20.0
+1136572,2018,2,Chennai Super Kings,Kings XI Punjab,Loser,193,5,120,20.0
+1136573,2018,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,200,9,120,20.0
+1136573,2018,2,Delhi Daredevils,Kolkata Knight Riders,Loser,129,10,86,14.2
+1136574,2018,1,Mumbai Indians,Mumbai Indians,Winner,213,6,120,20.0
+1136574,2018,2,Royal Challengers Bangalore,Mumbai Indians,Loser,167,8,120,20.0
+1136575,2018,1,Rajasthan Royals,Kolkata Knight Riders,Loser,160,8,120,20.0
+1136575,2018,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,163,3,113,18.5
+1136576,2018,1,Kings XI Punjab,Kings XI Punjab,Winner,193,3,120,20.0
+1136576,2018,2,Sunrisers Hyderabad,Kings XI Punjab,Loser,178,5,120,20.0
+1136577,2018,1,Chennai Super Kings,Chennai Super Kings,Winner,204,5,120,20.0
+1136577,2018,2,Rajasthan Royals,Chennai Super Kings,Loser,140,10,111,18.3
+1136578,2018,1,Kolkata Knight Riders,Kings XI Punjab,Loser,191,7,120,20.0
+1136578,2018,2,Kings XI Punjab,Kings XI Punjab,Winner,126,1,67,11.1
+1136579,2018,1,Delhi Daredevils,Royal Challengers Bangalore,Loser,174,5,120,20.0
+1136579,2018,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,176,4,108,18.0
+1136580,2018,1,Chennai Super Kings,Chennai Super Kings,Winner,182,3,120,20.0
+1136580,2018,2,Sunrisers Hyderabad,Chennai Super Kings,Loser,178,6,120,20.0
+1136581,2018,1,Mumbai Indians,Rajasthan Royals,Loser,167,7,120,20.0
+1136581,2018,2,Rajasthan Royals,Rajasthan Royals,Winner,168,7,118,19.4
+1136582,2018,1,Kings XI Punjab,Kings XI Punjab,Winner,143,8,120,20.0
+1136582,2018,2,Delhi Daredevils,Kings XI Punjab,Loser,139,8,120,20.0
+1136583,2018,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,118,10,112,18.4
+1136583,2018,2,Mumbai Indians,Sunrisers Hyderabad,Loser,87,10,113,18.5
+1136584,2018,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,205,8,120,20.0
+1136584,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,207,5,118,19.4
+1136585,2018,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,132,6,120,20.0
+1136585,2018,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,119,10,116,19.2
+1136586,2018,1,Delhi Daredevils,Delhi Daredevils,Winner,219,4,120,20.0
+1136586,2018,2,Kolkata Knight Riders,Delhi Daredevils,Loser,164,9,120,20.0
+1136587,2018,1,Chennai Super Kings,Mumbai Indians,Loser,169,5,120,20.0
+1136587,2018,2,Mumbai Indians,Mumbai Indians,Winner,170,2,118,19.4
+1136588,2018,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,151,7,120,20.0
+1136588,2018,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,140,6,120,20.0
+1136589,2018,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,175,4,120,20.0
+1136589,2018,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,176,5,115,19.1
+1136590,2018,1,Chennai Super Kings,Chennai Super Kings,Winner,211,4,120,20.0
+1136590,2018,2,Delhi Daredevils,Chennai Super Kings,Loser,198,5,120,20.0
+1136591,2018,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,167,7,120,20.0
+1136591,2018,2,Mumbai Indians,Royal Challengers Bangalore,Loser,153,7,120,20.0
+1136592,2018,1,Delhi Daredevils,Delhi Daredevils,Winner,196,6,103,17.1
+1136592,2018,2,Rajasthan Royals,Delhi Daredevils,Loser,146,5,72,12.0
+1136593,2018,1,Chennai Super Kings,Kolkata Knight Riders,Loser,177,5,120,20.0
+1136593,2018,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,180,4,106,17.4
+1136594,2018,1,Kings XI Punjab,Mumbai Indians,Loser,174,6,120,20.0
+1136594,2018,2,Mumbai Indians,Mumbai Indians,Winner,176,4,114,19.0
+1136595,2018,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,127,9,120,20.0
+1136595,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,128,4,108,18.0
+1136596,2018,1,Delhi Daredevils,Sunrisers Hyderabad,Loser,163,5,120,20.0
+1136596,2018,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,164,3,119,19.5
+1136597,2018,1,Mumbai Indians,Mumbai Indians,Winner,181,4,120,20.0
+1136597,2018,2,Kolkata Knight Riders,Mumbai Indians,Loser,168,6,120,20.0
+1136598,2018,1,Rajasthan Royals,Kings XI Punjab,Loser,152,9,120,20.0
+1136598,2018,2,Kings XI Punjab,Kings XI Punjab,Winner,155,4,112,18.4
+1136599,2018,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,146,10,120,20.0
+1136599,2018,2,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,141,6,120,20.0
+1136600,2018,1,Rajasthan Royals,Rajasthan Royals,Winner,158,8,120,20.0
+1136600,2018,2,Kings XI Punjab,Rajasthan Royals,Loser,143,7,120,20.0
+1136601,2018,1,Mumbai Indians,Mumbai Indians,Winner,210,6,120,20.0
+1136601,2018,2,Kolkata Knight Riders,Mumbai Indians,Loser,108,10,109,18.1
+1136602,2018,1,Delhi Daredevils,Sunrisers Hyderabad,Loser,187,5,120,20.0
+1136602,2018,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,191,1,113,18.5
+1136603,2018,1,Chennai Super Kings,Rajasthan Royals,Loser,176,4,120,20.0
+1136603,2018,2,Rajasthan Royals,Rajasthan Royals,Winner,177,6,119,19.5
+1136604,2018,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,245,6,120,20.0
+1136604,2018,2,Kings XI Punjab,Kolkata Knight Riders,Loser,214,8,120,20.0
+1136605,2018,1,Delhi Daredevils,Royal Challengers Bangalore,Loser,181,4,120,20.0
+1136605,2018,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,187,5,114,19.0
+1136606,2018,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,179,4,120,20.0
+1136606,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,180,2,114,19.0
+1136607,2018,1,Mumbai Indians,Rajasthan Royals,Loser,168,6,120,20.0
+1136607,2018,2,Rajasthan Royals,Rajasthan Royals,Winner,171,3,108,18.0
+1136608,2018,1,Kings XI Punjab,Royal Challengers Bangalore,Loser,88,10,91,15.1
+1136608,2018,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,92,0,49,8.1
+1136609,2018,1,Rajasthan Royals,Kolkata Knight Riders,Loser,142,10,114,19.0
+1136609,2018,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,145,4,108,18.0
+1136610,2018,1,Mumbai Indians,Mumbai Indians,Winner,186,8,120,20.0
+1136610,2018,2,Kings XI Punjab,Mumbai Indians,Loser,183,5,120,20.0
+1136611,2018,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,218,6,120,20.0
+1136611,2018,2,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,204,3,120,20.0
+1136612,2018,1,Delhi Daredevils,Delhi Daredevils,Winner,162,5,120,20.0
+1136612,2018,2,Chennai Super Kings,Delhi Daredevils,Loser,128,6,120,20.0
+1136613,2018,1,Rajasthan Royals,Rajasthan Royals,Winner,164,5,120,20.0
+1136613,2018,2,Royal Challengers Bangalore,Rajasthan Royals,Loser,134,10,116,19.2
+1136614,2018,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,172,9,120,20.0
+1136614,2018,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,173,5,118,19.4
+1136615,2018,1,Delhi Daredevils,Delhi Daredevils,Winner,174,4,120,20.0
+1136615,2018,2,Mumbai Indians,Delhi Daredevils,Loser,163,10,117,19.3
+1136616,2018,1,Kings XI Punjab,Chennai Super Kings,Loser,153,10,118,19.4
+1136616,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,159,5,115,19.1
+1136617,2018,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,139,7,120,20.0
+1136617,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,140,8,115,19.1
+1136618,2018,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,169,7,120,20.0
+1136618,2018,2,Rajasthan Royals,Kolkata Knight Riders,Loser,144,4,120,20.0
+1136619,2018,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,174,7,120,20.0
+1136619,2018,2,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,160,9,120,20.0
+1136620,2018,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,178,6,120,20.0
+1136620,2018,2,Chennai Super Kings,Chennai Super Kings,Winner,181,2,111,18.3
+1175356,2019,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,70,10,103,17.1
+1175356,2019,2,Chennai Super Kings,Chennai Super Kings,Winner,71,3,106,17.4
+1175357,2019,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,181,3,120,20.0
+1175357,2019,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,183,4,118,19.4
+1175358,2019,1,Delhi Capitals,Delhi Capitals,Winner,213,6,120,20.0
+1175358,2019,2,Mumbai Indians,Delhi Capitals,Loser,176,9,116,19.2
+1175359,2019,1,Kings XI Punjab,Kings XI Punjab,Winner,184,4,120,20.0
+1175359,2019,2,Rajasthan Royals,Kings XI Punjab,Loser,170,9,120,20.0
+1175360,2019,1,Delhi Capitals,Chennai Super Kings,Loser,147,6,120,20.0
+1175360,2019,2,Chennai Super Kings,Chennai Super Kings,Winner,150,4,118,19.4
+1175361,2019,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,218,4,120,20.0
+1175361,2019,2,Kings XI Punjab,Kolkata Knight Riders,Loser,190,4,120,20.0
+1175362,2019,1,Mumbai Indians,Mumbai Indians,Winner,187,8,120,20.0
+1175362,2019,2,Royal Challengers Bangalore,Mumbai Indians,Loser,181,5,120,20.0
+1175363,2019,1,Rajasthan Royals,Sunrisers Hyderabad,Loser,198,2,120,20.0
+1175363,2019,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,201,5,114,19.0
+1175364,2019,1,Mumbai Indians,Kings XI Punjab,Loser,176,7,120,20.0
+1175364,2019,2,Kings XI Punjab,Kings XI Punjab,Winner,177,2,112,18.4
+1175365,2019,1,Kolkata Knight Riders,,No result,185,8,120,20.0
+1175365,2019,2,Delhi Capitals,,No result,185,6,120,20.0
+1175365,2019,3,Delhi Capitals,,No result,10,1,6,1.0
+1175365,2019,4,Kolkata Knight Riders,,No result,7,1,6,1.0
+1175366,2019,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,231,2,120,20.0
+1175366,2019,2,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,113,10,119,19.5
+1175367,2019,1,Chennai Super Kings,Chennai Super Kings,Winner,175,5,120,20.0
+1175367,2019,2,Rajasthan Royals,Chennai Super Kings,Loser,167,8,120,20.0
+1175368,2019,1,Kings XI Punjab,Kings XI Punjab,Winner,166,9,120,20.0
+1175368,2019,2,Delhi Capitals,Kings XI Punjab,Loser,152,10,116,19.2
+1175369,2019,1,Royal Challengers Bangalore,Rajasthan Royals,Loser,158,4,120,20.0
+1175369,2019,2,Rajasthan Royals,Rajasthan Royals,Winner,164,3,119,19.5
+1175370,2019,1,Mumbai Indians,Mumbai Indians,Winner,170,5,120,20.0
+1175370,2019,2,Chennai Super Kings,Mumbai Indians,Loser,133,8,120,20.0
+1175371,2019,1,Delhi Capitals,Sunrisers Hyderabad,Loser,129,8,120,20.0
+1175371,2019,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,131,5,111,18.3
+1175372,2019,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,205,3,120,20.0
+1175372,2019,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,206,5,115,19.1
+1178393,2019,1,Chennai Super Kings,Chennai Super Kings,Winner,160,3,120,20.0
+1178393,2019,2,Kings XI Punjab,Chennai Super Kings,Loser,138,5,120,20.0
+1178394,2019,1,Mumbai Indians,Mumbai Indians,Winner,136,7,120,20.0
+1178394,2019,2,Sunrisers Hyderabad,Mumbai Indians,Loser,96,10,106,17.4
+1178395,2019,1,Royal Challengers Bangalore,Delhi Capitals,Loser,149,8,120,20.0
+1178395,2019,2,Delhi Capitals,Delhi Capitals,Winner,152,6,113,18.5
+1178396,2019,1,Rajasthan Royals,Kolkata Knight Riders,Loser,139,3,120,20.0
+1178396,2019,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,140,2,83,13.5
+1178397,2019,1,Sunrisers Hyderabad,Kings XI Punjab,Loser,150,4,120,20.0
+1178397,2019,2,Kings XI Punjab,Kings XI Punjab,Winner,151,4,119,19.5
+1178398,2019,1,Kolkata Knight Riders,Chennai Super Kings,Loser,108,9,120,20.0
+1178398,2019,2,Chennai Super Kings,Chennai Super Kings,Winner,111,3,104,17.2
+1178399,2019,1,Kings XI Punjab,Mumbai Indians,Loser,197,4,120,20.0
+1178399,2019,2,Mumbai Indians,Mumbai Indians,Winner,198,7,120,20.0
+1178400,2019,1,Rajasthan Royals,Chennai Super Kings,Loser,151,7,120,20.0
+1178400,2019,2,Chennai Super Kings,Chennai Super Kings,Winner,155,6,120,20.0
+1178401,2019,1,Kolkata Knight Riders,Delhi Capitals,Loser,178,7,120,20.0
+1178401,2019,2,Delhi Capitals,Delhi Capitals,Winner,180,3,113,18.5
+1178402,2019,1,Mumbai Indians,Rajasthan Royals,Loser,187,5,120,20.0
+1178402,2019,2,Rajasthan Royals,Rajasthan Royals,Winner,188,6,117,19.3
+1178403,2019,1,Kings XI Punjab,Royal Challengers Bangalore,Loser,173,4,120,20.0
+1178403,2019,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,174,2,116,19.2
+1178404,2019,1,Kolkata Knight Riders,Chennai Super Kings,Loser,161,8,120,20.0
+1178404,2019,2,Chennai Super Kings,Chennai Super Kings,Winner,162,5,118,19.4
+1178405,2019,1,Delhi Capitals,Delhi Capitals,Winner,155,7,120,20.0
+1178405,2019,2,Sunrisers Hyderabad,Delhi Capitals,Loser,116,10,113,18.5
+1178406,2019,1,Royal Challengers Bangalore,Mumbai Indians,Loser,171,7,120,20.0
+1178406,2019,2,Mumbai Indians,Mumbai Indians,Winner,172,5,114,19.0
+1178407,2019,1,Kings XI Punjab,Kings XI Punjab,Winner,182,6,120,20.0
+1178407,2019,2,Rajasthan Royals,Kings XI Punjab,Loser,170,7,120,20.0
+1178408,2019,1,Chennai Super Kings,Sunrisers Hyderabad,Loser,132,5,120,20.0
+1178408,2019,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,137,4,101,16.5
+1178409,2019,1,Mumbai Indians,Mumbai Indians,Winner,168,5,120,20.0
+1178409,2019,2,Delhi Capitals,Mumbai Indians,Loser,128,9,120,20.0
+1178410,2019,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,213,4,120,20.0
+1178410,2019,2,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,203,5,120,20.0
+1178411,2019,1,Mumbai Indians,Rajasthan Royals,Loser,161,5,120,20.0
+1178411,2019,2,Rajasthan Royals,Rajasthan Royals,Winner,162,5,115,19.1
+1178412,2019,1,Kings XI Punjab,Delhi Capitals,Loser,163,7,120,20.0
+1178412,2019,2,Delhi Capitals,Delhi Capitals,Winner,166,5,118,19.4
+1178413,2019,1,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,159,8,120,20.0
+1178413,2019,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,161,1,90,15.0
+1178414,2019,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,161,7,120,20.0
+1178414,2019,2,Chennai Super Kings,Royal Challengers Bangalore,Loser,160,8,120,20.0
+1178415,2019,1,Rajasthan Royals,Delhi Capitals,Loser,191,6,120,20.0
+1178415,2019,2,Delhi Capitals,Delhi Capitals,Winner,193,4,116,19.2
+1178416,2019,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,175,3,120,20.0
+1178416,2019,2,Chennai Super Kings,Chennai Super Kings,Winner,176,4,119,19.5
+1178417,2019,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,202,4,120,20.0
+1178417,2019,2,Kings XI Punjab,Royal Challengers Bangalore,Loser,185,7,120,20.0
+1178418,2019,1,Kolkata Knight Riders,Rajasthan Royals,Loser,175,6,120,20.0
+1178418,2019,2,Rajasthan Royals,Rajasthan Royals,Winner,177,7,116,19.2
+1178419,2019,1,Mumbai Indians,Mumbai Indians,Winner,155,4,120,20.0
+1178419,2019,2,Chennai Super Kings,Mumbai Indians,Loser,109,10,106,17.4
+1178420,2019,1,Sunrisers Hyderabad,Rajasthan Royals,Loser,160,8,120,20.0
+1178420,2019,2,Rajasthan Royals,Rajasthan Royals,Winner,161,3,115,19.1
+1178421,2019,1,Delhi Capitals,Delhi Capitals,Winner,187,5,120,20.0
+1178421,2019,2,Royal Challengers Bangalore,Delhi Capitals,Loser,171,7,120,20.0
+1178422,2019,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,232,2,120,20.0
+1178422,2019,2,Mumbai Indians,Kolkata Knight Riders,Loser,198,7,120,20.0
+1178423,2019,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,212,6,120,20.0
+1178423,2019,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,167,8,120,20.0
+1178424,2019,1,Royal Challengers Bangalore,,No result,62,7,30,5.0
+1178424,2019,2,Rajasthan Royals,,No result,41,1,20,3.2
+1178425,2019,1,Chennai Super Kings,Chennai Super Kings,Winner,179,4,120,20.0
+1178425,2019,2,Delhi Capitals,Chennai Super Kings,Loser,99,10,98,16.2
+1178426,2019,1,Mumbai Indians,,No result,162,5,120,20.0
+1178426,2019,2,Sunrisers Hyderabad,,No result,162,6,120,20.0
+1178426,2019,3,Sunrisers Hyderabad,,No result,8,2,4,0.4
+1178426,2019,4,Mumbai Indians,,No result,9,0,3,0.3
+1178427,2019,1,Kings XI Punjab,Kolkata Knight Riders,Loser,183,6,120,20.0
+1178427,2019,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,185,3,108,18.0
+1178428,2019,1,Rajasthan Royals,Delhi Capitals,Loser,115,9,120,20.0
+1178428,2019,2,Delhi Capitals,Delhi Capitals,Winner,121,5,97,16.1
+1178429,2019,1,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,175,7,120,20.0
+1178429,2019,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,178,6,116,19.2
+1178430,2019,1,Chennai Super Kings,Kings XI Punjab,Loser,170,5,120,20.0
+1178430,2019,2,Kings XI Punjab,Kings XI Punjab,Winner,173,4,108,18.0
+1178431,2019,1,Kolkata Knight Riders,Mumbai Indians,Loser,133,7,120,20.0
+1178431,2019,2,Mumbai Indians,Mumbai Indians,Winner,134,1,97,16.1
+1181764,2019,1,Chennai Super Kings,Mumbai Indians,Loser,131,4,120,20.0
+1181764,2019,2,Mumbai Indians,Mumbai Indians,Winner,132,4,111,18.3
+1181766,2019,1,Sunrisers Hyderabad,Delhi Capitals,Loser,162,8,120,20.0
+1181766,2019,2,Delhi Capitals,Delhi Capitals,Winner,165,8,119,19.5
+1181767,2019,1,Delhi Capitals,Chennai Super Kings,Loser,147,9,120,20.0
+1181767,2019,2,Chennai Super Kings,Chennai Super Kings,Winner,151,4,114,19.0
+1181768,2019,1,Mumbai Indians,Mumbai Indians,Winner,149,8,120,20.0
+1181768,2019,2,Chennai Super Kings,Mumbai Indians,Loser,148,7,120,20.0
+1216492,2020,1,Mumbai Indians,Chennai Super Kings,Loser,162,9,120,20.0
+1216492,2020,2,Chennai Super Kings,Chennai Super Kings,Winner,166,5,116,19.2
+1216493,2020,1,Delhi Capitals,,No result,157,8,120,20.0
+1216493,2020,2,Kings XI Punjab,,No result,157,8,120,20.0
+1216493,2020,3,Kings XI Punjab,,No result,2,2,3,0.3
+1216493,2020,4,Delhi Capitals,,No result,3,0,2,0.2
+1216494,2020,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,84,8,120,20.0
+1216494,2020,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,85,2,81,13.3
+1216495,2020,1,Mumbai Indians,Sunrisers Hyderabad,Loser,149,8,120,20.0
+1216495,2020,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,151,0,103,17.1
+1216496,2020,1,Rajasthan Royals,Rajasthan Royals,Winner,216,7,120,20.0
+1216496,2020,2,Chennai Super Kings,Rajasthan Royals,Loser,200,6,120,20.0
+1216497,2020,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,194,6,120,20.0
+1216497,2020,2,Delhi Capitals,Kolkata Knight Riders,Loser,135,9,120,20.0
+1216498,2020,1,Kings XI Punjab,Kings XI Punjab,Winner,126,7,120,20.0
+1216498,2020,2,Sunrisers Hyderabad,Kings XI Punjab,Loser,114,10,119,19.5
+1216499,2020,1,Royal Challengers Bangalore,Mumbai Indians,Loser,164,6,120,20.0
+1216499,2020,2,Mumbai Indians,Mumbai Indians,Winner,166,5,115,19.1
+1216500,2020,1,Delhi Capitals,Delhi Capitals,Winner,184,8,120,20.0
+1216500,2020,2,Rajasthan Royals,Delhi Capitals,Loser,138,10,118,19.4
+1216501,2020,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,167,10,120,20.0
+1216501,2020,2,Chennai Super Kings,Kolkata Knight Riders,Loser,157,5,120,20.0
+1216502,2020,1,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,120,7,120,20.0
+1216502,2020,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,121,5,85,14.1
+1216503,2020,1,Mumbai Indians,Mumbai Indians,Winner,191,4,120,20.0
+1216503,2020,2,Kings XI Punjab,Mumbai Indians,Loser,143,8,120,20.0
+1216504,2020,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,174,6,120,20.0
+1216504,2020,2,Rajasthan Royals,Kolkata Knight Riders,Loser,137,9,120,20.0
+1216505,2020,1,Royal Challengers Bangalore,Delhi Capitals,Loser,152,7,120,20.0
+1216505,2020,2,Delhi Capitals,Delhi Capitals,Winner,154,4,114,19.0
+1216506,2020,1,Kings XI Punjab,Chennai Super Kings,Loser,153,6,120,20.0
+1216506,2020,2,Chennai Super Kings,Chennai Super Kings,Winner,154,1,113,18.5
+1216507,2020,1,Sunrisers Hyderabad,Rajasthan Royals,Loser,158,4,120,20.0
+1216507,2020,2,Rajasthan Royals,Rajasthan Royals,Winner,163,5,119,19.5
+1216508,2020,1,Mumbai Indians,Mumbai Indians,Winner,195,5,120,20.0
+1216508,2020,2,Kolkata Knight Riders,Mumbai Indians,Loser,146,9,120,20.0
+1216509,2020,1,Chennai Super Kings,Delhi Capitals,Loser,179,4,120,20.0
+1216509,2020,2,Delhi Capitals,Delhi Capitals,Winner,185,5,119,19.5
+1216510,2020,1,Kings XI Punjab,Kings XI Punjab,Winner,206,3,120,20.0
+1216510,2020,2,Royal Challengers Bangalore,Kings XI Punjab,Loser,109,10,102,17.0
+1216511,2020,1,Mumbai Indians,Mumbai Indians,Winner,193,4,120,20.0
+1216511,2020,2,Rajasthan Royals,Mumbai Indians,Loser,136,10,109,18.1
+1216512,2020,1,Kolkata Knight Riders,,No result,163,5,120,20.0
+1216512,2020,2,Sunrisers Hyderabad,,No result,163,6,120,20.0
+1216512,2020,3,Sunrisers Hyderabad,,No result,2,2,3,0.3
+1216512,2020,4,Kolkata Knight Riders,,No result,3,0,4,0.4
+1216513,2020,1,Kings XI Punjab,Chennai Super Kings,Loser,178,4,120,20.0
+1216513,2020,2,Chennai Super Kings,Chennai Super Kings,Winner,181,0,106,17.4
+1216514,2020,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,154,6,120,20.0
+1216514,2020,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,158,2,115,19.1
+1216515,2020,1,Delhi Capitals,Delhi Capitals,Winner,228,4,120,20.0
+1216515,2020,2,Kolkata Knight Riders,Delhi Capitals,Loser,210,8,120,20.0
+1216516,2020,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,164,5,120,20.0
+1216516,2020,2,Chennai Super Kings,Sunrisers Hyderabad,Loser,157,5,120,20.0
+1216517,2020,1,Mumbai Indians,,No result,176,6,120,20.0
+1216517,2020,2,Kings XI Punjab,,No result,176,6,120,20.0
+1216517,2020,3,Kings XI Punjab,,No result,5,2,6,1.0
+1216517,2020,4,Mumbai Indians,,No result,5,1,6,1.0
+1216517,2020,5,Mumbai Indians,,No result,11,1,6,1.0
+1216517,2020,6,Kings XI Punjab,,No result,15,0,4,0.4
+1216518,2020,1,Rajasthan Royals,Sunrisers Hyderabad,Loser,154,6,120,20.0
+1216518,2020,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,156,2,109,18.1
+1216519,2020,1,Delhi Capitals,Delhi Capitals,Winner,196,4,120,20.0
+1216519,2020,2,Royal Challengers Bangalore,Delhi Capitals,Loser,137,9,120,20.0
+1216520,2020,1,Kolkata Knight Riders,Kings XI Punjab,Loser,149,9,120,20.0
+1216520,2020,2,Kings XI Punjab,Kings XI Punjab,Winner,150,2,113,18.5
+1216521,2020,1,Chennai Super Kings,Mumbai Indians,Loser,114,9,120,20.0
+1216521,2020,2,Mumbai Indians,Mumbai Indians,Winner,116,0,74,12.2
+1216522,2020,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,177,6,120,20.0
+1216522,2020,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,179,3,118,19.4
+1216523,2020,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,164,6,120,20.0
+1216523,2020,2,Kings XI Punjab,Kolkata Knight Riders,Loser,162,5,120,20.0
+1216524,2020,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,219,2,120,20.0
+1216524,2020,2,Delhi Capitals,Sunrisers Hyderabad,Loser,131,10,114,19.0
+1216525,2020,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,169,4,120,20.0
+1216525,2020,2,Chennai Super Kings,Royal Challengers Bangalore,Loser,132,8,120,20.0
+1216526,2020,1,Kolkata Knight Riders,Mumbai Indians,Loser,148,5,120,20.0
+1216526,2020,2,Mumbai Indians,Mumbai Indians,Winner,149,2,101,16.5
+1216527,2020,1,Kings XI Punjab,Rajasthan Royals,Loser,223,2,120,20.0
+1216527,2020,2,Rajasthan Royals,Rajasthan Royals,Winner,226,6,117,19.3
+1216528,2020,1,Chennai Super Kings,Chennai Super Kings,Winner,167,6,120,20.0
+1216528,2020,2,Sunrisers Hyderabad,Chennai Super Kings,Loser,147,8,120,20.0
+1216529,2020,1,Delhi Capitals,Mumbai Indians,Loser,162,4,120,20.0
+1216529,2020,2,Mumbai Indians,Mumbai Indians,Winner,166,5,118,19.4
+1216530,2020,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,191,7,120,20.0
+1216530,2020,2,Rajasthan Royals,Kolkata Knight Riders,Loser,131,9,120,20.0
+1216531,2020,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,171,6,120,20.0
+1216531,2020,2,Kings XI Punjab,Kings XI Punjab,Winner,177,2,120,20.0
+1216532,2020,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,162,4,120,20.0
+1216532,2020,2,Delhi Capitals,Sunrisers Hyderabad,Loser,147,7,120,20.0
+1216533,2020,1,Chennai Super Kings,Rajasthan Royals,Loser,125,5,120,20.0
+1216533,2020,2,Rajasthan Royals,Rajasthan Royals,Winner,126,3,105,17.3
+1216534,2020,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,163,5,120,20.0
+1216534,2020,2,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,153,10,118,19.4
+1216535,2020,1,Delhi Capitals,Mumbai Indians,Loser,110,9,120,20.0
+1216535,2020,2,Mumbai Indians,Mumbai Indians,Winner,111,1,86,14.2
+1216536,2020,1,Kolkata Knight Riders,Chennai Super Kings,Loser,172,5,120,20.0
+1216536,2020,2,Chennai Super Kings,Chennai Super Kings,Winner,178,4,120,20.0
+1216537,2020,1,Kings XI Punjab,Rajasthan Royals,Loser,185,4,120,20.0
+1216537,2020,2,Rajasthan Royals,Rajasthan Royals,Winner,186,3,105,17.3
+1216538,2020,1,Mumbai Indians,Mumbai Indians,Winner,208,5,120,20.0
+1216538,2020,2,Sunrisers Hyderabad,Mumbai Indians,Loser,174,7,120,20.0
+1216539,2020,1,Delhi Capitals,Delhi Capitals,Winner,175,3,120,20.0
+1216539,2020,2,Chennai Super Kings,Delhi Capitals,Loser,131,7,120,20.0
+1216540,2020,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,194,2,120,20.0
+1216540,2020,2,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,112,9,120,20.0
+1216541,2020,1,Mumbai Indians,Rajasthan Royals,Loser,195,5,120,20.0
+1216541,2020,2,Rajasthan Royals,Rajasthan Royals,Winner,196,2,110,18.2
+1216542,2020,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,201,6,120,20.0
+1216542,2020,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,132,10,101,16.5
+1216543,2020,1,Delhi Capitals,Delhi Capitals,Winner,161,7,120,20.0
+1216543,2020,2,Rajasthan Royals,Delhi Capitals,Loser,148,8,120,20.0
+1216544,2020,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,145,6,120,20.0
+1216544,2020,2,Chennai Super Kings,Chennai Super Kings,Winner,150,2,112,18.4
+1216545,2020,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,142,4,120,20.0
+1216545,2020,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,145,3,108,18.0
+1216546,2020,1,Delhi Capitals,Kings XI Punjab,Loser,164,5,120,20.0
+1216546,2020,2,Kings XI Punjab,Kings XI Punjab,Winner,167,5,114,19.0
+1216547,2020,1,Royal Challengers Bangalore,,No result,201,3,120,20.0
+1216547,2020,2,Mumbai Indians,,No result,201,5,120,20.0
+1216547,2020,3,Mumbai Indians,,No result,7,1,6,1.0
+1216547,2020,4,Royal Challengers Bangalore,,No result,11,0,6,1.0
+1237177,2020,1,Mumbai Indians,Mumbai Indians,Winner,200,5,120,20.0
+1237177,2020,2,Delhi Capitals,Mumbai Indians,Loser,143,8,120,20.0
+1237178,2020,1,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,131,7,120,20.0
+1237178,2020,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,132,4,118,19.4
+1237180,2020,1,Delhi Capitals,Delhi Capitals,Winner,189,3,120,20.0
+1237180,2020,2,Sunrisers Hyderabad,Delhi Capitals,Loser,172,8,120,20.0
+1237181,2020,1,Delhi Capitals,Mumbai Indians,Loser,156,7,120,20.0
+1237181,2020,2,Mumbai Indians,Mumbai Indians,Winner,157,5,112,18.4
+1254058,2021,1,Mumbai Indians,Royal Challengers Bangalore,Loser,159,9,120,20.0
+1254058,2021,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,160,8,120,20.0
+1254059,2021,1,Chennai Super Kings,Delhi Capitals,Loser,188,7,120,20.0
+1254059,2021,2,Delhi Capitals,Delhi Capitals,Winner,190,3,112,18.4
+1254060,2021,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,187,6,120,20.0
+1254060,2021,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,177,5,120,20.0
+1254061,2021,1,Punjab Kings,Punjab Kings,Winner,221,6,120,20.0
+1254061,2021,2,Rajasthan Royals,Punjab Kings,Loser,217,7,120,20.0
+1254062,2021,1,Mumbai Indians,Mumbai Indians,Winner,152,10,120,20.0
+1254062,2021,2,Kolkata Knight Riders,Mumbai Indians,Loser,142,7,120,20.0
+1254063,2021,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,149,8,120,20.0
+1254063,2021,2,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,143,9,120,20.0
+1254064,2021,1,Delhi Capitals,Rajasthan Royals,Loser,147,8,120,20.0
+1254064,2021,2,Rajasthan Royals,Rajasthan Royals,Winner,150,7,118,19.4
+1254065,2021,1,Punjab Kings,Chennai Super Kings,Loser,106,8,120,20.0
+1254065,2021,2,Chennai Super Kings,Chennai Super Kings,Winner,107,4,94,15.4
+1254066,2021,1,Mumbai Indians,Mumbai Indians,Winner,150,5,120,20.0
+1254066,2021,2,Sunrisers Hyderabad,Mumbai Indians,Loser,137,10,118,19.4
+1254067,2021,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,204,4,120,20.0
+1254067,2021,2,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,166,8,120,20.0
+1254068,2021,1,Punjab Kings,Delhi Capitals,Loser,195,4,120,20.0
+1254068,2021,2,Delhi Capitals,Delhi Capitals,Winner,198,4,110,18.2
+1254069,2021,1,Chennai Super Kings,Chennai Super Kings,Winner,188,9,120,20.0
+1254069,2021,2,Rajasthan Royals,Chennai Super Kings,Loser,143,9,120,20.0
+1254070,2021,1,Mumbai Indians,Delhi Capitals,Loser,137,9,120,20.0
+1254070,2021,2,Delhi Capitals,Delhi Capitals,Winner,138,4,115,19.1
+1254071,2021,1,Punjab Kings,Sunrisers Hyderabad,Loser,120,10,118,19.4
+1254071,2021,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,121,1,112,18.4
+1254072,2021,1,Chennai Super Kings,Chennai Super Kings,Winner,220,3,120,20.0
+1254072,2021,2,Kolkata Knight Riders,Chennai Super Kings,Loser,202,10,115,19.1
+1254073,2021,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,177,9,120,20.0
+1254073,2021,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,181,0,99,16.3
+1254074,2021,1,Mumbai Indians,Punjab Kings,Loser,131,6,120,20.0
+1254074,2021,2,Punjab Kings,Punjab Kings,Winner,132,1,106,17.4
+1254075,2021,1,Kolkata Knight Riders,Rajasthan Royals,Loser,133,9,120,20.0
+1254075,2021,2,Rajasthan Royals,Rajasthan Royals,Winner,134,4,113,18.5
+1254076,2021,1,Chennai Super Kings,Chennai Super Kings,Winner,191,4,120,20.0
+1254076,2021,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,122,9,120,20.0
+1254077,2021,1,Delhi Capitals,,No result,159,4,120,20.0
+1254077,2021,2,Sunrisers Hyderabad,,No result,159,7,120,20.0
+1254077,2021,3,Sunrisers Hyderabad,,No result,7,0,6,1.0
+1254077,2021,4,Delhi Capitals,,No result,8,0,6,1.0
+1254078,2021,1,Punjab Kings,Kolkata Knight Riders,Loser,123,9,120,20.0
+1254078,2021,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,126,5,100,16.4
+1254079,2021,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,171,5,120,20.0
+1254079,2021,2,Delhi Capitals,Royal Challengers Bangalore,Loser,170,4,120,20.0
+1254080,2021,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,171,3,120,20.0
+1254080,2021,2,Chennai Super Kings,Chennai Super Kings,Winner,173,3,111,18.3
+1254081,2021,1,Rajasthan Royals,Mumbai Indians,Loser,171,4,120,20.0
+1254081,2021,2,Mumbai Indians,Mumbai Indians,Winner,172,3,111,18.3
+1254082,2021,1,Kolkata Knight Riders,Delhi Capitals,Loser,154,6,120,20.0
+1254082,2021,2,Delhi Capitals,Delhi Capitals,Winner,156,3,99,16.3
+1254083,2021,1,Punjab Kings,Punjab Kings,Winner,179,5,120,20.0
+1254083,2021,2,Royal Challengers Bangalore,Punjab Kings,Loser,145,8,120,20.0
+1254084,2021,1,Chennai Super Kings,Mumbai Indians,Loser,218,4,120,20.0
+1254084,2021,2,Mumbai Indians,Mumbai Indians,Winner,219,6,120,20.0
+1254085,2021,1,Rajasthan Royals,Rajasthan Royals,Winner,220,3,120,20.0
+1254085,2021,2,Sunrisers Hyderabad,Rajasthan Royals,Loser,165,8,120,20.0
+1254086,2021,1,Punjab Kings,Delhi Capitals,Loser,166,6,120,20.0
+1254086,2021,2,Delhi Capitals,Delhi Capitals,Winner,167,3,106,17.4
+1254087,2021,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,92,10,114,19.0
+1254087,2021,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,94,1,60,10.0
+1254088,2021,1,Mumbai Indians,Mumbai Indians,Winner,235,9,120,20.0
+1254088,2021,2,Sunrisers Hyderabad,Mumbai Indians,Loser,193,8,120,20.0
+1254089,2021,1,Chennai Super Kings,Rajasthan Royals,Loser,189,4,120,20.0
+1254089,2021,2,Rajasthan Royals,Rajasthan Royals,Winner,190,3,105,17.3
+1254090,2021,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,164,7,120,20.0
+1254090,2021,2,Punjab Kings,Royal Challengers Bangalore,Loser,158,6,120,20.0
+1254091,2021,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,134,7,120,20.0
+1254091,2021,2,Chennai Super Kings,Chennai Super Kings,Winner,139,4,118,19.4
+1254092,2021,1,Delhi Capitals,Kolkata Knight Riders,Loser,127,9,120,20.0
+1254092,2021,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,130,7,110,18.2
+1254093,2021,1,Rajasthan Royals,Mumbai Indians,Loser,90,9,120,20.0
+1254093,2021,2,Mumbai Indians,Mumbai Indians,Winner,94,2,50,8.2
+1254094,2021,1,Chennai Super Kings,Punjab Kings,Loser,134,6,120,20.0
+1254094,2021,2,Punjab Kings,Punjab Kings,Winner,139,4,78,13.0
+1254095,2021,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,141,7,120,20.0
+1254095,2021,2,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,137,6,120,20.0
+1254096,2021,1,Mumbai Indians,Kolkata Knight Riders,Loser,155,6,120,20.0
+1254096,2021,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,159,3,91,15.1
+1254097,2021,1,Delhi Capitals,Delhi Capitals,Winner,154,6,120,20.0
+1254097,2021,2,Rajasthan Royals,Delhi Capitals,Loser,121,6,120,20.0
+1254098,2021,1,Kolkata Knight Riders,Chennai Super Kings,Loser,171,6,120,20.0
+1254098,2021,2,Chennai Super Kings,Chennai Super Kings,Winner,172,8,120,20.0
+1254099,2021,1,Punjab Kings,Mumbai Indians,Loser,135,6,120,20.0
+1254099,2021,2,Mumbai Indians,Mumbai Indians,Winner,137,4,114,19.0
+1254100,2021,1,Rajasthan Royals,Sunrisers Hyderabad,Loser,164,5,120,20.0
+1254100,2021,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,167,3,111,18.3
+1254101,2021,1,Delhi Capitals,Royal Challengers Bangalore,Loser,164,5,120,20.0
+1254101,2021,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,166,3,120,20.0
+1254102,2021,1,Kolkata Knight Riders,Punjab Kings,Loser,165,7,120,20.0
+1254102,2021,2,Punjab Kings,Punjab Kings,Winner,168,5,117,19.3
+1254103,2021,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,149,9,120,20.0
+1254103,2021,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,153,3,103,17.1
+1254104,2021,1,Chennai Super Kings,Chennai Super Kings,Winner,156,7,120,20.0
+1254104,2021,2,Mumbai Indians,Chennai Super Kings,Loser,136,8,120,20.0
+1254105,2021,1,Sunrisers Hyderabad,Delhi Capitals,Loser,134,9,120,20.0
+1254105,2021,2,Delhi Capitals,Delhi Capitals,Winner,139,2,107,17.5
+1254106,2021,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,171,4,120,20.0
+1254106,2021,2,Rajasthan Royals,Kolkata Knight Riders,Loser,85,10,97,16.1
+1254107,2021,1,Punjab Kings,Punjab Kings,Winner,125,7,120,20.0
+1254107,2021,2,Sunrisers Hyderabad,Punjab Kings,Loser,120,7,120,20.0
+1254108,2021,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,165,6,120,20.0
+1254108,2021,2,Mumbai Indians,Royal Challengers Bangalore,Loser,111,10,109,18.1
+1254109,2021,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,115,8,120,20.0
+1254109,2021,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,119,4,118,19.4
+1254110,2021,1,Chennai Super Kings,Delhi Capitals,Loser,136,5,120,20.0
+1254110,2021,2,Delhi Capitals,Delhi Capitals,Winner,139,7,118,19.4
+1254111,2021,1,Rajasthan Royals,Rajasthan Royals,Winner,185,10,120,20.0
+1254111,2021,2,Punjab Kings,Rajasthan Royals,Loser,183,4,120,20.0
+1254112,2021,1,Mumbai Indians,Delhi Capitals,Loser,129,8,120,20.0
+1254112,2021,2,Delhi Capitals,Delhi Capitals,Winner,132,6,115,19.1
+1254113,2021,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,156,6,120,20.0
+1254113,2021,2,Chennai Super Kings,Chennai Super Kings,Winner,157,4,109,18.1
+1254114,2021,1,Delhi Capitals,Chennai Super Kings,Loser,172,5,120,20.0
+1254114,2021,2,Chennai Super Kings,Chennai Super Kings,Winner,173,6,118,19.4
+1254115,2021,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,138,7,120,20.0
+1254115,2021,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,139,6,118,19.4
+1254116,2021,1,Delhi Capitals,Kolkata Knight Riders,Loser,135,5,120,20.0
+1254116,2021,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,136,7,119,19.5
+1254117,2021,1,Chennai Super Kings,Chennai Super Kings,Winner,192,3,120,20.0
+1254117,2021,2,Kolkata Knight Riders,Chennai Super Kings,Loser,165,9,120,20.0
+1304047,2022,1,Chennai Super Kings,Kolkata Knight Riders,Loser,131,5,120,20.0
+1304047,2022,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,133,4,111,18.3
+1304048,2022,1,Mumbai Indians,Delhi Capitals,Loser,177,5,120,20.0
+1304048,2022,2,Delhi Capitals,Delhi Capitals,Winner,179,6,110,18.2
+1304049,2022,1,Royal Challengers Bangalore,Punjab Kings,Loser,205,2,120,20.0
+1304049,2022,2,Punjab Kings,Punjab Kings,Winner,208,5,114,19.0
+1304050,2022,1,Lucknow Super Giants,Gujarat Titans,Loser,158,6,120,20.0
+1304050,2022,2,Gujarat Titans,Gujarat Titans,Winner,161,5,118,19.4
+1304051,2022,1,Rajasthan Royals,Rajasthan Royals,Winner,210,6,120,20.0
+1304051,2022,2,Sunrisers Hyderabad,Rajasthan Royals,Loser,149,7,120,20.0
+1304052,2022,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,128,10,113,18.5
+1304052,2022,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,132,7,116,19.2
+1304053,2022,1,Chennai Super Kings,Lucknow Super Giants,Loser,210,7,120,20.0
+1304053,2022,2,Lucknow Super Giants,Lucknow Super Giants,Winner,211,4,117,19.3
+1304054,2022,1,Punjab Kings,Kolkata Knight Riders,Loser,137,10,110,18.2
+1304054,2022,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,141,4,87,14.3
+1304055,2022,1,Rajasthan Royals,Rajasthan Royals,Winner,193,8,120,20.0
+1304055,2022,2,Mumbai Indians,Rajasthan Royals,Loser,170,8,120,20.0
+1304056,2022,1,Gujarat Titans,Gujarat Titans,Winner,171,6,120,20.0
+1304056,2022,2,Delhi Capitals,Gujarat Titans,Loser,157,9,120,20.0
+1304057,2022,1,Punjab Kings,Punjab Kings,Winner,180,8,120,20.0
+1304057,2022,2,Chennai Super Kings,Punjab Kings,Loser,126,10,108,18.0
+1304058,2022,1,Lucknow Super Giants,Lucknow Super Giants,Winner,169,7,120,20.0
+1304058,2022,2,Sunrisers Hyderabad,Lucknow Super Giants,Loser,157,9,120,20.0
+1304059,2022,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,169,3,120,20.0
+1304059,2022,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,173,6,115,19.1
+1304060,2022,1,Mumbai Indians,Kolkata Knight Riders,Loser,161,4,120,20.0
+1304060,2022,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,162,5,96,16.0
+1304061,2022,1,Delhi Capitals,Lucknow Super Giants,Loser,149,3,120,20.0
+1304061,2022,2,Lucknow Super Giants,Lucknow Super Giants,Winner,155,4,118,19.4
+1304062,2022,1,Punjab Kings,Gujarat Titans,Loser,189,9,120,20.0
+1304062,2022,2,Gujarat Titans,Gujarat Titans,Winner,190,4,120,20.0
+1304063,2022,1,Chennai Super Kings,Sunrisers Hyderabad,Loser,154,7,120,20.0
+1304063,2022,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,155,2,106,17.4
+1304064,2022,1,Mumbai Indians,Royal Challengers Bangalore,Loser,151,6,120,20.0
+1304064,2022,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,152,3,111,18.3
+1304065,2022,1,Delhi Capitals,Delhi Capitals,Winner,215,5,120,20.0
+1304065,2022,2,Kolkata Knight Riders,Delhi Capitals,Loser,171,10,118,19.4
+1304066,2022,1,Rajasthan Royals,Rajasthan Royals,Winner,165,6,120,20.0
+1304066,2022,2,Lucknow Super Giants,Rajasthan Royals,Loser,162,8,120,20.0
+1304067,2022,1,Gujarat Titans,Sunrisers Hyderabad,Loser,162,7,120,20.0
+1304067,2022,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,168,3,115,19.1
+1304068,2022,1,Chennai Super Kings,Chennai Super Kings,Winner,216,4,120,20.0
+1304068,2022,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,193,9,120,20.0
+1304069,2022,1,Punjab Kings,Punjab Kings,Winner,198,5,120,20.0
+1304069,2022,2,Mumbai Indians,Punjab Kings,Loser,186,9,120,20.0
+1304070,2022,1,Gujarat Titans,Gujarat Titans,Winner,192,4,120,20.0
+1304070,2022,2,Rajasthan Royals,Gujarat Titans,Loser,155,9,120,20.0
+1304071,2022,1,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,175,8,120,20.0
+1304071,2022,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,176,3,107,17.5
+1304072,2022,1,Lucknow Super Giants,Lucknow Super Giants,Winner,199,4,120,20.0
+1304072,2022,2,Mumbai Indians,Lucknow Super Giants,Loser,181,9,120,20.0
+1304073,2022,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,189,5,120,20.0
+1304073,2022,2,Delhi Capitals,Royal Challengers Bangalore,Loser,173,7,120,20.0
+1304074,2022,1,Punjab Kings,Sunrisers Hyderabad,Loser,151,10,120,20.0
+1304074,2022,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,152,3,113,18.5
+1304075,2022,1,Chennai Super Kings,Gujarat Titans,Loser,169,5,120,20.0
+1304075,2022,2,Gujarat Titans,Gujarat Titans,Winner,170,7,119,19.5
+1304076,2022,1,Rajasthan Royals,Rajasthan Royals,Winner,217,5,120,20.0
+1304076,2022,2,Kolkata Knight Riders,Rajasthan Royals,Loser,210,10,118,19.4
+1304077,2022,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,181,6,120,20.0
+1304077,2022,2,Lucknow Super Giants,Royal Challengers Bangalore,Loser,163,8,120,20.0
+1304078,2022,1,Punjab Kings,Delhi Capitals,Loser,115,10,120,20.0
+1304078,2022,2,Delhi Capitals,Delhi Capitals,Winner,119,1,63,10.3
+1304079,2022,1,Mumbai Indians,Chennai Super Kings,Loser,155,7,120,20.0
+1304079,2022,2,Chennai Super Kings,Chennai Super Kings,Winner,156,7,120,20.0
+1304080,2022,1,Rajasthan Royals,Rajasthan Royals,Winner,222,2,120,20.0
+1304080,2022,2,Delhi Capitals,Rajasthan Royals,Loser,207,8,120,20.0
+1304081,2022,1,Gujarat Titans,Gujarat Titans,Winner,156,9,120,20.0
+1304081,2022,2,Kolkata Knight Riders,Gujarat Titans,Loser,148,8,120,20.0
+1304082,2022,1,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,68,10,97,16.1
+1304082,2022,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,72,1,48,8.0
+1304083,2022,1,Lucknow Super Giants,Lucknow Super Giants,Winner,168,6,120,20.0
+1304083,2022,2,Mumbai Indians,Lucknow Super Giants,Loser,132,8,120,20.0
+1304084,2022,1,Punjab Kings,Punjab Kings,Winner,187,4,120,20.0
+1304084,2022,2,Chennai Super Kings,Punjab Kings,Loser,176,6,120,20.0
+1304085,2022,1,Rajasthan Royals,Rajasthan Royals,Winner,144,8,120,20.0
+1304085,2022,2,Royal Challengers Bangalore,Rajasthan Royals,Loser,115,10,117,19.3
+1304086,2022,1,Sunrisers Hyderabad,Gujarat Titans,Loser,195,6,120,20.0
+1304086,2022,2,Gujarat Titans,Gujarat Titans,Winner,199,5,120,20.0
+1304087,2022,1,Kolkata Knight Riders,Delhi Capitals,Loser,146,9,120,20.0
+1304087,2022,2,Delhi Capitals,Delhi Capitals,Winner,150,6,114,19.0
+1304088,2022,1,Lucknow Super Giants,Lucknow Super Giants,Winner,153,8,120,20.0
+1304088,2022,2,Punjab Kings,Lucknow Super Giants,Loser,133,8,120,20.0
+1304089,2022,1,Royal Challengers Bangalore,Gujarat Titans,Loser,170,6,120,20.0
+1304089,2022,2,Gujarat Titans,Gujarat Titans,Winner,174,4,117,19.3
+1304090,2022,1,Rajasthan Royals,Mumbai Indians,Loser,158,6,120,20.0
+1304090,2022,2,Mumbai Indians,Mumbai Indians,Winner,161,5,116,19.2
+1304091,2022,1,Lucknow Super Giants,Lucknow Super Giants,Winner,195,3,120,20.0
+1304091,2022,2,Delhi Capitals,Lucknow Super Giants,Loser,189,7,120,20.0
+1304092,2022,1,Chennai Super Kings,Chennai Super Kings,Winner,202,2,120,20.0
+1304092,2022,2,Sunrisers Hyderabad,Chennai Super Kings,Loser,189,6,120,20.0
+1304093,2022,1,Rajasthan Royals,Kolkata Knight Riders,Loser,152,5,120,20.0
+1304093,2022,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,158,3,115,19.1
+1304094,2022,1,Gujarat Titans,Punjab Kings,Loser,143,8,120,20.0
+1304094,2022,2,Punjab Kings,Punjab Kings,Winner,145,2,96,16.0
+1304095,2022,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,173,8,120,20.0
+1304095,2022,2,Chennai Super Kings,Royal Challengers Bangalore,Loser,160,8,120,20.0
+1304096,2022,1,Delhi Capitals,Delhi Capitals,Winner,207,3,120,20.0
+1304096,2022,2,Sunrisers Hyderabad,Delhi Capitals,Loser,186,8,120,20.0
+1304097,2022,1,Mumbai Indians,Mumbai Indians,Winner,177,6,120,20.0
+1304097,2022,2,Gujarat Titans,Mumbai Indians,Loser,172,5,120,20.0
+1304098,2022,1,Punjab Kings,Rajasthan Royals,Loser,189,5,120,20.0
+1304098,2022,2,Rajasthan Royals,Rajasthan Royals,Winner,190,4,118,19.4
+1304099,2022,1,Lucknow Super Giants,Lucknow Super Giants,Winner,176,7,120,20.0
+1304099,2022,2,Kolkata Knight Riders,Lucknow Super Giants,Loser,101,10,87,14.3
+1304100,2022,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,192,3,120,20.0
+1304100,2022,2,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,125,10,116,19.2
+1304101,2022,1,Chennai Super Kings,Chennai Super Kings,Winner,208,6,120,20.0
+1304101,2022,2,Delhi Capitals,Chennai Super Kings,Loser,117,10,106,17.4
+1304102,2022,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,165,9,120,20.0
+1304102,2022,2,Mumbai Indians,Kolkata Knight Riders,Loser,113,10,105,17.3
+1304103,2022,1,Gujarat Titans,Gujarat Titans,Winner,144,4,120,20.0
+1304103,2022,2,Lucknow Super Giants,Gujarat Titans,Loser,82,10,83,13.5
+1304104,2022,1,Rajasthan Royals,Delhi Capitals,Loser,160,6,120,20.0
+1304104,2022,2,Delhi Capitals,Delhi Capitals,Winner,161,2,109,18.1
+1304105,2022,1,Chennai Super Kings,Mumbai Indians,Loser,97,10,96,16.0
+1304105,2022,2,Mumbai Indians,Mumbai Indians,Winner,103,5,89,14.5
+1304106,2022,1,Punjab Kings,Punjab Kings,Winner,209,9,120,20.0
+1304106,2022,2,Royal Challengers Bangalore,Punjab Kings,Loser,155,9,120,20.0
+1304107,2022,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,177,6,120,20.0
+1304107,2022,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,123,8,120,20.0
+1304108,2022,1,Chennai Super Kings,Gujarat Titans,Loser,133,5,120,20.0
+1304108,2022,2,Gujarat Titans,Gujarat Titans,Winner,137,3,115,19.1
+1304109,2022,1,Rajasthan Royals,Rajasthan Royals,Winner,178,6,120,20.0
+1304109,2022,2,Lucknow Super Giants,Rajasthan Royals,Loser,154,8,120,20.0
+1304110,2022,1,Delhi Capitals,Delhi Capitals,Winner,159,7,120,20.0
+1304110,2022,2,Punjab Kings,Delhi Capitals,Loser,142,9,120,20.0
+1304111,2022,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,193,6,120,20.0
+1304111,2022,2,Mumbai Indians,Sunrisers Hyderabad,Loser,190,7,120,20.0
+1304112,2022,1,Lucknow Super Giants,Lucknow Super Giants,Winner,210,0,120,20.0
+1304112,2022,2,Kolkata Knight Riders,Lucknow Super Giants,Loser,208,8,120,20.0
+1304113,2022,1,Gujarat Titans,Royal Challengers Bangalore,Loser,168,5,120,20.0
+1304113,2022,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,170,2,112,18.4
+1304114,2022,1,Chennai Super Kings,Rajasthan Royals,Loser,150,6,120,20.0
+1304114,2022,2,Rajasthan Royals,Rajasthan Royals,Winner,151,5,118,19.4
+1304115,2022,1,Delhi Capitals,Mumbai Indians,Loser,159,7,120,20.0
+1304115,2022,2,Mumbai Indians,Mumbai Indians,Winner,160,5,115,19.1
+1304116,2022,1,Sunrisers Hyderabad,Punjab Kings,Loser,157,8,120,20.0
+1304116,2022,2,Punjab Kings,Punjab Kings,Winner,160,5,91,15.1
+1312197,2022,1,Rajasthan Royals,Gujarat Titans,Loser,188,6,120,20.0
+1312197,2022,2,Gujarat Titans,Gujarat Titans,Winner,191,3,117,19.3
+1312198,2022,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,207,4,120,20.0
+1312198,2022,2,Lucknow Super Giants,Royal Challengers Bangalore,Loser,193,6,120,20.0
+1312199,2022,1,Royal Challengers Bangalore,Rajasthan Royals,Loser,157,8,120,20.0
+1312199,2022,2,Rajasthan Royals,Rajasthan Royals,Winner,161,3,109,18.1
+1312200,2022,1,Rajasthan Royals,Gujarat Titans,Loser,130,9,120,20.0
+1312200,2022,2,Gujarat Titans,Gujarat Titans,Winner,133,3,109,18.1
+1359475,2023,1,Chennai Super Kings,Gujarat Titans,Loser,178,7,120,20.0
+1359475,2023,2,Gujarat Titans,Gujarat Titans,Winner,182,5,116,19.2
+1359476,2023,1,Punjab Kings,Punjab Kings,Winner,191,5,120,20.0
+1359476,2023,2,Kolkata Knight Riders,Punjab Kings,Loser,146,7,96,16.0
+1359477,2023,1,Lucknow Super Giants,Lucknow Super Giants,Winner,193,6,120,20.0
+1359477,2023,2,Delhi Capitals,Lucknow Super Giants,Loser,143,9,120,20.0
+1359478,2023,1,Rajasthan Royals,Rajasthan Royals,Winner,203,5,120,20.0
+1359478,2023,2,Sunrisers Hyderabad,Rajasthan Royals,Loser,131,8,120,20.0
+1359479,2023,1,Mumbai Indians,Royal Challengers Bangalore,Loser,171,7,120,20.0
+1359479,2023,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,172,2,98,16.2
+1359480,2023,1,Chennai Super Kings,Chennai Super Kings,Winner,217,7,120,20.0
+1359480,2023,2,Lucknow Super Giants,Chennai Super Kings,Loser,205,7,120,20.0
+1359481,2023,1,Delhi Capitals,Gujarat Titans,Loser,162,8,120,20.0
+1359481,2023,2,Gujarat Titans,Gujarat Titans,Winner,163,4,109,18.1
+1359482,2023,1,Punjab Kings,Punjab Kings,Winner,197,5,120,20.0
+1359482,2023,2,Rajasthan Royals,Punjab Kings,Loser,192,7,120,20.0
+1359483,2023,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,204,7,120,20.0
+1359483,2023,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,123,10,106,17.4
+1359484,2023,1,Sunrisers Hyderabad,Lucknow Super Giants,Loser,121,8,120,20.0
+1359484,2023,2,Lucknow Super Giants,Lucknow Super Giants,Winner,127,5,96,16.0
+1359485,2023,1,Rajasthan Royals,Rajasthan Royals,Winner,199,4,120,20.0
+1359485,2023,2,Delhi Capitals,Rajasthan Royals,Loser,142,9,120,20.0
+1359486,2023,1,Mumbai Indians,Chennai Super Kings,Loser,157,8,120,20.0
+1359486,2023,2,Chennai Super Kings,Chennai Super Kings,Winner,159,3,109,18.1
+1359487,2023,1,Gujarat Titans,Kolkata Knight Riders,Loser,204,4,120,20.0
+1359487,2023,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,207,7,120,20.0
+1359488,2023,1,Punjab Kings,Sunrisers Hyderabad,Loser,143,9,120,20.0
+1359488,2023,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,145,2,103,17.1
+1359489,2023,1,Royal Challengers Bangalore,Lucknow Super Giants,Loser,212,2,120,20.0
+1359489,2023,2,Lucknow Super Giants,Lucknow Super Giants,Winner,213,9,120,20.0
+1359490,2023,1,Delhi Capitals,Mumbai Indians,Loser,172,10,118,19.4
+1359490,2023,2,Mumbai Indians,Mumbai Indians,Winner,173,4,120,20.0
+1359491,2023,1,Rajasthan Royals,Rajasthan Royals,Winner,175,8,120,20.0
+1359491,2023,2,Chennai Super Kings,Rajasthan Royals,Loser,172,6,120,20.0
+1359492,2023,1,Punjab Kings,Gujarat Titans,Loser,153,8,120,20.0
+1359492,2023,2,Gujarat Titans,Gujarat Titans,Winner,154,4,119,19.5
+1359493,2023,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,228,4,120,20.0
+1359493,2023,2,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,205,7,120,20.0
+1359494,2023,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,174,6,120,20.0
+1359494,2023,2,Delhi Capitals,Royal Challengers Bangalore,Loser,151,9,120,20.0
+1359495,2023,1,Lucknow Super Giants,Punjab Kings,Loser,159,8,120,20.0
+1359495,2023,2,Punjab Kings,Punjab Kings,Winner,161,8,117,19.3
+1359496,2023,1,Kolkata Knight Riders,Mumbai Indians,Loser,185,6,120,20.0
+1359496,2023,2,Mumbai Indians,Mumbai Indians,Winner,186,5,106,17.4
+1359497,2023,1,Gujarat Titans,Rajasthan Royals,Loser,177,7,120,20.0
+1359497,2023,2,Rajasthan Royals,Rajasthan Royals,Winner,179,7,116,19.2
+1359498,2023,1,Chennai Super Kings,Chennai Super Kings,Winner,226,6,120,20.0
+1359498,2023,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,218,8,120,20.0
+1359499,2023,1,Mumbai Indians,Mumbai Indians,Winner,192,5,120,20.0
+1359499,2023,2,Sunrisers Hyderabad,Mumbai Indians,Loser,178,10,119,19.5
+1359500,2023,1,Lucknow Super Giants,Lucknow Super Giants,Winner,154,7,120,20.0
+1359500,2023,2,Rajasthan Royals,Lucknow Super Giants,Loser,144,6,120,20.0
+1359501,2023,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,174,4,120,20.0
+1359501,2023,2,Punjab Kings,Royal Challengers Bangalore,Loser,150,10,110,18.2
+1359502,2023,1,Kolkata Knight Riders,Delhi Capitals,Loser,127,10,120,20.0
+1359502,2023,2,Delhi Capitals,Delhi Capitals,Winner,128,6,116,19.2
+1359503,2023,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,134,7,120,20.0
+1359503,2023,2,Chennai Super Kings,Chennai Super Kings,Winner,138,3,112,18.4
+1359504,2023,1,Gujarat Titans,Gujarat Titans,Winner,135,6,120,20.0
+1359504,2023,2,Lucknow Super Giants,Gujarat Titans,Loser,128,7,120,20.0
+1359505,2023,1,Punjab Kings,Punjab Kings,Winner,214,8,120,20.0
+1359505,2023,2,Mumbai Indians,Punjab Kings,Loser,201,6,120,20.0
+1359506,2023,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,189,9,120,20.0
+1359506,2023,2,Rajasthan Royals,Royal Challengers Bangalore,Loser,182,6,120,20.0
+1359507,2023,1,Chennai Super Kings,Chennai Super Kings,Winner,235,4,120,20.0
+1359507,2023,2,Kolkata Knight Riders,Chennai Super Kings,Loser,186,8,120,20.0
+1359508,2023,1,Delhi Capitals,Delhi Capitals,Winner,144,9,120,20.0
+1359508,2023,2,Sunrisers Hyderabad,Delhi Capitals,Loser,137,6,120,20.0
+1359509,2023,1,Gujarat Titans,Gujarat Titans,Winner,207,6,120,20.0
+1359509,2023,2,Mumbai Indians,Gujarat Titans,Loser,152,9,120,20.0
+1359510,2023,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,200,5,120,20.0
+1359510,2023,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,179,8,120,20.0
+1359511,2023,1,Rajasthan Royals,Rajasthan Royals,Winner,202,5,120,20.0
+1359511,2023,2,Chennai Super Kings,Rajasthan Royals,Loser,170,6,120,20.0
+1359512,2023,1,Lucknow Super Giants,Lucknow Super Giants,Winner,257,5,120,20.0
+1359512,2023,2,Punjab Kings,Lucknow Super Giants,Loser,201,10,119,19.5
+1359513,2023,1,Kolkata Knight Riders,Gujarat Titans,Loser,179,7,120,20.0
+1359513,2023,2,Gujarat Titans,Gujarat Titans,Winner,180,3,107,17.5
+1359514,2023,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,197,6,120,20.0
+1359514,2023,2,Delhi Capitals,Sunrisers Hyderabad,Loser,188,6,120,20.0
+1359515,2023,1,Chennai Super Kings,Punjab Kings,Loser,200,4,120,20.0
+1359515,2023,2,Punjab Kings,Punjab Kings,Winner,201,6,120,20.0
+1359516,2023,1,Rajasthan Royals,Mumbai Indians,Loser,212,7,120,20.0
+1359516,2023,2,Mumbai Indians,Mumbai Indians,Winner,214,4,117,19.3
+1359517,2023,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,126,9,120,20.0
+1359517,2023,2,Lucknow Super Giants,Royal Challengers Bangalore,Loser,108,10,119,19.5
+1359518,2023,1,Delhi Capitals,Delhi Capitals,Winner,130,8,120,20.0
+1359518,2023,2,Gujarat Titans,Delhi Capitals,Loser,125,6,120,20.0
+1359519,2023,1,Lucknow Super Giants,,No result,125,7,116,19.2
+1359520,2023,1,Punjab Kings,Mumbai Indians,Loser,214,3,120,20.0
+1359520,2023,2,Mumbai Indians,Mumbai Indians,Winner,216,4,113,18.5
+1359521,2023,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,171,9,120,20.0
+1359521,2023,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,166,8,120,20.0
+1359522,2023,1,Rajasthan Royals,Gujarat Titans,Loser,118,10,107,17.5
+1359522,2023,2,Gujarat Titans,Gujarat Titans,Winner,119,1,83,13.5
+1359523,2023,1,Mumbai Indians,Chennai Super Kings,Loser,139,8,120,20.0
+1359523,2023,2,Chennai Super Kings,Chennai Super Kings,Winner,140,4,106,17.4
+1359524,2023,1,Royal Challengers Bangalore,Delhi Capitals,Loser,181,4,120,20.0
+1359524,2023,2,Delhi Capitals,Delhi Capitals,Winner,187,3,100,16.4
+1359525,2023,1,Gujarat Titans,Gujarat Titans,Winner,227,2,120,20.0
+1359525,2023,2,Lucknow Super Giants,Gujarat Titans,Loser,171,7,120,20.0
+1359526,2023,1,Rajasthan Royals,Sunrisers Hyderabad,Loser,214,2,120,20.0
+1359526,2023,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,217,6,120,20.0
+1359527,2023,1,Punjab Kings,Kolkata Knight Riders,Loser,179,7,120,20.0
+1359527,2023,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,182,5,120,20.0
+1359528,2023,1,Royal Challengers Bangalore,Mumbai Indians,Loser,199,6,120,20.0
+1359528,2023,2,Mumbai Indians,Mumbai Indians,Winner,200,4,99,16.3
+1359529,2023,1,Chennai Super Kings,Chennai Super Kings,Winner,167,8,120,20.0
+1359529,2023,2,Delhi Capitals,Chennai Super Kings,Loser,140,8,120,20.0
+1359530,2023,1,Kolkata Knight Riders,Rajasthan Royals,Loser,149,8,120,20.0
+1359530,2023,2,Rajasthan Royals,Rajasthan Royals,Winner,151,1,79,13.1
+1359531,2023,1,Mumbai Indians,Mumbai Indians,Winner,218,5,120,20.0
+1359531,2023,2,Gujarat Titans,Mumbai Indians,Loser,191,8,120,20.0
+1359532,2023,1,Sunrisers Hyderabad,Lucknow Super Giants,Loser,182,6,120,20.0
+1359532,2023,2,Lucknow Super Giants,Lucknow Super Giants,Winner,185,3,116,19.2
+1359533,2023,1,Punjab Kings,Punjab Kings,Winner,167,7,120,20.0
+1359533,2023,2,Delhi Capitals,Punjab Kings,Loser,136,8,120,20.0
+1359534,2023,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,171,5,120,20.0
+1359534,2023,2,Rajasthan Royals,Royal Challengers Bangalore,Loser,59,10,63,10.3
+1359535,2023,1,Chennai Super Kings,Kolkata Knight Riders,Loser,144,6,120,20.0
+1359535,2023,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,147,4,111,18.3
+1359536,2023,1,Gujarat Titans,Gujarat Titans,Winner,188,9,120,20.0
+1359536,2023,2,Sunrisers Hyderabad,Gujarat Titans,Loser,154,9,120,20.0
+1359537,2023,1,Lucknow Super Giants,Lucknow Super Giants,Winner,177,4,120,20.0
+1359537,2023,2,Mumbai Indians,Lucknow Super Giants,Loser,172,5,120,20.0
+1359538,2023,1,Delhi Capitals,Delhi Capitals,Winner,213,2,120,20.0
+1359538,2023,2,Punjab Kings,Delhi Capitals,Loser,198,8,120,20.0
+1359539,2023,1,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,186,5,120,20.0
+1359539,2023,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,187,2,116,19.2
+1359540,2023,1,Punjab Kings,Rajasthan Royals,Loser,187,5,120,20.0
+1359540,2023,2,Rajasthan Royals,Rajasthan Royals,Winner,189,6,118,19.4
+1359541,2023,1,Chennai Super Kings,Chennai Super Kings,Winner,223,3,120,20.0
+1359541,2023,2,Delhi Capitals,Chennai Super Kings,Loser,146,9,120,20.0
+1359542,2023,1,Lucknow Super Giants,Lucknow Super Giants,Winner,176,8,120,20.0
+1359542,2023,2,Kolkata Knight Riders,Lucknow Super Giants,Loser,175,7,120,20.0
+1359543,2023,1,Sunrisers Hyderabad,Mumbai Indians,Loser,200,5,120,20.0
+1359543,2023,2,Mumbai Indians,Mumbai Indians,Winner,201,2,108,18.0
+1359544,2023,1,Royal Challengers Bangalore,Gujarat Titans,Loser,197,5,120,20.0
+1359544,2023,2,Gujarat Titans,Gujarat Titans,Winner,198,4,115,19.1
+1370350,2023,1,Chennai Super Kings,Chennai Super Kings,Winner,172,7,120,20.0
+1370350,2023,2,Gujarat Titans,Chennai Super Kings,Loser,157,10,120,20.0
+1370351,2023,1,Mumbai Indians,Mumbai Indians,Winner,182,8,120,20.0
+1370351,2023,2,Lucknow Super Giants,Mumbai Indians,Loser,101,10,99,16.3
+1370352,2023,1,Gujarat Titans,Gujarat Titans,Winner,233,3,120,20.0
+1370352,2023,2,Mumbai Indians,Gujarat Titans,Loser,171,10,110,18.2
+1370353,2023,1,Gujarat Titans,Chennai Super Kings,Loser,214,4,120,20.0
+1370353,2023,2,Chennai Super Kings,Chennai Super Kings,Winner,171,5,90,15.0
+1422119,2024,1,Royal Challengers Bengaluru,Chennai Super Kings,Loser,173,6,120,20.0
+1422119,2024,2,Chennai Super Kings,Chennai Super Kings,Winner,176,4,112,18.4
+1422120,2024,1,Delhi Capitals,Punjab Kings,Loser,174,9,120,20.0
+1422120,2024,2,Punjab Kings,Punjab Kings,Winner,177,6,116,19.2
+1422121,2024,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,208,7,120,20.0
+1422121,2024,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,204,7,120,20.0
+1422122,2024,1,Rajasthan Royals,Rajasthan Royals,Winner,193,4,120,20.0
+1422122,2024,2,Lucknow Super Giants,Rajasthan Royals,Loser,173,6,120,20.0
+1422123,2024,1,Gujarat Titans,Gujarat Titans,Winner,168,6,120,20.0
+1422123,2024,2,Mumbai Indians,Gujarat Titans,Loser,162,9,120,20.0
+1422124,2024,1,Punjab Kings,Royal Challengers Bengaluru,Loser,176,6,120,20.0
+1422124,2024,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,178,6,116,19.2
+1422125,2024,1,Chennai Super Kings,Chennai Super Kings,Winner,206,6,120,20.0
+1422125,2024,2,Gujarat Titans,Chennai Super Kings,Loser,143,8,120,20.0
+1422126,2024,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,277,3,120,20.0
+1422126,2024,2,Mumbai Indians,Sunrisers Hyderabad,Loser,246,5,120,20.0
+1422127,2024,1,Rajasthan Royals,Rajasthan Royals,Winner,185,5,120,20.0
+1422127,2024,2,Delhi Capitals,Rajasthan Royals,Loser,173,5,120,20.0
+1422128,2024,1,Royal Challengers Bengaluru,Kolkata Knight Riders,Loser,182,6,120,20.0
+1422128,2024,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,186,3,101,16.5
+1422129,2024,1,Lucknow Super Giants,Lucknow Super Giants,Winner,199,8,120,20.0
+1422129,2024,2,Punjab Kings,Lucknow Super Giants,Loser,178,5,120,20.0
+1422130,2024,1,Sunrisers Hyderabad,Gujarat Titans,Loser,162,8,120,20.0
+1422130,2024,2,Gujarat Titans,Gujarat Titans,Winner,168,3,115,19.1
+1422131,2024,1,Delhi Capitals,Delhi Capitals,Winner,191,5,120,20.0
+1422131,2024,2,Chennai Super Kings,Delhi Capitals,Loser,171,6,120,20.0
+1422132,2024,1,Mumbai Indians,Rajasthan Royals,Loser,125,9,120,20.0
+1422132,2024,2,Rajasthan Royals,Rajasthan Royals,Winner,127,4,93,15.3
+1422133,2024,1,Lucknow Super Giants,Lucknow Super Giants,Winner,181,5,120,20.0
+1422133,2024,2,Royal Challengers Bengaluru,Lucknow Super Giants,Loser,153,10,118,19.4
+1422134,2024,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,272,7,120,20.0
+1422134,2024,2,Delhi Capitals,Kolkata Knight Riders,Loser,166,10,104,17.2
+1422135,2024,1,Gujarat Titans,Punjab Kings,Loser,199,4,120,20.0
+1422135,2024,2,Punjab Kings,Punjab Kings,Winner,200,7,119,19.5
+1422136,2024,1,Chennai Super Kings,Sunrisers Hyderabad,Loser,165,5,120,20.0
+1422136,2024,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,166,4,109,18.1
+1422137,2024,1,Royal Challengers Bengaluru,Rajasthan Royals,Loser,183,3,120,20.0
+1422137,2024,2,Rajasthan Royals,Rajasthan Royals,Winner,189,4,115,19.1
+1422138,2024,1,Mumbai Indians,Mumbai Indians,Winner,234,5,120,20.0
+1422138,2024,2,Delhi Capitals,Mumbai Indians,Loser,205,8,120,20.0
+1422139,2024,1,Lucknow Super Giants,Lucknow Super Giants,Winner,163,5,120,20.0
+1422139,2024,2,Gujarat Titans,Lucknow Super Giants,Loser,130,10,113,18.5
+1426260,2024,1,Kolkata Knight Riders,Chennai Super Kings,Loser,137,9,120,20.0
+1426260,2024,2,Chennai Super Kings,Chennai Super Kings,Winner,141,3,106,17.4
+1426261,2024,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,182,9,120,20.0
+1426261,2024,2,Punjab Kings,Sunrisers Hyderabad,Loser,180,6,120,20.0
+1426262,2024,1,Rajasthan Royals,Gujarat Titans,Loser,196,3,120,20.0
+1426262,2024,2,Gujarat Titans,Gujarat Titans,Winner,199,7,120,20.0
+1426263,2024,1,Royal Challengers Bengaluru,Mumbai Indians,Loser,196,8,120,20.0
+1426263,2024,2,Mumbai Indians,Mumbai Indians,Winner,199,3,93,15.3
+1426264,2024,1,Lucknow Super Giants,Delhi Capitals,Loser,167,7,120,20.0
+1426264,2024,2,Delhi Capitals,Delhi Capitals,Winner,170,4,109,18.1
+1426265,2024,1,Punjab Kings,Rajasthan Royals,Loser,147,8,120,20.0
+1426265,2024,2,Rajasthan Royals,Rajasthan Royals,Winner,152,7,119,19.5
+1426266,2024,1,Lucknow Super Giants,Kolkata Knight Riders,Loser,161,7,120,20.0
+1426266,2024,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,162,2,94,15.4
+1426267,2024,1,Chennai Super Kings,Chennai Super Kings,Winner,206,4,120,20.0
+1426267,2024,2,Mumbai Indians,Chennai Super Kings,Loser,186,6,120,20.0
+1426268,2024,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,287,3,120,20.0
+1426268,2024,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,Loser,262,7,120,20.0
+1426269,2024,1,Kolkata Knight Riders,Rajasthan Royals,Loser,223,6,120,20.0
+1426269,2024,2,Rajasthan Royals,Rajasthan Royals,Winner,224,8,120,20.0
+1426270,2024,1,Gujarat Titans,Delhi Capitals,Loser,89,10,105,17.3
+1426270,2024,2,Delhi Capitals,Delhi Capitals,Winner,92,4,53,8.5
+1426271,2024,1,Mumbai Indians,Mumbai Indians,Winner,192,7,120,20.0
+1426271,2024,2,Punjab Kings,Mumbai Indians,Loser,183,10,115,19.1
+1426272,2024,1,Chennai Super Kings,Lucknow Super Giants,Loser,176,6,120,20.0
+1426272,2024,2,Lucknow Super Giants,Lucknow Super Giants,Winner,180,2,114,19.0
+1426273,2024,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,266,7,120,20.0
+1426273,2024,2,Delhi Capitals,Sunrisers Hyderabad,Loser,199,10,115,19.1
+1426274,2024,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,222,6,120,20.0
+1426274,2024,2,Royal Challengers Bengaluru,Kolkata Knight Riders,Loser,221,10,120,20.0
+1426275,2024,1,Punjab Kings,Gujarat Titans,Loser,142,10,120,20.0
+1426275,2024,2,Gujarat Titans,Gujarat Titans,Winner,146,7,115,19.1
+1426276,2024,1,Mumbai Indians,Rajasthan Royals,Loser,179,9,120,20.0
+1426276,2024,2,Rajasthan Royals,Rajasthan Royals,Winner,183,1,112,18.4
+1426277,2024,1,Chennai Super Kings,Lucknow Super Giants,Loser,210,4,120,20.0
+1426277,2024,2,Lucknow Super Giants,Lucknow Super Giants,Winner,213,4,117,19.3
+1426278,2024,1,Delhi Capitals,Delhi Capitals,Winner,224,4,120,20.0
+1426278,2024,2,Gujarat Titans,Delhi Capitals,Loser,220,8,120,20.0
+1426279,2024,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,206,7,120,20.0
+1426279,2024,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Loser,171,8,120,20.0
+1426280,2024,1,Kolkata Knight Riders,Punjab Kings,Loser,261,6,120,20.0
+1426280,2024,2,Punjab Kings,Punjab Kings,Winner,262,2,112,18.4
+1426281,2024,1,Delhi Capitals,Delhi Capitals,Winner,257,4,120,20.0
+1426281,2024,2,Mumbai Indians,Delhi Capitals,Loser,247,9,120,20.0
+1426282,2024,1,Lucknow Super Giants,Rajasthan Royals,Loser,196,5,120,20.0
+1426282,2024,2,Rajasthan Royals,Rajasthan Royals,Winner,199,3,114,19.0
+1426283,2024,1,Gujarat Titans,Royal Challengers Bengaluru,Loser,200,3,120,20.0
+1426283,2024,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,206,1,96,16.0
+1426284,2024,1,Chennai Super Kings,Chennai Super Kings,Winner,212,3,120,20.0
+1426284,2024,2,Sunrisers Hyderabad,Chennai Super Kings,Loser,134,10,113,18.5
+1426285,2024,1,Delhi Capitals,Kolkata Knight Riders,Loser,153,9,120,20.0
+1426285,2024,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,157,3,99,16.3
+1426286,2024,1,Mumbai Indians,Lucknow Super Giants,Loser,144,7,120,20.0
+1426286,2024,2,Lucknow Super Giants,Lucknow Super Giants,Winner,145,6,116,19.2
+1426287,2024,1,Chennai Super Kings,Punjab Kings,Loser,162,7,120,20.0
+1426287,2024,2,Punjab Kings,Punjab Kings,Winner,163,3,107,17.5
+1426288,2024,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,201,3,120,20.0
+1426288,2024,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,200,7,120,20.0
+1426289,2024,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,169,10,119,19.5
+1426289,2024,2,Mumbai Indians,Kolkata Knight Riders,Loser,145,10,113,18.5
+1426290,2024,1,Gujarat Titans,Royal Challengers Bengaluru,Loser,147,10,117,19.3
+1426290,2024,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,152,6,82,13.4
+1426291,2024,1,Chennai Super Kings,Chennai Super Kings,Winner,167,9,120,20.0
+1426291,2024,2,Punjab Kings,Chennai Super Kings,Loser,139,9,120,20.0
+1426292,2024,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,235,6,120,20.0
+1426292,2024,2,Lucknow Super Giants,Kolkata Knight Riders,Loser,137,10,97,16.1
+1426293,2024,1,Sunrisers Hyderabad,Mumbai Indians,Loser,173,8,120,20.0
+1426293,2024,2,Mumbai Indians,Mumbai Indians,Winner,174,3,104,17.2
+1426294,2024,1,Delhi Capitals,Delhi Capitals,Winner,221,8,120,20.0
+1426294,2024,2,Rajasthan Royals,Delhi Capitals,Loser,201,8,120,20.0
+1426295,2024,1,Lucknow Super Giants,Sunrisers Hyderabad,Loser,165,4,120,20.0
+1426295,2024,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,167,0,58,9.4
+1426296,2024,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,241,7,120,20.0
+1426296,2024,2,Punjab Kings,Royal Challengers Bengaluru,Loser,181,10,102,17.0
+1426297,2024,1,Gujarat Titans,Gujarat Titans,Winner,231,3,120,20.0
+1426297,2024,2,Chennai Super Kings,Gujarat Titans,Loser,196,8,120,20.0
+1426298,2024,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,157,7,96,16.0
+1426298,2024,2,Mumbai Indians,Kolkata Knight Riders,Loser,139,8,96,16.0
+1426299,2024,1,Rajasthan Royals,Chennai Super Kings,Loser,141,5,120,20.0
+1426299,2024,2,Chennai Super Kings,Chennai Super Kings,Winner,145,5,110,18.2
+1426300,2024,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,187,9,120,20.0
+1426300,2024,2,Delhi Capitals,Royal Challengers Bengaluru,Loser,140,10,115,19.1
+1426302,2024,1,Delhi Capitals,Delhi Capitals,Winner,208,4,120,20.0
+1426302,2024,2,Lucknow Super Giants,Delhi Capitals,Loser,189,9,120,20.0
+1426303,2024,1,Rajasthan Royals,Punjab Kings,Loser,144,9,120,20.0
+1426303,2024,2,Punjab Kings,Punjab Kings,Winner,145,5,113,18.5
+1426305,2024,1,Lucknow Super Giants,Lucknow Super Giants,Winner,214,6,120,20.0
+1426305,2024,2,Mumbai Indians,Lucknow Super Giants,Loser,196,6,120,20.0
+1426306,2024,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,218,5,120,20.0
+1426306,2024,2,Chennai Super Kings,Royal Challengers Bengaluru,Loser,191,7,120,20.0
+1426307,2024,1,Punjab Kings,Sunrisers Hyderabad,Loser,214,5,120,20.0
+1426307,2024,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,215,6,115,19.1
+1426309,2024,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,159,10,117,19.3
+1426309,2024,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,164,2,82,13.4
+1426310,2024,1,Royal Challengers Bengaluru,Rajasthan Royals,Loser,172,8,120,20.0
+1426310,2024,2,Rajasthan Royals,Rajasthan Royals,Winner,174,6,114,19.0
+1426311,2024,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,175,9,120,20.0
+1426311,2024,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,139,7,120,20.0
+1426312,2024,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,113,10,111,18.3
+1426312,2024,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,114,2,63,10.3
+1473438,2025,1,Kolkata Knight Riders,Royal Challengers Bengaluru,Loser,174,8,120,20.0
+1473438,2025,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,177,3,98,16.2
+1473439,2025,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,286,6,120,20.0
+1473439,2025,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,242,6,120,20.0
+1473440,2025,1,Mumbai Indians,Chennai Super Kings,Loser,155,9,120,20.0
+1473440,2025,2,Chennai Super Kings,Chennai Super Kings,Winner,158,6,115,19.1
+1473441,2025,1,Lucknow Super Giants,Delhi Capitals,Loser,209,8,120,20.0
+1473441,2025,2,Delhi Capitals,Delhi Capitals,Winner,211,9,117,19.3
+1473442,2025,1,Punjab Kings,Punjab Kings,Winner,243,5,120,20.0
+1473442,2025,2,Gujarat Titans,Punjab Kings,Loser,232,5,120,20.0
+1473443,2025,1,Rajasthan Royals,Kolkata Knight Riders,Loser,151,9,120,20.0
+1473443,2025,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,153,2,105,17.3
+1473444,2025,1,Sunrisers Hyderabad,Lucknow Super Giants,Loser,190,9,120,20.0
+1473444,2025,2,Lucknow Super Giants,Lucknow Super Giants,Winner,193,5,97,16.1
+1473445,2025,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,196,7,120,20.0
+1473445,2025,2,Chennai Super Kings,Royal Challengers Bengaluru,Loser,146,8,120,20.0
+1473446,2025,1,Gujarat Titans,Gujarat Titans,Winner,196,8,120,20.0
+1473446,2025,2,Mumbai Indians,Gujarat Titans,Loser,160,6,120,20.0
+1473447,2025,1,Sunrisers Hyderabad,Delhi Capitals,Loser,163,10,112,18.4
+1473447,2025,2,Delhi Capitals,Delhi Capitals,Winner,166,3,96,16.0
+1473448,2025,1,Rajasthan Royals,Rajasthan Royals,Winner,182,9,120,20.0
+1473448,2025,2,Chennai Super Kings,Rajasthan Royals,Loser,176,6,120,20.0
+1473449,2025,1,Kolkata Knight Riders,Mumbai Indians,Loser,116,10,98,16.2
+1473449,2025,2,Mumbai Indians,Mumbai Indians,Winner,121,2,77,12.5
+1473450,2025,1,Lucknow Super Giants,Punjab Kings,Loser,171,7,120,20.0
+1473450,2025,2,Punjab Kings,Punjab Kings,Winner,177,2,98,16.2
+1473451,2025,1,Royal Challengers Bengaluru,Gujarat Titans,Loser,169,8,120,20.0
+1473451,2025,2,Gujarat Titans,Gujarat Titans,Winner,170,2,107,17.5
+1473452,2025,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,200,6,120,20.0
+1473452,2025,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,120,10,100,16.4
+1473453,2025,1,Lucknow Super Giants,Lucknow Super Giants,Winner,203,8,120,20.0
+1473453,2025,2,Mumbai Indians,Lucknow Super Giants,Loser,191,5,120,20.0
+1473454,2025,1,Delhi Capitals,Delhi Capitals,Winner,183,6,120,20.0
+1473454,2025,2,Chennai Super Kings,Delhi Capitals,Loser,158,5,120,20.0
+1473455,2025,1,Rajasthan Royals,Rajasthan Royals,Winner,205,4,120,20.0
+1473455,2025,2,Punjab Kings,Rajasthan Royals,Loser,155,9,120,20.0
+1473456,2025,1,Lucknow Super Giants,Lucknow Super Giants,Winner,238,3,120,20.0
+1473456,2025,2,Kolkata Knight Riders,Lucknow Super Giants,Loser,234,7,120,20.0
+1473457,2025,1,Sunrisers Hyderabad,Gujarat Titans,Loser,152,8,120,20.0
+1473457,2025,2,Gujarat Titans,Gujarat Titans,Winner,153,3,100,16.4
+1473458,2025,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,221,5,120,20.0
+1473458,2025,2,Mumbai Indians,Royal Challengers Bengaluru,Loser,209,9,120,20.0
+1473459,2025,1,Punjab Kings,Punjab Kings,Winner,219,6,120,20.0
+1473459,2025,2,Chennai Super Kings,Punjab Kings,Loser,201,5,120,20.0
+1473460,2025,1,Gujarat Titans,Gujarat Titans,Winner,217,6,120,20.0
+1473460,2025,2,Rajasthan Royals,Gujarat Titans,Loser,159,10,116,19.2
+1473461,2025,1,Royal Challengers Bengaluru,Delhi Capitals,Loser,163,7,120,20.0
+1473461,2025,2,Delhi Capitals,Delhi Capitals,Winner,169,4,107,17.5
+1473462,2025,1,Chennai Super Kings,Kolkata Knight Riders,Loser,103,9,120,20.0
+1473462,2025,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,107,2,61,10.1
+1473463,2025,1,Gujarat Titans,Lucknow Super Giants,Loser,180,6,120,20.0
+1473463,2025,2,Lucknow Super Giants,Lucknow Super Giants,Winner,186,4,117,19.3
+1473464,2025,1,Punjab Kings,Sunrisers Hyderabad,Loser,245,6,120,20.0
+1473464,2025,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,247,2,111,18.3
+1473465,2025,1,Rajasthan Royals,Royal Challengers Bengaluru,Loser,173,4,120,20.0
+1473465,2025,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,175,1,105,17.3
+1473466,2025,1,Mumbai Indians,Mumbai Indians,Winner,205,5,120,20.0
+1473466,2025,2,Delhi Capitals,Mumbai Indians,Loser,193,10,114,19.0
+1473467,2025,1,Lucknow Super Giants,Chennai Super Kings,Loser,166,7,120,20.0
+1473467,2025,2,Chennai Super Kings,Chennai Super Kings,Winner,168,5,117,19.3
+1473468,2025,1,Punjab Kings,Punjab Kings,Winner,111,10,93,15.3
+1473468,2025,2,Kolkata Knight Riders,Punjab Kings,Loser,95,10,91,15.1
+1473469,2025,1,Delhi Capitals,,No result,188,5,120,20.0
+1473469,2025,2,Rajasthan Royals,,No result,188,5,120,20.0
+1473469,2025,3,Rajasthan Royals,,No result,11,2,5,0.5
+1473469,2025,4,Delhi Capitals,,No result,13,0,4,0.4
+1473470,2025,1,Sunrisers Hyderabad,Mumbai Indians,Loser,162,5,120,20.0
+1473470,2025,2,Mumbai Indians,Mumbai Indians,Winner,166,6,109,18.1
+1473471,2025,1,Royal Challengers Bengaluru,Punjab Kings,Loser,95,9,84,14.0
+1473471,2025,2,Punjab Kings,Punjab Kings,Winner,98,5,73,12.1
+1473472,2025,1,Delhi Capitals,Gujarat Titans,Loser,203,8,120,20.0
+1473472,2025,2,Gujarat Titans,Gujarat Titans,Winner,204,3,116,19.2
+1473473,2025,1,Lucknow Super Giants,Lucknow Super Giants,Winner,180,5,120,20.0
+1473473,2025,2,Rajasthan Royals,Lucknow Super Giants,Loser,178,5,120,20.0
+1473474,2025,1,Punjab Kings,Royal Challengers Bengaluru,Loser,157,6,120,20.0
+1473474,2025,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,159,3,113,18.5
+1473475,2025,1,Chennai Super Kings,Mumbai Indians,Loser,176,5,120,20.0
+1473475,2025,2,Mumbai Indians,Mumbai Indians,Winner,177,1,94,15.4
+1473476,2025,1,Gujarat Titans,Gujarat Titans,Winner,198,3,120,20.0
+1473476,2025,2,Kolkata Knight Riders,Gujarat Titans,Loser,159,8,120,20.0
+1473477,2025,1,Lucknow Super Giants,Delhi Capitals,Loser,159,6,120,20.0
+1473477,2025,2,Delhi Capitals,Delhi Capitals,Winner,161,2,107,17.5
+1473478,2025,1,Sunrisers Hyderabad,Mumbai Indians,Loser,143,8,120,20.0
+1473478,2025,2,Mumbai Indians,Mumbai Indians,Winner,146,3,94,15.4
+1473479,2025,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,205,5,120,20.0
+1473479,2025,2,Rajasthan Royals,Royal Challengers Bengaluru,Loser,194,9,120,20.0
+1473480,2025,1,Chennai Super Kings,Sunrisers Hyderabad,Loser,154,10,119,19.5
+1473480,2025,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,155,5,112,18.4
+1473481,2025,1,Punjab Kings,,No result,201,4,120,20.0
+1473481,2025,2,Kolkata Knight Riders,,No result,7,0,6,1.0
+1473482,2025,1,Mumbai Indians,Mumbai Indians,Winner,215,7,120,20.0
+1473482,2025,2,Lucknow Super Giants,Mumbai Indians,Loser,161,10,120,20.0
+1473483,2025,1,Delhi Capitals,Royal Challengers Bengaluru,Loser,162,8,120,20.0
+1473483,2025,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,165,4,111,18.3
+1473484,2025,1,Gujarat Titans,Rajasthan Royals,Loser,209,4,120,20.0
+1473484,2025,2,Rajasthan Royals,Rajasthan Royals,Winner,212,2,95,15.5
+1473485,2025,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,204,9,120,20.0
+1473485,2025,2,Delhi Capitals,Kolkata Knight Riders,Loser,190,9,120,20.0
+1473486,2025,1,Chennai Super Kings,Punjab Kings,Loser,190,10,116,19.2
+1473486,2025,2,Punjab Kings,Punjab Kings,Winner,194,6,118,19.4
+1473487,2025,1,Mumbai Indians,Mumbai Indians,Winner,217,2,120,20.0
+1473487,2025,2,Rajasthan Royals,Mumbai Indians,Loser,117,10,97,16.1
+1473488,2025,1,Gujarat Titans,Gujarat Titans,Winner,224,6,120,20.0
+1473488,2025,2,Sunrisers Hyderabad,Gujarat Titans,Loser,186,6,120,20.0
+1473489,2025,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,213,5,120,20.0
+1473489,2025,2,Chennai Super Kings,Royal Challengers Bengaluru,Loser,211,5,120,20.0
+1473490,2025,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,206,4,120,20.0
+1473490,2025,2,Rajasthan Royals,Kolkata Knight Riders,Loser,205,8,120,20.0
+1473491,2025,1,Punjab Kings,Punjab Kings,Winner,236,5,120,20.0
+1473491,2025,2,Lucknow Super Giants,Punjab Kings,Loser,199,7,120,20.0
+1473492,2025,1,Delhi Capitals,,No result,133,7,120,20.0
+1473493,2025,1,Mumbai Indians,Gujarat Titans,Loser,155,8,120,20.0
+1473493,2025,2,Gujarat Titans,Gujarat Titans,Winner,147,7,114,19.0
+1473494,2025,1,Kolkata Knight Riders,Chennai Super Kings,Loser,179,6,120,20.0
+1473494,2025,2,Chennai Super Kings,Chennai Super Kings,Winner,183,8,118,19.4
+1473495,2025,1,Punjab Kings,,No result,122,1,61,10.1
+1473497,2025,1,Punjab Kings,Punjab Kings,Winner,219,5,120,20.0
+1473497,2025,2,Rajasthan Royals,Punjab Kings,Loser,209,7,120,20.0
+1473498,2025,1,Delhi Capitals,Gujarat Titans,Loser,199,3,120,20.0
+1473498,2025,2,Gujarat Titans,Gujarat Titans,Winner,205,0,114,19.0
+1473499,2025,1,Lucknow Super Giants,Sunrisers Hyderabad,Loser,205,7,120,20.0
+1473499,2025,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,206,5,110,18.2
+1473500,2025,1,Chennai Super Kings,Rajasthan Royals,Loser,187,8,120,20.0
+1473500,2025,2,Rajasthan Royals,Rajasthan Royals,Winner,188,4,103,17.1
+1473501,2025,1,Mumbai Indians,Mumbai Indians,Winner,180,5,120,20.0
+1473501,2025,2,Delhi Capitals,Mumbai Indians,Loser,121,10,110,18.2
+1473502,2025,1,Lucknow Super Giants,Lucknow Super Giants,Winner,235,2,120,20.0
+1473502,2025,2,Gujarat Titans,Lucknow Super Giants,Loser,202,9,120,20.0
+1473503,2025,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,231,6,120,20.0
+1473503,2025,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,Loser,189,10,119,19.5
+1473504,2025,1,Chennai Super Kings,Chennai Super Kings,Winner,230,5,120,20.0
+1473504,2025,2,Gujarat Titans,Chennai Super Kings,Loser,147,10,111,18.3
+1473505,2025,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,278,3,120,20.0
+1473505,2025,2,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,168,10,112,18.4
+1473506,2025,1,Mumbai Indians,Punjab Kings,Loser,184,7,120,20.0
+1473506,2025,2,Punjab Kings,Punjab Kings,Winner,187,3,111,18.3
+1473507,2025,1,Lucknow Super Giants,Royal Challengers Bengaluru,Loser,227,3,120,20.0
+1473507,2025,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,230,4,112,18.4
+1473508,2025,1,Punjab Kings,Royal Challengers Bengaluru,Loser,101,10,85,14.1
+1473508,2025,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,106,2,60,10.0
+1473509,2025,1,Mumbai Indians,Mumbai Indians,Winner,228,5,120,20.0
+1473509,2025,2,Gujarat Titans,Mumbai Indians,Loser,208,6,120,20.0
+1473510,2025,1,Mumbai Indians,Punjab Kings,Loser,203,6,120,20.0
+1473510,2025,2,Punjab Kings,Punjab Kings,Winner,207,5,114,19.0
+1473511,2025,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,190,9,120,20.0
+1473511,2025,2,Punjab Kings,Royal Challengers Bengaluru,Loser,184,7,120,20.0
+1485779,2025,1,Punjab Kings,Delhi Capitals,Loser,206,8,120,20.0
+1485779,2025,2,Delhi Capitals,Delhi Capitals,Winner,208,4,117,19.3
+1527674,2026,1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Loser,201,9,120,20.0
+1527674,2026,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,203,4,94,15.4
+1527675,2026,1,Kolkata Knight Riders,Mumbai Indians,Loser,220,4,120,20.0
+1527675,2026,2,Mumbai Indians,Mumbai Indians,Winner,224,4,115,19.1
+1527676,2026,1,Chennai Super Kings,Rajasthan Royals,Loser,127,10,118,19.4
+1527676,2026,2,Rajasthan Royals,Rajasthan Royals,Winner,128,2,73,12.1
+1527677,2026,1,Gujarat Titans,Punjab Kings,Loser,162,6,120,20.0
+1527677,2026,2,Punjab Kings,Punjab Kings,Winner,165,7,115,19.1
+1527678,2026,1,Lucknow Super Giants,Delhi Capitals,Loser,141,10,112,18.4
+1527678,2026,2,Delhi Capitals,Delhi Capitals,Winner,145,4,103,17.1
+1527679,2026,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,226,8,120,20.0
+1527679,2026,2,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,161,10,96,16.0
+1527680,2026,1,Chennai Super Kings,Punjab Kings,Loser,209,5,120,20.0
+1527680,2026,2,Punjab Kings,Punjab Kings,Winner,210,5,112,18.4
+1527681,2026,1,Mumbai Indians,Delhi Capitals,Loser,162,6,120,20.0
+1527681,2026,2,Delhi Capitals,Delhi Capitals,Winner,164,4,109,18.1
+1527682,2026,1,Rajasthan Royals,Rajasthan Royals,Winner,210,6,120,20.0
+1527682,2026,2,Gujarat Titans,Rajasthan Royals,Loser,204,8,120,20.0
+1527683,2026,1,Sunrisers Hyderabad,Lucknow Super Giants,Loser,156,9,120,20.0
+1527683,2026,2,Lucknow Super Giants,Lucknow Super Giants,Winner,160,5,119,19.5
+1527684,2026,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,250,3,120,20.0
+1527684,2026,2,Chennai Super Kings,Royal Challengers Bengaluru,Loser,207,10,118,19.4
+1527685,2026,1,Kolkata Knight Riders,,No result,25,2,22,3.4
+1527686,2026,1,Rajasthan Royals,Rajasthan Royals,Winner,150,3,66,11.0
+1527686,2026,2,Mumbai Indians,Rajasthan Royals,Loser,123,9,66,11.0
+1527687,2026,1,Gujarat Titans,Gujarat Titans,Winner,210,4,120,20.0
+1527687,2026,2,Delhi Capitals,Gujarat Titans,Loser,209,8,120,20.0
+1527688,2026,1,Kolkata Knight Riders,Lucknow Super Giants,Loser,181,4,120,20.0
+1527688,2026,2,Lucknow Super Giants,Lucknow Super Giants,Winner,182,7,120,20.0
+1527689,2026,1,Royal Challengers Bengaluru,Rajasthan Royals,Loser,201,8,120,20.0
+1527689,2026,2,Rajasthan Royals,Rajasthan Royals,Winner,202,4,108,18.0
+1527690,2026,1,Sunrisers Hyderabad,Punjab Kings,Loser,219,6,120,20.0
+1527690,2026,2,Punjab Kings,Punjab Kings,Winner,223,4,113,18.5
+1527691,2026,1,Chennai Super Kings,Chennai Super Kings,Winner,212,2,120,20.0
+1527691,2026,2,Delhi Capitals,Chennai Super Kings,Loser,189,10,120,20.0
+1527692,2026,1,Lucknow Super Giants,Gujarat Titans,Loser,164,8,120,20.0
+1527692,2026,2,Gujarat Titans,Gujarat Titans,Winner,165,3,112,18.4
+1527693,2026,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,240,4,120,20.0
+1527693,2026,2,Mumbai Indians,Royal Challengers Bengaluru,Loser,222,6,120,20.0
+1529264,2026,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,216,6,120,20.0
+1529264,2026,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,159,10,114,19.0
+1529265,2026,1,Chennai Super Kings,Chennai Super Kings,Winner,192,5,120,20.0
+1529265,2026,2,Kolkata Knight Riders,Chennai Super Kings,Loser,160,7,120,20.0
+1529266,2026,1,Lucknow Super Giants,Royal Challengers Bengaluru,Loser,146,10,120,20.0
+1529266,2026,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,149,5,91,15.1
+1529267,2026,1,Mumbai Indians,Punjab Kings,Loser,195,6,120,20.0
+1529267,2026,2,Punjab Kings,Punjab Kings,Winner,198,3,99,16.3
+1529268,2026,1,Kolkata Knight Riders,Gujarat Titans,Loser,180,10,120,20.0
+1529268,2026,2,Gujarat Titans,Gujarat Titans,Winner,181,5,118,19.4
+1529269,2026,1,Royal Challengers Bengaluru,Delhi Capitals,Loser,175,8,120,20.0
+1529269,2026,2,Delhi Capitals,Delhi Capitals,Winner,179,5,119,19.5
+1529270,2026,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,194,9,120,20.0
+1529270,2026,2,Chennai Super Kings,Sunrisers Hyderabad,Loser,184,8,120,20.0
+1529271,2026,1,Rajasthan Royals,Kolkata Knight Riders,Loser,155,9,120,20.0
+1529271,2026,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,161,6,118,19.4
+1529272,2026,1,Punjab Kings,Punjab Kings,Winner,254,7,120,20.0
+1529272,2026,2,Lucknow Super Giants,Punjab Kings,Loser,200,5,120,20.0
+1529273,2026,1,Mumbai Indians,Mumbai Indians,Winner,199,5,120,20.0
+1529273,2026,2,Gujarat Titans,Mumbai Indians,Loser,100,10,95,15.5
+1529274,2026,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,242,2,120,20.0
+1529274,2026,2,Delhi Capitals,Sunrisers Hyderabad,Loser,195,9,120,20.0
+1529275,2026,1,Rajasthan Royals,Rajasthan Royals,Winner,159,6,120,20.0
+1529275,2026,2,Lucknow Super Giants,Rajasthan Royals,Loser,119,10,108,18.0
+1529276,2026,1,Chennai Super Kings,Chennai Super Kings,Winner,207,6,120,20.0
+1529276,2026,2,Mumbai Indians,Chennai Super Kings,Loser,104,10,114,19.0
+1529277,2026,1,Gujarat Titans,Royal Challengers Bengaluru,Loser,205,3,120,20.0
+1529277,2026,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,206,5,113,18.5
+1529278,2026,1,Delhi Capitals,Punjab Kings,Loser,264,2,120,20.0
+1529278,2026,2,Punjab Kings,Punjab Kings,Winner,265,4,113,18.5
+1529279,2026,1,Rajasthan Royals,Sunrisers Hyderabad,Loser,228,6,120,20.0
+1529279,2026,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,229,5,111,18.3
+1529280,2026,1,Chennai Super Kings,Gujarat Titans,Loser,158,7,120,20.0
+1529280,2026,2,Gujarat Titans,Gujarat Titans,Winner,162,2,100,16.4
+1529281,2026,1,Kolkata Knight Riders,,No result,155,7,120,20.0
+1529281,2026,2,Lucknow Super Giants,,No result,155,8,120,20.0
+1529281,2026,3,Lucknow Super Giants,,No result,1,2,3,0.3
+1529281,2026,4,Kolkata Knight Riders,,No result,4,0,1,0.1
+1529282,2026,1,Delhi Capitals,Royal Challengers Bengaluru,Loser,75,10,99,16.3
+1529282,2026,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,77,1,39,6.3
+1529283,2026,1,Punjab Kings,Rajasthan Royals,Loser,222,4,120,20.0
+1529283,2026,2,Rajasthan Royals,Rajasthan Royals,Winner,228,4,116,19.2
+1529284,2026,1,Mumbai Indians,Sunrisers Hyderabad,Loser,243,5,120,20.0
+1529284,2026,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,249,4,112,18.4
+1529285,2026,1,Royal Challengers Bengaluru,Gujarat Titans,Loser,155,10,116,19.2
+1529285,2026,2,Gujarat Titans,Gujarat Titans,Winner,158,6,95,15.5
+1529286,2026,1,Rajasthan Royals,Delhi Capitals,Loser,225,6,120,20.0
+1529286,2026,2,Delhi Capitals,Delhi Capitals,Winner,226,3,115,19.1
+1529287,2026,1,Mumbai Indians,Chennai Super Kings,Loser,159,7,120,20.0
+1529287,2026,2,Chennai Super Kings,Chennai Super Kings,Winner,160,2,109,18.1
+1529288,2026,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,165,10,114,19.0
+1529288,2026,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,169,3,110,18.2
+1529289,2026,1,Punjab Kings,Gujarat Titans,Loser,163,9,120,20.0
+1529289,2026,2,Gujarat Titans,Gujarat Titans,Winner,167,6,119,19.5
+1529290,2026,1,Lucknow Super Giants,Mumbai Indians,Loser,228,5,120,20.0
+1529290,2026,2,Mumbai Indians,Mumbai Indians,Winner,229,4,112,18.4
+1529291,2026,1,Delhi Capitals,Chennai Super Kings,Loser,155,7,120,20.0
+1529291,2026,2,Chennai Super Kings,Chennai Super Kings,Winner,159,2,105,17.3
+1529292,2026,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,235,4,120,20.0
+1529292,2026,2,Punjab Kings,Sunrisers Hyderabad,Loser,202,7,120,20.0
+1529293,2026,1,Lucknow Super Giants,Lucknow Super Giants,Winner,209,3,114,19.0
+1529293,2026,2,Royal Challengers Bengaluru,Lucknow Super Giants,Loser,203,6,114,19.0
+1529294,2026,1,Delhi Capitals,Kolkata Knight Riders,Loser,142,8,120,20.0
+1529294,2026,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,147,2,86,14.2
+1529295,2026,1,Gujarat Titans,Gujarat Titans,Winner,229,4,120,20.0
+1529295,2026,2,Rajasthan Royals,Gujarat Titans,Loser,152,10,99,16.3
+1529296,2026,1,Lucknow Super Giants,Chennai Super Kings,Loser,203,8,120,20.0
+1529296,2026,2,Chennai Super Kings,Chennai Super Kings,Winner,208,5,116,19.2
+1529297,2026,1,Mumbai Indians,Royal Challengers Bengaluru,Loser,166,7,120,20.0
+1529297,2026,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,167,8,120,20.0
+1529298,2026,1,Punjab Kings,Delhi Capitals,Loser,210,5,120,20.0
+1529298,2026,2,Delhi Capitals,Delhi Capitals,Winner,216,7,114,19.0
+1529299,2026,1,Gujarat Titans,Gujarat Titans,Winner,168,5,120,20.0
+1529299,2026,2,Sunrisers Hyderabad,Gujarat Titans,Loser,86,10,89,14.5
+1529300,2026,1,Kolkata Knight Riders,Royal Challengers Bengaluru,Loser,192,4,120,20.0
+1529300,2026,2,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,194,4,115,19.1
+1529301,2026,1,Punjab Kings,Mumbai Indians,Loser,200,8,120,20.0
+1529301,2026,2,Mumbai Indians,Mumbai Indians,Winner,205,4,119,19.5
+1529302,2026,1,Chennai Super Kings,Lucknow Super Giants,Loser,187,5,120,20.0
+1529302,2026,2,Lucknow Super Giants,Lucknow Super Giants,Winner,188,3,100,16.4
+1529303,2026,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,247,2,120,20.0
+1529303,2026,2,Gujarat Titans,Kolkata Knight Riders,Loser,218,4,120,20.0
+1529304,2026,1,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Winner,222,4,120,20.0
+1529304,2026,2,Punjab Kings,Royal Challengers Bengaluru,Loser,199,8,120,20.0
+1529305,2026,1,Rajasthan Royals,Delhi Capitals,Loser,193,8,120,20.0
+1529305,2026,2,Delhi Capitals,Delhi Capitals,Winner,197,5,116,19.2
+1529306,2026,1,Chennai Super Kings,Sunrisers Hyderabad,Loser,180,7,120,20.0
+1529306,2026,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,181,5,114,19.0
+1529307,2026,1,Lucknow Super Giants,Rajasthan Royals,Loser,220,5,120,20.0
+1529307,2026,2,Rajasthan Royals,Rajasthan Royals,Winner,225,3,115,19.1
+1529308,2026,1,Mumbai Indians,Kolkata Knight Riders,Loser,147,8,120,20.0
+1529308,2026,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,148,6,113,18.5
+1529309,2026,1,Gujarat Titans,Gujarat Titans,Winner,229,4,120,20.0
+1529309,2026,2,Chennai Super Kings,Gujarat Titans,Loser,140,10,82,13.4
+1529310,2026,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,255,4,120,20.0
+1529310,2026,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,Loser,200,4,120,20.0
+1529311,2026,1,Lucknow Super Giants,Punjab Kings,Loser,196,6,120,20.0
+1529311,2026,2,Punjab Kings,Punjab Kings,Winner,200,3,108,18.0
+1529312,2026,1,Rajasthan Royals,Rajasthan Royals,Winner,205,8,120,20.0
+1529312,2026,2,Mumbai Indians,Rajasthan Royals,Loser,175,9,120,20.0
+1529313,2026,1,Delhi Capitals,Delhi Capitals,Winner,203,5,120,20.0
+1529313,2026,2,Kolkata Knight Riders,Delhi Capitals,Loser,163,10,112,18.4
+335982,2007,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,222,3,120,20.0
+335982,2007,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,82,10,91,15.1
+335983,2007,1,Chennai Super Kings,Chennai Super Kings,Winner,240,5,120,20.0
+335983,2007,2,Kings XI Punjab,Chennai Super Kings,Loser,207,4,120,20.0
+335984,2007,1,Rajasthan Royals,Delhi Daredevils,Loser,129,8,120,20.0
+335984,2007,2,Delhi Daredevils,Delhi Daredevils,Winner,132,1,91,15.1
+335985,2007,1,Mumbai Indians,Royal Challengers Bangalore,Loser,165,7,120,20.0
+335985,2007,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,166,5,118,19.4
+335986,2007,1,Deccan Chargers,Kolkata Knight Riders,Loser,110,10,112,18.4
+335986,2007,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,112,5,114,19.0
+335987,2007,1,Kings XI Punjab,Rajasthan Royals,Loser,166,8,119,19.5
+335987,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,168,4,109,18.1
+335988,2007,1,Deccan Chargers,Delhi Daredevils,Loser,142,8,120,20.0
+335988,2007,2,Delhi Daredevils,Delhi Daredevils,Winner,143,1,78,13.0
+335989,2007,1,Chennai Super Kings,Chennai Super Kings,Winner,208,5,120,20.0
+335989,2007,2,Mumbai Indians,Chennai Super Kings,Loser,202,7,120,20.0
+335990,2007,1,Deccan Chargers,Rajasthan Royals,Loser,214,5,120,20.0
+335990,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,217,7,119,19.5
+335991,2007,1,Kings XI Punjab,Kings XI Punjab,Winner,182,10,120,20.0
+335991,2007,2,Mumbai Indians,Kings XI Punjab,Loser,116,9,120,20.0
+335992,2007,1,Royal Challengers Bangalore,Rajasthan Royals,Loser,135,8,120,20.0
+335992,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,138,3,103,17.1
+335993,2007,1,Kolkata Knight Riders,Chennai Super Kings,Loser,147,9,120,20.0
+335993,2007,2,Chennai Super Kings,Chennai Super Kings,Winner,152,1,102,17.0
+335994,2007,1,Mumbai Indians,Deccan Chargers,Loser,154,7,120,20.0
+335994,2007,2,Deccan Chargers,Deccan Chargers,Winner,155,0,73,12.1
+335995,2007,1,Delhi Daredevils,Kings XI Punjab,Loser,158,8,120,20.0
+335995,2007,2,Kings XI Punjab,Kings XI Punjab,Winner,162,6,117,19.3
+335996,2007,1,Chennai Super Kings,Chennai Super Kings,Winner,178,5,120,20.0
+335996,2007,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,165,10,118,19.4
+335997,2007,1,Kolkata Knight Riders,Mumbai Indians,Loser,137,8,120,20.0
+335997,2007,2,Mumbai Indians,Mumbai Indians,Winner,138,3,112,18.4
+335998,2007,1,Delhi Daredevils,Delhi Daredevils,Winner,191,5,120,20.0
+335998,2007,2,Royal Challengers Bangalore,Delhi Daredevils,Loser,181,5,120,20.0
+335999,2007,1,Deccan Chargers,Kings XI Punjab,Loser,164,8,120,20.0
+335999,2007,2,Kings XI Punjab,Kings XI Punjab,Winner,167,3,113,18.5
+336000,2007,1,Rajasthan Royals,Rajasthan Royals,Winner,196,7,120,20.0
+336000,2007,2,Kolkata Knight Riders,Rajasthan Royals,Loser,151,10,115,19.1
+336001,2007,1,Chennai Super Kings,Delhi Daredevils,Loser,169,6,120,20.0
+336001,2007,2,Delhi Daredevils,Delhi Daredevils,Winner,172,2,114,19.0
+336002,2007,1,Deccan Chargers,Royal Challengers Bangalore,Loser,165,10,120,20.0
+336002,2007,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,171,5,114,19.0
+336003,2007,1,Kings XI Punjab,Kings XI Punjab,Winner,178,6,120,20.0
+336003,2007,2,Kolkata Knight Riders,Kings XI Punjab,Loser,169,6,120,20.0
+336004,2007,1,Mumbai Indians,Mumbai Indians,Winner,162,8,120,20.0
+336004,2007,2,Delhi Daredevils,Mumbai Indians,Loser,133,10,113,18.5
+336005,2007,1,Chennai Super Kings,Rajasthan Royals,Loser,109,10,114,19.0
+336005,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,110,2,86,14.2
+336006,2007,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,126,10,116,19.2
+336006,2007,2,Kings XI Punjab,Kings XI Punjab,Winner,127,4,110,18.2
+336007,2007,1,Chennai Super Kings,Deccan Chargers,Loser,144,7,120,20.0
+336007,2007,2,Deccan Chargers,Deccan Chargers,Winner,148,3,108,18.0
+336008,2007,1,Rajasthan Royals,Mumbai Indians,Loser,103,10,98,16.2
+336008,2007,2,Mumbai Indians,Mumbai Indians,Winner,104,3,91,15.1
+336009,2007,1,Delhi Daredevils,Chennai Super Kings,Loser,187,5,120,20.0
+336009,2007,2,Chennai Super Kings,Chennai Super Kings,Winner,188,6,120,20.0
+336010,2007,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,129,7,96,16.0
+336010,2007,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,124,4,96,16.0
+336011,2007,1,Deccan Chargers,Rajasthan Royals,Loser,140,8,120,20.0
+336011,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,141,2,96,16.0
+336012,2007,1,Royal Challengers Bangalore,Mumbai Indians,Loser,122,9,108,18.0
+336012,2007,2,Mumbai Indians,Mumbai Indians,Winner,126,1,96,16.0
+336013,2007,1,Chennai Super Kings,Chennai Super Kings,Winner,181,4,120,20.0
+336013,2007,2,Kings XI Punjab,Chennai Super Kings,Loser,163,9,120,20.0
+336014,2007,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,204,4,120,20.0
+336014,2007,2,Deccan Chargers,Kolkata Knight Riders,Loser,181,7,120,20.0
+336015,2007,1,Delhi Daredevils,Rajasthan Royals,Loser,156,7,120,20.0
+336015,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,159,7,114,19.0
+336016,2007,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,143,8,120,20.0
+336016,2007,2,Kings XI Punjab,Kings XI Punjab,Winner,144,1,94,15.4
+336017,2007,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,133,6,120,20.0
+336017,2007,2,Delhi Daredevils,Kolkata Knight Riders,Loser,110,10,107,17.5
+336018,2007,1,Chennai Super Kings,Mumbai Indians,Loser,156,6,120,20.0
+336018,2007,2,Mumbai Indians,Mumbai Indians,Winner,158,1,83,13.5
+336019,2007,1,Kings XI Punjab,Kings XI Punjab,Winner,221,3,120,20.0
+336019,2007,2,Rajasthan Royals,Kings XI Punjab,Loser,180,7,120,20.0
+336020,2007,1,Delhi Daredevils,Delhi Daredevils,Winner,194,4,120,20.0
+336020,2007,2,Deccan Chargers,Delhi Daredevils,Loser,182,9,120,20.0
+336021,2007,1,Kolkata Knight Riders,Mumbai Indians,Loser,67,10,92,15.2
+336021,2007,2,Mumbai Indians,Mumbai Indians,Winner,68,2,33,5.3
+336022,2007,1,Delhi Daredevils,Kings XI Punjab,Loser,118,4,66,11.0
+336022,2007,2,Kings XI Punjab,Kings XI Punjab,Winner,94,3,48,8.0
+336023,2007,1,Rajasthan Royals,Rajasthan Royals,Winner,197,1,120,20.0
+336023,2007,2,Royal Challengers Bangalore,Rajasthan Royals,Loser,132,9,120,20.0
+336024,2007,1,Mumbai Indians,Mumbai Indians,Winner,178,7,120,20.0
+336024,2007,2,Deccan Chargers,Mumbai Indians,Loser,153,7,120,20.0
+336025,2007,1,Kolkata Knight Riders,Chennai Super Kings,Loser,149,5,120,20.0
+336025,2007,2,Chennai Super Kings,Chennai Super Kings,Winner,55,0,48,8.0
+336026,2007,1,Royal Challengers Bangalore,Delhi Daredevils,Loser,154,7,120,20.0
+336026,2007,2,Delhi Daredevils,Delhi Daredevils,Winner,158,5,110,18.2
+336027,2007,1,Kolkata Knight Riders,Rajasthan Royals,Loser,147,8,120,20.0
+336027,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,150,4,99,16.3
+336028,2007,1,Kings XI Punjab,Kings XI Punjab,Winner,189,4,120,20.0
+336028,2007,2,Mumbai Indians,Kings XI Punjab,Loser,188,10,120,20.0
+336029,2007,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,126,8,120,20.0
+336029,2007,2,Chennai Super Kings,Royal Challengers Bangalore,Loser,112,8,120,20.0
+336031,2007,1,Deccan Chargers,Kings XI Punjab,Loser,175,4,120,20.0
+336031,2007,2,Kings XI Punjab,Kings XI Punjab,Winner,178,4,117,19.3
+336032,2007,1,Mumbai Indians,Delhi Daredevils,Loser,176,8,120,20.0
+336032,2007,2,Delhi Daredevils,Delhi Daredevils,Winner,179,5,119,19.5
+336033,2007,1,Rajasthan Royals,Rajasthan Royals,Winner,211,5,120,20.0
+336033,2007,2,Chennai Super Kings,Rajasthan Royals,Loser,201,7,120,20.0
+336034,2007,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,156,8,120,20.0
+336034,2007,2,Deccan Chargers,Royal Challengers Bangalore,Loser,153,6,120,20.0
+336035,2007,1,Kings XI Punjab,Kolkata Knight Riders,Loser,174,6,120,20.0
+336035,2007,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,175,7,118,19.4
+336036,2007,1,Mumbai Indians,Rajasthan Royals,Loser,145,7,120,20.0
+336036,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,146,5,120,20.0
+336037,2007,1,Deccan Chargers,Chennai Super Kings,Loser,147,8,120,20.0
+336037,2007,2,Chennai Super Kings,Chennai Super Kings,Winner,148,3,116,19.2
+336038,2007,1,Rajasthan Royals,Rajasthan Royals,Winner,192,9,120,20.0
+336038,2007,2,Delhi Daredevils,Rajasthan Royals,Loser,87,10,97,16.1
+336039,2007,1,Kings XI Punjab,Chennai Super Kings,Loser,112,8,120,20.0
+336039,2007,2,Chennai Super Kings,Chennai Super Kings,Winner,116,1,89,14.5
+336040,2007,1,Chennai Super Kings,Rajasthan Royals,Loser,163,5,120,20.0
+336040,2007,2,Rajasthan Royals,Rajasthan Royals,Winner,164,7,120,20.0
+392181,2009,1,Mumbai Indians,Mumbai Indians,Winner,165,7,120,20.0
+392181,2009,2,Chennai Super Kings,Mumbai Indians,Loser,146,7,120,20.0
+392182,2009,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,133,8,120,20.0
+392182,2009,2,Rajasthan Royals,Royal Challengers Bangalore,Loser,58,10,91,15.1
+392183,2009,1,Kings XI Punjab,Delhi Daredevils,Loser,104,7,72,12.0
+392183,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,58,0,29,4.5
+392184,2009,1,Kolkata Knight Riders,Deccan Chargers,Loser,101,10,118,19.4
+392184,2009,2,Deccan Chargers,Deccan Chargers,Winner,104,2,79,13.1
+392185,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,179,5,120,20.0
+392185,2009,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,87,10,92,15.2
+392186,2009,1,Kings XI Punjab,Kolkata Knight Riders,Loser,158,6,120,20.0
+392186,2009,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,79,1,56,9.2
+392188,2009,1,Deccan Chargers,Deccan Chargers,Winner,184,6,120,20.0
+392188,2009,2,Royal Challengers Bangalore,Deccan Chargers,Loser,160,8,120,20.0
+392189,2009,1,Delhi Daredevils,Delhi Daredevils,Winner,189,5,120,20.0
+392189,2009,2,Chennai Super Kings,Delhi Daredevils,Loser,180,9,120,20.0
+392190,2009,1,Rajasthan Royals,,No result,150,6,120,20.0
+392190,2009,2,Kolkata Knight Riders,,No result,150,8,120,20.0
+392190,2009,3,Kolkata Knight Riders,,No result,15,1,6,1.0
+392190,2009,4,Rajasthan Royals,,No result,18,0,4,0.4
+392191,2009,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,168,9,120,20.0
+392191,2009,2,Kings XI Punjab,Kings XI Punjab,Winner,173,3,114,19.0
+392192,2009,1,Deccan Chargers,Deccan Chargers,Winner,168,9,120,20.0
+392192,2009,2,Mumbai Indians,Deccan Chargers,Loser,156,7,120,20.0
+392194,2009,1,Royal Challengers Bangalore,Delhi Daredevils,Loser,149,7,120,20.0
+392194,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,150,4,116,19.2
+392195,2009,1,Kings XI Punjab,Kings XI Punjab,Winner,139,6,120,20.0
+392195,2009,2,Rajasthan Royals,Kings XI Punjab,Loser,112,7,120,20.0
+392196,2009,1,Chennai Super Kings,Deccan Chargers,Loser,165,6,120,20.0
+392196,2009,2,Deccan Chargers,Deccan Chargers,Winner,169,4,117,19.3
+392197,2009,1,Mumbai Indians,Mumbai Indians,Winner,187,6,120,20.0
+392197,2009,2,Kolkata Knight Riders,Mumbai Indians,Loser,95,9,92,15.2
+392198,2009,1,Delhi Daredevils,Rajasthan Royals,Loser,143,7,120,20.0
+392198,2009,2,Rajasthan Royals,Rajasthan Royals,Winner,147,5,112,18.4
+392199,2009,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,139,6,120,20.0
+392199,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,143,5,119,19.5
+392200,2009,1,Kings XI Punjab,Kings XI Punjab,Winner,119,8,120,20.0
+392200,2009,2,Mumbai Indians,Kings XI Punjab,Loser,116,7,120,20.0
+392201,2009,1,Deccan Chargers,Delhi Daredevils,Loser,148,9,120,20.0
+392201,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,150,4,112,18.4
+392202,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,164,5,120,20.0
+392202,2009,2,Rajasthan Royals,Chennai Super Kings,Loser,126,9,117,19.3
+392203,2009,1,Mumbai Indians,Mumbai Indians,Winner,148,6,120,20.0
+392203,2009,2,Kolkata Knight Riders,Mumbai Indians,Loser,139,6,120,20.0
+392204,2009,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,145,9,120,20.0
+392204,2009,2,Kings XI Punjab,Royal Challengers Bangalore,Loser,137,7,120,20.0
+392205,2009,1,Deccan Chargers,Rajasthan Royals,Loser,141,5,120,20.0
+392205,2009,2,Rajasthan Royals,Rajasthan Royals,Winner,142,7,118,19.4
+392206,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,163,10,120,20.0
+392206,2009,2,Delhi Daredevils,Chennai Super Kings,Loser,145,8,120,20.0
+392207,2009,1,Kolkata Knight Riders,Kings XI Punjab,Loser,153,3,120,20.0
+392207,2009,2,Kings XI Punjab,Kings XI Punjab,Winner,154,4,120,20.0
+392208,2009,1,Mumbai Indians,Royal Challengers Bangalore,Loser,149,4,120,20.0
+392208,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,150,1,109,18.1
+392209,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,178,3,120,20.0
+392209,2009,2,Deccan Chargers,Chennai Super Kings,Loser,100,10,88,14.4
+392210,2009,1,Rajasthan Royals,Rajasthan Royals,Winner,211,4,120,20.0
+392210,2009,2,Kings XI Punjab,Rajasthan Royals,Loser,133,8,120,20.0
+392211,2009,1,Kolkata Knight Riders,Delhi Daredevils,Loser,154,3,120,20.0
+392211,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,157,1,114,19.0
+392212,2009,1,Deccan Chargers,Deccan Chargers,Winner,145,6,120,20.0
+392212,2009,2,Mumbai Indians,Deccan Chargers,Loser,126,8,120,20.0
+392213,2009,1,Royal Challengers Bangalore,Rajasthan Royals,Loser,105,10,120,20.0
+392213,2009,2,Rajasthan Royals,Rajasthan Royals,Winner,107,3,90,15.0
+392214,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,185,3,108,18.0
+392214,2009,2,Kings XI Punjab,Chennai Super Kings,Loser,174,3,108,18.0
+392215,2009,1,Mumbai Indians,Delhi Daredevils,Loser,116,10,120,20.0
+392215,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,118,3,113,18.5
+392216,2009,1,Deccan Chargers,Kings XI Punjab,Loser,168,5,120,20.0
+392216,2009,2,Kings XI Punjab,Kings XI Punjab,Winner,169,7,119,19.5
+392217,2009,1,Rajasthan Royals,Chennai Super Kings,Loser,140,7,120,20.0
+392217,2009,2,Chennai Super Kings,Chennai Super Kings,Winner,141,3,110,18.2
+392218,2009,1,Mumbai Indians,Mumbai Indians,Winner,157,2,120,20.0
+392218,2009,2,Royal Challengers Bangalore,Mumbai Indians,Loser,141,7,120,20.0
+392219,2009,1,Kolkata Knight Riders,Delhi Daredevils,Loser,123,8,120,20.0
+392219,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,125,3,103,17.1
+392220,2009,1,Deccan Chargers,Deccan Chargers,Winner,166,7,120,20.0
+392220,2009,2,Rajasthan Royals,Deccan Chargers,Loser,113,10,117,19.3
+392221,2009,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,173,4,120,20.0
+392221,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,176,4,116,19.2
+392222,2009,1,Kings XI Punjab,Mumbai Indians,Loser,119,9,120,20.0
+392222,2009,2,Mumbai Indians,Mumbai Indians,Winner,122,2,98,16.2
+392223,2009,1,Delhi Daredevils,Delhi Daredevils,Winner,173,7,120,20.0
+392223,2009,2,Deccan Chargers,Delhi Daredevils,Loser,161,10,118,19.4
+392224,2009,1,Chennai Super Kings,Royal Challengers Bangalore,Loser,129,10,118,19.4
+392224,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,132,8,118,19.4
+392225,2009,1,Rajasthan Royals,Rajasthan Royals,Winner,145,7,120,20.0
+392225,2009,2,Mumbai Indians,Rajasthan Royals,Loser,143,10,119,19.5
+392226,2009,1,Delhi Daredevils,Kings XI Punjab,Loser,120,9,120,20.0
+392226,2009,2,Kings XI Punjab,Kings XI Punjab,Winner,123,4,115,19.1
+392227,2009,1,Mumbai Indians,Chennai Super Kings,Loser,147,5,120,20.0
+392227,2009,2,Chennai Super Kings,Chennai Super Kings,Winner,151,3,115,19.1
+392228,2009,1,Kolkata Knight Riders,Deccan Chargers,Loser,160,5,120,20.0
+392228,2009,2,Deccan Chargers,Deccan Chargers,Winner,166,4,120,20.0
+392229,2009,1,Kings XI Punjab,Kings XI Punjab,Winner,134,7,120,20.0
+392229,2009,2,Deccan Chargers,Kings XI Punjab,Loser,133,8,120,20.0
+392230,2009,1,Delhi Daredevils,Delhi Daredevils,Winner,150,3,120,20.0
+392230,2009,2,Rajasthan Royals,Delhi Daredevils,Loser,136,9,120,20.0
+392231,2009,1,Chennai Super Kings,Kolkata Knight Riders,Loser,188,3,120,20.0
+392231,2009,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,189,3,120,20.0
+392232,2009,1,Delhi Daredevils,Royal Challengers Bangalore,Loser,134,7,120,20.0
+392232,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,135,3,114,19.0
+392233,2009,1,Rajasthan Royals,Kolkata Knight Riders,Loser,101,9,120,20.0
+392233,2009,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,102,6,117,19.3
+392234,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,116,9,120,20.0
+392234,2009,2,Kings XI Punjab,Chennai Super Kings,Loser,92,8,120,20.0
+392235,2009,1,Mumbai Indians,Delhi Daredevils,Loser,165,8,120,20.0
+392235,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,166,6,105,17.3
+392236,2009,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,170,4,120,20.0
+392236,2009,2,Deccan Chargers,Royal Challengers Bangalore,Loser,158,6,120,20.0
+392237,2009,1,Delhi Daredevils,Deccan Chargers,Loser,153,8,120,20.0
+392237,2009,2,Deccan Chargers,Deccan Chargers,Winner,154,4,106,17.4
+392238,2009,1,Chennai Super Kings,Royal Challengers Bangalore,Loser,146,5,120,20.0
+392238,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,149,4,113,18.5
+392239,2009,1,Deccan Chargers,Deccan Chargers,Winner,143,6,120,20.0
+392239,2009,2,Royal Challengers Bangalore,Deccan Chargers,Loser,137,9,120,20.0
+419106,2009,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,161,4,120,20.0
+419106,2009,2,Deccan Chargers,Kolkata Knight Riders,Loser,150,7,120,20.0
+419107,2009,1,Mumbai Indians,Mumbai Indians,Winner,212,7,120,20.0
+419107,2009,2,Rajasthan Royals,Mumbai Indians,Loser,208,7,120,20.0
+419108,2009,1,Kings XI Punjab,Delhi Daredevils,Loser,142,9,120,20.0
+419108,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,146,5,119,19.5
+419109,2009,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,135,7,120,20.0
+419109,2009,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,136,3,116,19.2
+419110,2009,1,Deccan Chargers,Deccan Chargers,Winner,190,4,120,20.0
+419110,2009,2,Chennai Super Kings,Deccan Chargers,Loser,159,9,120,20.0
+419111,2009,1,Rajasthan Royals,Delhi Daredevils,Loser,141,6,120,20.0
+419111,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,142,4,103,17.1
+419112,2009,1,Kings XI Punjab,Royal Challengers Bangalore,Loser,203,3,120,20.0
+419112,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,204,2,113,18.5
+419113,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,164,3,120,20.0
+419113,2009,2,Kolkata Knight Riders,Chennai Super Kings,Loser,109,10,116,19.2
+419114,2009,1,Mumbai Indians,Mumbai Indians,Winner,218,7,120,20.0
+419114,2009,2,Delhi Daredevils,Mumbai Indians,Loser,120,9,99,16.3
+419115,2009,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,92,10,119,19.5
+419115,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,93,0,64,10.4
+419116,2009,1,Delhi Daredevils,Chennai Super Kings,Loser,185,6,120,20.0
+419116,2009,2,Chennai Super Kings,Chennai Super Kings,Winner,190,5,115,19.1
+419117,2009,1,Deccan Chargers,Deccan Chargers,Winner,170,8,120,20.0
+419117,2009,2,Kings XI Punjab,Deccan Chargers,Loser,164,8,120,20.0
+419118,2009,1,Rajasthan Royals,Rajasthan Royals,Winner,168,7,120,20.0
+419118,2009,2,Kolkata Knight Riders,Rajasthan Royals,Loser,134,5,120,20.0
+419119,2009,1,Mumbai Indians,Royal Challengers Bangalore,Loser,151,9,120,20.0
+419119,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,155,3,115,19.1
+419120,2009,1,Deccan Chargers,Deccan Chargers,Winner,171,6,120,20.0
+419120,2009,2,Delhi Daredevils,Deccan Chargers,Loser,161,9,120,20.0
+419121,2009,1,Kings XI Punjab,,No result,136,8,120,20.0
+419121,2009,2,Chennai Super Kings,,No result,136,7,120,20.0
+419121,2009,3,Chennai Super Kings,,No result,9,2,5,0.5
+419121,2009,4,Kings XI Punjab,,No result,10,1,4,0.4
+419122,2009,1,Kolkata Knight Riders,Mumbai Indians,Loser,155,3,120,20.0
+419122,2009,2,Mumbai Indians,Mumbai Indians,Winner,156,3,111,18.3
+419123,2009,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,171,5,120,20.0
+419123,2009,2,Chennai Super Kings,Royal Challengers Bangalore,Loser,135,7,120,20.0
+419124,2009,1,Rajasthan Royals,Rajasthan Royals,Winner,183,5,120,20.0
+419124,2009,2,Kings XI Punjab,Rajasthan Royals,Loser,152,10,115,19.1
+419125,2009,1,Chennai Super Kings,Mumbai Indians,Loser,180,2,120,20.0
+419125,2009,2,Mumbai Indians,Mumbai Indians,Winner,181,5,114,19.0
+419126,2009,1,Deccan Chargers,Rajasthan Royals,Loser,148,9,120,20.0
+419126,2009,2,Rajasthan Royals,Rajasthan Royals,Winner,151,2,94,15.4
+419127,2009,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,183,5,120,20.0
+419127,2009,2,Kings XI Punjab,Kolkata Knight Riders,Loser,144,6,120,20.0
+419128,2009,1,Delhi Daredevils,Delhi Daredevils,Winner,183,4,120,20.0
+419128,2009,2,Royal Challengers Bangalore,Delhi Daredevils,Loser,166,9,120,20.0
+419129,2009,1,Rajasthan Royals,Rajasthan Royals,Winner,177,8,120,20.0
+419129,2009,2,Chennai Super Kings,Rajasthan Royals,Loser,160,6,120,20.0
+419130,2009,1,Mumbai Indians,Mumbai Indians,Winner,172,7,120,20.0
+419130,2009,2,Deccan Chargers,Mumbai Indians,Loser,131,10,106,17.4
+419131,2009,1,Delhi Daredevils,Delhi Daredevils,Winner,177,4,120,20.0
+419131,2009,2,Kolkata Knight Riders,Delhi Daredevils,Loser,137,9,120,20.0
+419132,2009,1,Kings XI Punjab,Mumbai Indians,Loser,163,10,120,20.0
+419132,2009,2,Mumbai Indians,Mumbai Indians,Winner,164,6,117,19.3
+419133,2009,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,161,4,120,20.0
+419133,2009,2,Chennai Super Kings,Chennai Super Kings,Winner,162,5,113,18.5
+419134,2009,1,Delhi Daredevils,Delhi Daredevils,Winner,188,6,120,20.0
+419134,2009,2,Rajasthan Royals,Delhi Daredevils,Loser,121,10,106,17.4
+419135,2009,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,181,6,120,20.0
+419135,2009,2,Deccan Chargers,Kolkata Knight Riders,Loser,157,5,120,20.0
+419136,2009,1,Kings XI Punjab,Royal Challengers Bangalore,Loser,181,5,120,20.0
+419136,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,184,4,115,19.1
+419137,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,246,5,120,20.0
+419137,2009,2,Rajasthan Royals,Chennai Super Kings,Loser,223,5,120,20.0
+419138,2009,1,Mumbai Indians,Mumbai Indians,Winner,178,5,120,20.0
+419138,2009,2,Deccan Chargers,Mumbai Indians,Loser,115,10,110,18.2
+419139,2009,1,Kolkata Knight Riders,Kings XI Punjab,Loser,200,3,120,20.0
+419139,2009,2,Kings XI Punjab,Kings XI Punjab,Winner,204,2,110,18.2
+419140,2009,1,Delhi Daredevils,Delhi Daredevils,Winner,184,5,120,20.0
+419140,2009,2,Royal Challengers Bangalore,Delhi Daredevils,Loser,147,9,120,20.0
+419141,2009,1,Rajasthan Royals,Rajasthan Royals,Winner,159,10,119,19.5
+419141,2009,2,Deccan Chargers,Rajasthan Royals,Loser,157,10,119,19.5
+419142,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,165,4,120,20.0
+419142,2009,2,Mumbai Indians,Chennai Super Kings,Loser,141,9,120,20.0
+419143,2009,1,Kings XI Punjab,Rajasthan Royals,Loser,153,6,120,20.0
+419143,2009,2,Rajasthan Royals,Rajasthan Royals,Winner,157,1,90,15.0
+419144,2009,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,181,3,120,20.0
+419144,2009,2,Delhi Daredevils,Kolkata Knight Riders,Loser,167,8,120,20.0
+419145,2009,1,Royal Challengers Bangalore,Deccan Chargers,Loser,184,6,120,20.0
+419145,2009,2,Deccan Chargers,Deccan Chargers,Winner,186,3,116,19.2
+419146,2009,1,Mumbai Indians,Kings XI Punjab,Loser,154,9,120,20.0
+419146,2009,2,Kings XI Punjab,Kings XI Punjab,Winner,158,4,116,19.2
+419147,2009,1,Chennai Super Kings,Deccan Chargers,Loser,138,8,120,20.0
+419147,2009,2,Deccan Chargers,Deccan Chargers,Winner,139,4,115,19.1
+419148,2009,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,160,9,120,20.0
+419148,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,162,3,103,17.1
+419149,2009,1,Delhi Daredevils,Kings XI Punjab,Loser,111,10,118,19.4
+419149,2009,2,Kings XI Punjab,Kings XI Punjab,Winner,112,3,112,18.4
+419150,2009,1,Mumbai Indians,Mumbai Indians,Winner,174,5,120,20.0
+419150,2009,2,Rajasthan Royals,Mumbai Indians,Loser,137,8,120,20.0
+419151,2009,1,Deccan Chargers,Deccan Chargers,Winner,151,6,120,20.0
+419151,2009,2,Royal Challengers Bangalore,Deccan Chargers,Loser,138,10,118,19.4
+419152,2009,1,Mumbai Indians,Mumbai Indians,Winner,183,4,120,20.0
+419152,2009,2,Delhi Daredevils,Mumbai Indians,Loser,144,7,120,20.0
+419153,2009,1,Kolkata Knight Riders,Chennai Super Kings,Loser,139,8,120,20.0
+419153,2009,2,Chennai Super Kings,Chennai Super Kings,Winner,143,1,81,13.3
+419154,2009,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,130,6,120,20.0
+419154,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,132,5,94,15.4
+419155,2009,1,Chennai Super Kings,Delhi Daredevils,Loser,112,9,121,20.1
+419155,2009,2,Delhi Daredevils,Delhi Daredevils,Winner,113,4,112,18.4
+419156,2009,1,Kings XI Punjab,Deccan Chargers,Loser,174,3,120,20.0
+419156,2009,2,Deccan Chargers,Deccan Chargers,Winner,178,5,115,19.1
+419157,2009,1,Mumbai Indians,Mumbai Indians,Winner,191,4,120,20.0
+419157,2009,2,Royal Challengers Bangalore,Mumbai Indians,Loser,134,9,120,20.0
+419158,2009,1,Rajasthan Royals,Kolkata Knight Riders,Loser,132,9,120,20.0
+419158,2009,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,133,2,97,16.1
+419159,2009,1,Kings XI Punjab,Chennai Super Kings,Loser,192,3,120,20.0
+419159,2009,2,Chennai Super Kings,Chennai Super Kings,Winner,195,4,118,19.4
+419160,2009,1,Deccan Chargers,Deccan Chargers,Winner,145,7,120,20.0
+419160,2009,2,Delhi Daredevils,Deccan Chargers,Loser,134,7,120,20.0
+419161,2009,1,Mumbai Indians,Kolkata Knight Riders,Loser,133,8,120,20.0
+419161,2009,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,135,1,105,17.3
+419162,2009,1,Mumbai Indians,Mumbai Indians,Winner,184,5,120,20.0
+419162,2009,2,Royal Challengers Bangalore,Mumbai Indians,Loser,149,9,120,20.0
+419163,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,142,7,120,20.0
+419163,2009,2,Deccan Chargers,Chennai Super Kings,Loser,104,10,116,19.2
+419164,2009,1,Deccan Chargers,Royal Challengers Bangalore,Loser,82,10,111,18.3
+419164,2009,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,86,1,83,13.5
+419165,2009,1,Chennai Super Kings,Chennai Super Kings,Winner,168,5,120,20.0
+419165,2009,2,Mumbai Indians,Chennai Super Kings,Loser,146,9,120,20.0
+501198,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,153,4,120,20.0
+501198,2011,2,Kolkata Knight Riders,Chennai Super Kings,Loser,151,7,120,20.0
+501199,2011,1,Deccan Chargers,Rajasthan Royals,Loser,137,8,120,20.0
+501199,2011,2,Rajasthan Royals,Rajasthan Royals,Winner,141,2,113,18.5
+501200,2011,1,Kochi Tuskers Kerala,Royal Challengers Bangalore,Loser,161,5,120,20.0
+501200,2011,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,162,4,112,18.4
+501201,2011,1,Delhi Daredevils,Mumbai Indians,Loser,95,10,106,17.4
+501201,2011,2,Mumbai Indians,Mumbai Indians,Winner,99,2,101,16.5
+501202,2011,1,Kings XI Punjab,Pune Warriors,Loser,112,8,119,19.5
+501202,2011,2,Pune Warriors,Pune Warriors,Winner,113,3,79,13.1
+501203,2011,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,163,4,120,20.0
+501203,2011,2,Deccan Chargers,Kolkata Knight Riders,Loser,154,8,120,20.0
+501204,2011,1,Delhi Daredevils,Rajasthan Royals,Loser,151,6,120,20.0
+501204,2011,2,Rajasthan Royals,Rajasthan Royals,Winner,152,4,111,18.3
+501205,2011,1,Royal Challengers Bangalore,Mumbai Indians,Loser,140,4,120,20.0
+501205,2011,2,Mumbai Indians,Mumbai Indians,Winner,143,1,111,18.3
+501206,2011,1,Chennai Super Kings,Kings XI Punjab,Loser,188,4,120,20.0
+501206,2011,2,Kings XI Punjab,Kings XI Punjab,Winner,193,4,115,19.1
+501207,2011,1,Kochi Tuskers Kerala,Pune Warriors,Loser,148,8,120,20.0
+501207,2011,2,Pune Warriors,Pune Warriors,Winner,151,6,113,18.5
+501208,2011,1,Deccan Chargers,Deccan Chargers,Winner,175,5,120,20.0
+501208,2011,2,Royal Challengers Bangalore,Deccan Chargers,Loser,142,9,120,20.0
+501209,2011,1,Rajasthan Royals,Kolkata Knight Riders,Loser,159,4,120,20.0
+501209,2011,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,160,1,111,18.3
+501210,2011,1,Mumbai Indians,Kochi Tuskers Kerala,Loser,182,2,120,20.0
+501210,2011,2,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Winner,184,2,114,19.0
+501211,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,183,5,120,20.0
+501211,2011,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,162,7,120,20.0
+501212,2011,1,Deccan Chargers,Kings XI Punjab,Loser,165,8,120,20.0
+501212,2011,2,Kings XI Punjab,Kings XI Punjab,Winner,166,2,106,17.4
+501213,2011,1,Pune Warriors,Delhi Daredevils,Loser,187,5,120,20.0
+501213,2011,2,Delhi Daredevils,Delhi Daredevils,Winner,190,7,116,19.2
+501214,2011,1,Rajasthan Royals,Kolkata Knight Riders,Loser,81,10,92,15.2
+501214,2011,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,85,2,83,13.5
+501215,2011,1,Chennai Super Kings,Kochi Tuskers Kerala,Loser,131,4,102,17.0
+501215,2011,2,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Winner,135,3,90,15.0
+501216,2011,1,Deccan Chargers,Deccan Chargers,Winner,168,4,120,20.0
+501216,2011,2,Delhi Daredevils,Deccan Chargers,Loser,152,7,120,20.0
+501218,2011,1,Pune Warriors,Mumbai Indians,Loser,118,10,104,17.2
+501218,2011,2,Mumbai Indians,Mumbai Indians,Winner,124,3,120,20.0
+501219,2011,1,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Winner,132,7,120,20.0
+501219,2011,2,Kolkata Knight Riders,Kochi Tuskers Kerala,Loser,126,9,120,20.0
+501220,2011,1,Kings XI Punjab,Kings XI Punjab,Winner,195,7,120,20.0
+501220,2011,2,Rajasthan Royals,Kings XI Punjab,Loser,147,7,120,20.0
+501221,2011,1,Mumbai Indians,Mumbai Indians,Winner,164,4,120,20.0
+501221,2011,2,Chennai Super Kings,Mumbai Indians,Loser,156,9,120,20.0
+501222,2011,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,171,5,120,20.0
+501222,2011,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,175,1,109,18.1
+501223,2011,1,Delhi Daredevils,Delhi Daredevils,Winner,231,4,120,20.0
+501223,2011,2,Kings XI Punjab,Delhi Daredevils,Loser,202,6,120,20.0
+501224,2011,1,Mumbai Indians,Mumbai Indians,Winner,172,4,120,20.0
+501224,2011,2,Deccan Chargers,Mumbai Indians,Loser,135,8,120,20.0
+501225,2011,1,Kochi Tuskers Kerala,Rajasthan Royals,Loser,109,10,120,20.0
+501225,2011,2,Rajasthan Royals,Rajasthan Royals,Winner,111,2,85,14.1
+501226,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,142,6,120,20.0
+501226,2011,2,Pune Warriors,Chennai Super Kings,Loser,117,9,120,20.0
+501227,2011,1,Delhi Daredevils,Royal Challengers Bangalore,Loser,160,6,120,20.0
+501227,2011,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,161,7,117,19.3
+501228,2011,1,Pune Warriors,Chennai Super Kings,Loser,141,6,120,20.0
+501228,2011,2,Chennai Super Kings,Chennai Super Kings,Winner,145,2,117,19.3
+501229,2011,1,Deccan Chargers,Deccan Chargers,Winner,129,7,120,20.0
+501229,2011,2,Kochi Tuskers Kerala,Deccan Chargers,Loser,74,10,99,16.3
+501230,2011,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,148,7,120,20.0
+501230,2011,2,Delhi Daredevils,Kolkata Knight Riders,Loser,131,9,120,20.0
+501231,2011,1,Mumbai Indians,Rajasthan Royals,Loser,94,8,120,20.0
+501231,2011,2,Rajasthan Royals,Rajasthan Royals,Winner,95,3,109,18.1
+501232,2011,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,181,5,120,20.0
+501232,2011,2,Pune Warriors,Royal Challengers Bangalore,Loser,155,5,120,20.0
+501233,2011,1,Delhi Daredevils,Delhi Daredevils,Winner,157,7,120,20.0
+501233,2011,2,Kochi Tuskers Kerala,Delhi Daredevils,Loser,119,10,113,18.5
+501234,2011,1,Kings XI Punjab,Kolkata Knight Riders,Loser,119,6,120,20.0
+501234,2011,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,120,2,104,17.2
+501235,2011,1,Pune Warriors,Rajasthan Royals,Loser,143,7,120,20.0
+501235,2011,2,Rajasthan Royals,Rajasthan Royals,Winner,144,4,117,19.3
+501236,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,165,5,120,20.0
+501236,2011,2,Deccan Chargers,Chennai Super Kings,Loser,146,8,120,20.0
+501237,2011,1,Mumbai Indians,Mumbai Indians,Winner,159,5,120,20.0
+501237,2011,2,Kings XI Punjab,Mumbai Indians,Loser,136,8,120,20.0
+501238,2011,1,Delhi Daredevils,Kochi Tuskers Kerala,Loser,140,6,120,20.0
+501238,2011,2,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Winner,141,3,90,15.0
+501239,2011,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,169,4,120,20.0
+501239,2011,2,Deccan Chargers,Kolkata Knight Riders,Loser,149,6,120,20.0
+501240,2011,1,Rajasthan Royals,Chennai Super Kings,Loser,147,6,120,20.0
+501240,2011,2,Chennai Super Kings,Chennai Super Kings,Winner,149,2,112,18.4
+501241,2011,1,Mumbai Indians,Mumbai Indians,Winner,160,7,120,20.0
+501241,2011,2,Pune Warriors,Mumbai Indians,Loser,139,7,120,20.0
+501242,2011,1,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Winner,156,5,120,20.0
+501242,2011,2,Kolkata Knight Riders,Kochi Tuskers Kerala,Loser,139,7,120,20.0
+501243,2011,1,Deccan Chargers,Delhi Daredevils,Loser,175,5,120,20.0
+501243,2011,2,Delhi Daredevils,Delhi Daredevils,Winner,179,6,114,19.0
+501244,2011,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,205,6,120,20.0
+501244,2011,2,Kings XI Punjab,Royal Challengers Bangalore,Loser,120,9,120,20.0
+501245,2011,1,Chennai Super Kings,Kolkata Knight Riders,Loser,114,4,120,20.0
+501245,2011,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,61,2,60,10.0
+501246,2011,1,Mumbai Indians,Mumbai Indians,Winner,178,4,120,20.0
+501246,2011,2,Delhi Daredevils,Mumbai Indians,Loser,146,10,119,19.5
+501247,2011,1,Kochi Tuskers Kerala,Royal Challengers Bangalore,Loser,125,9,120,20.0
+501247,2011,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,128,1,79,13.1
+501248,2011,1,Kings XI Punjab,Pune Warriors,Loser,119,8,120,20.0
+501248,2011,2,Pune Warriors,Pune Warriors,Winner,120,5,103,17.1
+501249,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,196,3,120,20.0
+501249,2011,2,Rajasthan Royals,Chennai Super Kings,Loser,133,10,117,19.3
+501250,2011,1,Deccan Chargers,Pune Warriors,Loser,136,8,120,20.0
+501250,2011,2,Pune Warriors,Pune Warriors,Winner,137,4,110,18.2
+501251,2011,1,Kings XI Punjab,Kings XI Punjab,Winner,163,8,120,20.0
+501251,2011,2,Mumbai Indians,Kings XI Punjab,Loser,87,10,77,12.5
+501252,2011,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,146,6,120,20.0
+501252,2011,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,151,1,102,17.0
+501253,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,176,4,120,20.0
+501253,2011,2,Delhi Daredevils,Chennai Super Kings,Loser,158,6,120,20.0
+501254,2011,1,Kochi Tuskers Kerala,Kings XI Punjab,Loser,178,7,120,20.0
+501254,2011,2,Kings XI Punjab,Kings XI Punjab,Winner,181,4,113,18.5
+501255,2011,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,89,4,78,13.0
+501255,2011,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,105,6,74,12.2
+501256,2011,1,Deccan Chargers,Deccan Chargers,Winner,135,6,120,20.0
+501256,2011,2,Mumbai Indians,Deccan Chargers,Loser,125,8,120,20.0
+501257,2011,1,Kings XI Punjab,Kings XI Punjab,Winner,170,6,120,20.0
+501257,2011,2,Delhi Daredevils,Kings XI Punjab,Loser,141,8,120,20.0
+501258,2011,1,Rajasthan Royals,Kochi Tuskers Kerala,Loser,97,10,111,18.3
+501258,2011,2,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Winner,98,2,44,7.2
+501259,2011,1,Pune Warriors,Deccan Chargers,Loser,136,9,120,20.0
+501259,2011,2,Deccan Chargers,Deccan Chargers,Winner,138,4,116,19.2
+501260,2011,1,Kings XI Punjab,Kings XI Punjab,Winner,232,2,120,20.0
+501260,2011,2,Royal Challengers Bangalore,Kings XI Punjab,Loser,121,10,102,17.0
+501261,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,152,5,120,20.0
+501261,2011,2,Kochi Tuskers Kerala,Chennai Super Kings,Loser,141,5,120,20.0
+501262,2011,1,Pune Warriors,Kolkata Knight Riders,Loser,118,7,120,20.0
+501262,2011,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,119,3,100,16.4
+501263,2011,1,Mumbai Indians,Rajasthan Royals,Loser,133,5,120,20.0
+501263,2011,2,Rajasthan Royals,Rajasthan Royals,Winner,134,0,79,13.1
+501264,2011,1,Deccan Chargers,Deccan Chargers,Winner,198,2,120,20.0
+501264,2011,2,Kings XI Punjab,Deccan Chargers,Loser,116,10,114,19.0
+501265,2011,1,Delhi Daredevils,,No result,56,3,61,10.1
+501266,2011,1,Chennai Super Kings,Royal Challengers Bangalore,Loser,128,8,120,20.0
+501266,2011,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,129,2,108,18.0
+501267,2011,1,Kolkata Knight Riders,Mumbai Indians,Loser,175,7,120,20.0
+501267,2011,2,Mumbai Indians,Mumbai Indians,Winner,178,5,120,20.0
+501268,2011,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,175,4,120,20.0
+501268,2011,2,Chennai Super Kings,Chennai Super Kings,Winner,177,4,118,19.4
+501269,2011,1,Kolkata Knight Riders,Mumbai Indians,Loser,147,7,120,20.0
+501269,2011,2,Mumbai Indians,Mumbai Indians,Winner,148,6,116,19.2
+501270,2011,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,185,4,120,20.0
+501270,2011,2,Mumbai Indians,Royal Challengers Bangalore,Loser,142,8,120,20.0
+501271,2011,1,Chennai Super Kings,Chennai Super Kings,Winner,205,5,120,20.0
+501271,2011,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,147,8,120,20.0
+548306,2012,1,Chennai Super Kings,Mumbai Indians,Loser,112,10,119,19.5
+548306,2012,2,Mumbai Indians,Mumbai Indians,Winner,115,3,101,16.5
+548307,2012,1,Kolkata Knight Riders,Delhi Daredevils,Loser,97,9,72,12.0
+548307,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,100,2,67,11.1
+548308,2012,1,Pune Warriors,Pune Warriors,Winner,129,9,120,20.0
+548308,2012,2,Mumbai Indians,Pune Warriors,Loser,101,9,120,20.0
+548309,2012,1,Rajasthan Royals,Rajasthan Royals,Winner,191,4,120,20.0
+548309,2012,2,Kings XI Punjab,Rajasthan Royals,Loser,160,9,120,20.0
+548310,2012,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,157,8,120,20.0
+548310,2012,2,Delhi Daredevils,Royal Challengers Bangalore,Loser,137,7,120,20.0
+548311,2012,1,Chennai Super Kings,Chennai Super Kings,Winner,193,6,120,20.0
+548311,2012,2,Deccan Chargers,Chennai Super Kings,Loser,119,10,103,17.1
+548312,2012,1,Rajasthan Royals,Rajasthan Royals,Winner,164,5,120,20.0
+548312,2012,2,Kolkata Knight Riders,Rajasthan Royals,Loser,142,10,120,20.0
+548313,2012,1,Pune Warriors,Pune Warriors,Winner,166,6,120,20.0
+548313,2012,2,Kings XI Punjab,Pune Warriors,Loser,144,8,120,20.0
+548314,2012,1,Deccan Chargers,Mumbai Indians,Loser,138,9,120,20.0
+548314,2012,2,Mumbai Indians,Mumbai Indians,Winner,142,5,120,20.0
+548315,2012,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,165,8,120,20.0
+548315,2012,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,123,9,120,20.0
+548316,2012,1,Chennai Super Kings,Delhi Daredevils,Loser,110,8,120,20.0
+548316,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,111,2,80,13.2
+548317,2012,1,Mumbai Indians,Mumbai Indians,Winner,197,6,120,20.0
+548317,2012,2,Rajasthan Royals,Mumbai Indians,Loser,170,10,118,19.4
+548318,2012,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,205,8,120,20.0
+548318,2012,2,Chennai Super Kings,Chennai Super Kings,Winner,208,5,120,20.0
+548319,2012,1,Pune Warriors,Kings XI Punjab,Loser,115,10,114,19.0
+548319,2012,2,Kings XI Punjab,Kings XI Punjab,Winner,116,3,106,17.4
+548320,2012,1,Rajasthan Royals,Kolkata Knight Riders,Loser,131,5,120,20.0
+548320,2012,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,137,5,116,19.2
+548321,2012,1,Deccan Chargers,Delhi Daredevils,Loser,157,8,120,20.0
+548321,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,162,5,115,19.1
+548322,2012,1,Chennai Super Kings,Pune Warriors,Loser,155,5,120,20.0
+548322,2012,2,Pune Warriors,Pune Warriors,Winner,156,3,116,19.2
+548323,2012,1,Kings XI Punjab,Kings XI Punjab,Winner,134,9,120,20.0
+548323,2012,2,Kolkata Knight Riders,Kings XI Punjab,Loser,132,7,120,20.0
+548324,2012,1,Rajasthan Royals,Rajasthan Royals,Winner,195,2,120,20.0
+548324,2012,2,Royal Challengers Bangalore,Rajasthan Royals,Loser,136,10,119,19.5
+548325,2012,1,Mumbai Indians,Delhi Daredevils,Loser,92,10,116,19.2
+548325,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,93,3,89,14.5
+548326,2012,1,Deccan Chargers,Rajasthan Royals,Loser,196,2,120,20.0
+548326,2012,2,Rajasthan Royals,Rajasthan Royals,Winner,197,5,118,19.4
+548327,2012,1,Pune Warriors,Royal Challengers Bangalore,Loser,182,6,120,20.0
+548327,2012,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,186,4,120,20.0
+548328,2012,1,Kings XI Punjab,Kolkata Knight Riders,Loser,124,7,120,20.0
+548328,2012,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,127,2,99,16.3
+548329,2012,1,Deccan Chargers,Delhi Daredevils,Loser,187,4,120,20.0
+548329,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,193,1,100,16.4
+548330,2012,1,Chennai Super Kings,Chennai Super Kings,Winner,164,5,120,20.0
+548330,2012,2,Pune Warriors,Chennai Super Kings,Loser,151,7,120,20.0
+548331,2012,1,Kings XI Punjab,Royal Challengers Bangalore,Loser,163,6,120,20.0
+548331,2012,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,166,5,117,19.3
+548332,2012,1,Rajasthan Royals,Chennai Super Kings,Loser,146,4,120,20.0
+548332,2012,2,Chennai Super Kings,Chennai Super Kings,Winner,147,3,120,20.0
+548333,2012,1,Pune Warriors,Pune Warriors,Winner,192,3,120,20.0
+548333,2012,2,Delhi Daredevils,Pune Warriors,Loser,172,7,120,20.0
+548334,2012,1,Mumbai Indians,Kings XI Punjab,Loser,163,6,120,20.0
+548334,2012,2,Kings XI Punjab,Kings XI Punjab,Winner,164,4,117,19.3
+548335,2012,1,Deccan Chargers,Kolkata Knight Riders,Loser,126,7,120,20.0
+548335,2012,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,127,5,114,19.0
+548336,2012,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,189,3,120,20.0
+548336,2012,2,Rajasthan Royals,Royal Challengers Bangalore,Loser,143,7,120,20.0
+548337,2012,1,Pune Warriors,Delhi Daredevils,Loser,146,2,120,20.0
+548337,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,148,2,96,16.0
+548339,2012,1,Kings XI Punjab,Mumbai Indians,Loser,168,3,120,20.0
+548339,2012,2,Mumbai Indians,Mumbai Indians,Winner,171,6,119,19.5
+548341,2012,1,Deccan Chargers,Deccan Chargers,Winner,177,4,120,20.0
+548341,2012,2,Pune Warriors,Deccan Chargers,Loser,159,7,120,20.0
+548342,2012,1,Delhi Daredevils,Delhi Daredevils,Winner,207,5,120,20.0
+548342,2012,2,Mumbai Indians,Delhi Daredevils,Loser,170,9,120,20.0
+548343,2012,1,Kings XI Punjab,Kings XI Punjab,Winner,156,8,120,20.0
+548343,2012,2,Chennai Super Kings,Kings XI Punjab,Loser,149,8,120,20.0
+548344,2012,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,190,4,120,20.0
+548344,2012,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,143,6,120,20.0
+548345,2012,1,Delhi Daredevils,Delhi Daredevils,Winner,152,6,120,20.0
+548345,2012,2,Rajasthan Royals,Delhi Daredevils,Loser,151,3,120,20.0
+548346,2012,1,Deccan Chargers,Mumbai Indians,Loser,100,10,112,18.4
+548346,2012,2,Mumbai Indians,Mumbai Indians,Winner,101,5,109,18.1
+548347,2012,1,Chennai Super Kings,Kolkata Knight Riders,Loser,139,5,120,20.0
+548347,2012,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,140,5,118,19.4
+548348,2012,1,Deccan Chargers,Deccan Chargers,Winner,186,4,120,20.0
+548348,2012,2,Pune Warriors,Deccan Chargers,Loser,173,5,120,20.0
+548349,2012,1,Rajasthan Royals,Delhi Daredevils,Loser,141,6,120,20.0
+548349,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,144,4,92,15.2
+548350,2012,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,158,5,120,20.0
+548350,2012,2,Kings XI Punjab,Kings XI Punjab,Winner,163,6,119,19.5
+548351,2012,1,Mumbai Indians,Mumbai Indians,Winner,120,9,120,20.0
+548351,2012,2,Pune Warriors,Mumbai Indians,Loser,119,6,120,20.0
+548352,2012,1,Chennai Super Kings,Chennai Super Kings,Winner,160,6,120,20.0
+548352,2012,2,Deccan Chargers,Chennai Super Kings,Loser,150,5,120,20.0
+548353,2012,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,150,5,120,20.0
+548353,2012,2,Pune Warriors,Kolkata Knight Riders,Loser,143,8,120,20.0
+548354,2012,1,Rajasthan Royals,Rajasthan Royals,Winner,177,6,120,20.0
+548354,2012,2,Kings XI Punjab,Rajasthan Royals,Loser,134,8,120,20.0
+548355,2012,1,Chennai Super Kings,Mumbai Indians,Loser,173,8,120,20.0
+548355,2012,2,Mumbai Indians,Mumbai Indians,Winner,174,8,120,20.0
+548356,2012,1,Deccan Chargers,Royal Challengers Bangalore,Loser,181,2,120,20.0
+548356,2012,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,185,5,113,18.5
+548357,2012,1,Delhi Daredevils,Kolkata Knight Riders,Loser,153,9,120,20.0
+548357,2012,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,154,4,112,18.4
+548358,2012,1,Pune Warriors,Rajasthan Royals,Loser,125,6,120,20.0
+548358,2012,2,Rajasthan Royals,Rajasthan Royals,Winner,126,3,98,16.2
+548359,2012,1,Kings XI Punjab,Kings XI Punjab,Winner,170,5,120,20.0
+548359,2012,2,Deccan Chargers,Kings XI Punjab,Loser,145,8,120,20.0
+548360,2012,1,Mumbai Indians,Royal Challengers Bangalore,Loser,141,6,120,20.0
+548360,2012,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,142,1,108,18.0
+548361,2012,1,Rajasthan Royals,Chennai Super Kings,Loser,126,6,120,20.0
+548361,2012,2,Chennai Super Kings,Chennai Super Kings,Winner,127,6,109,18.1
+548362,2012,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,173,3,120,20.0
+548362,2012,2,Pune Warriors,Royal Challengers Bangalore,Loser,138,9,120,20.0
+548363,2012,1,Mumbai Indians,Mumbai Indians,Winner,182,1,120,20.0
+548363,2012,2,Kolkata Knight Riders,Mumbai Indians,Loser,155,4,120,20.0
+548364,2012,1,Delhi Daredevils,Chennai Super Kings,Loser,114,5,120,20.0
+548364,2012,2,Chennai Super Kings,Chennai Super Kings,Winner,115,1,92,15.2
+548365,2012,1,Rajasthan Royals,Rajasthan Royals,Winner,170,4,120,20.0
+548365,2012,2,Pune Warriors,Rajasthan Royals,Loser,125,9,120,20.0
+548366,2012,1,Deccan Chargers,Kings XI Punjab,Loser,190,4,120,20.0
+548366,2012,2,Kings XI Punjab,Kings XI Punjab,Winner,194,6,120,20.0
+548367,2012,1,Royal Challengers Bangalore,Mumbai Indians,Loser,171,6,120,20.0
+548367,2012,2,Mumbai Indians,Mumbai Indians,Winner,173,5,118,19.4
+548368,2012,1,Kolkata Knight Riders,Chennai Super Kings,Loser,158,6,120,20.0
+548368,2012,2,Chennai Super Kings,Chennai Super Kings,Winner,160,5,120,20.0
+548369,2012,1,Kings XI Punjab,Delhi Daredevils,Loser,136,8,120,20.0
+548369,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,140,5,114,19.0
+548370,2012,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,140,7,120,20.0
+548370,2012,2,Mumbai Indians,Kolkata Knight Riders,Loser,108,10,115,19.1
+548371,2012,1,Chennai Super Kings,Kings XI Punjab,Loser,120,7,120,20.0
+548371,2012,2,Kings XI Punjab,Kings XI Punjab,Winner,123,4,99,16.3
+548372,2012,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,215,1,120,20.0
+548372,2012,2,Delhi Daredevils,Royal Challengers Bangalore,Loser,194,9,120,20.0
+548373,2012,1,Rajasthan Royals,Deccan Chargers,Loser,126,8,120,20.0
+548373,2012,2,Deccan Chargers,Deccan Chargers,Winner,128,5,112,18.4
+548374,2012,1,Kings XI Punjab,Delhi Daredevils,Loser,141,8,120,20.0
+548374,2012,2,Delhi Daredevils,Delhi Daredevils,Winner,145,4,110,18.2
+548375,2012,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,136,4,120,20.0
+548375,2012,2,Pune Warriors,Kolkata Knight Riders,Loser,102,8,120,20.0
+548376,2012,1,Deccan Chargers,Deccan Chargers,Winner,132,7,120,20.0
+548376,2012,2,Royal Challengers Bangalore,Deccan Chargers,Loser,123,9,120,20.0
+548377,2012,1,Rajasthan Royals,Mumbai Indians,Loser,162,6,120,20.0
+548377,2012,2,Mumbai Indians,Mumbai Indians,Winner,163,0,108,18.0
+548378,2012,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,162,4,120,20.0
+548378,2012,2,Delhi Daredevils,Kolkata Knight Riders,Loser,144,8,120,20.0
+548379,2012,1,Chennai Super Kings,Chennai Super Kings,Winner,187,5,120,20.0
+548379,2012,2,Mumbai Indians,Chennai Super Kings,Loser,149,9,120,20.0
+548380,2012,1,Chennai Super Kings,Chennai Super Kings,Winner,222,5,120,20.0
+548380,2012,2,Delhi Daredevils,Chennai Super Kings,Loser,136,10,101,16.5
+548381,2012,1,Chennai Super Kings,Kolkata Knight Riders,Loser,190,3,120,20.0
+548381,2012,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,192,5,118,19.4
+597998,2013,1,Delhi Daredevils,Kolkata Knight Riders,Loser,128,10,120,20.0
+597998,2013,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,129,4,112,18.4
+597999,2013,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,156,5,120,20.0
+597999,2013,2,Mumbai Indians,Royal Challengers Bangalore,Loser,154,5,120,20.0
+598000,2013,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,126,6,120,20.0
+598000,2013,2,Pune Warriors,Sunrisers Hyderabad,Loser,104,10,113,18.5
+598001,2013,1,Rajasthan Royals,Rajasthan Royals,Winner,165,7,120,20.0
+598001,2013,2,Delhi Daredevils,Rajasthan Royals,Loser,160,6,120,20.0
+598002,2013,1,Mumbai Indians,Mumbai Indians,Winner,148,6,120,20.0
+598002,2013,2,Chennai Super Kings,Mumbai Indians,Loser,139,9,120,20.0
+598003,2013,1,Pune Warriors,Kings XI Punjab,Loser,99,9,120,20.0
+598003,2013,2,Kings XI Punjab,Kings XI Punjab,Winner,100,2,74,12.2
+598004,2013,1,Royal Challengers Bangalore,,No result,130,8,120,20.0
+598004,2013,2,Sunrisers Hyderabad,,No result,130,7,120,20.0
+598004,2013,3,Sunrisers Hyderabad,,No result,20,0,6,1.0
+598004,2013,4,Royal Challengers Bangalore,,No result,15,0,6,1.0
+598005,2013,1,Rajasthan Royals,Rajasthan Royals,Winner,144,6,120,20.0
+598005,2013,2,Kolkata Knight Riders,Rajasthan Royals,Loser,125,10,114,19.0
+598006,2013,1,Mumbai Indians,Mumbai Indians,Winner,209,5,120,20.0
+598006,2013,2,Delhi Daredevils,Mumbai Indians,Loser,165,9,120,20.0
+598007,2013,1,Kings XI Punjab,Chennai Super Kings,Loser,138,10,119,19.5
+598007,2013,2,Chennai Super Kings,Chennai Super Kings,Winner,139,0,104,17.2
+598008,2013,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,154,8,120,20.0
+598008,2013,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,158,2,105,17.3
+598009,2013,1,Rajasthan Royals,Pune Warriors,Loser,145,5,120,20.0
+598009,2013,2,Pune Warriors,Pune Warriors,Winner,148,3,112,18.4
+598010,2013,1,Delhi Daredevils,Sunrisers Hyderabad,Loser,114,8,120,20.0
+598010,2013,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,115,7,116,19.2
+598011,2013,1,Mumbai Indians,Mumbai Indians,Winner,183,3,120,20.0
+598011,2013,2,Pune Warriors,Mumbai Indians,Loser,142,8,120,20.0
+598012,2013,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,165,6,120,20.0
+598012,2013,2,Chennai Super Kings,Chennai Super Kings,Winner,166,6,119,19.5
+598013,2013,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,180,4,120,20.0
+598013,2013,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,132,7,120,20.0
+598014,2013,1,Kings XI Punjab,Rajasthan Royals,Loser,124,10,113,18.5
+598014,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,126,4,116,19.2
+598015,2013,1,Pune Warriors,Pune Warriors,Winner,159,5,120,20.0
+598015,2013,2,Chennai Super Kings,Pune Warriors,Loser,135,8,120,20.0
+598016,2013,1,Kings XI Punjab,Kings XI Punjab,Winner,157,9,120,20.0
+598016,2013,2,Kolkata Knight Riders,Kings XI Punjab,Loser,153,9,120,20.0
+598017,2013,1,Delhi Daredevils,,No result,152,5,120,20.0
+598017,2013,2,Royal Challengers Bangalore,,No result,152,7,120,20.0
+598017,2013,3,Royal Challengers Bangalore,,No result,15,0,6,1.0
+598017,2013,4,Delhi Daredevils,,No result,11,2,6,1.0
+598018,2013,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,119,8,120,20.0
+598018,2013,2,Pune Warriors,Sunrisers Hyderabad,Loser,108,10,114,19.0
+598019,2013,1,Rajasthan Royals,Rajasthan Royals,Winner,179,3,120,20.0
+598019,2013,2,Mumbai Indians,Rajasthan Royals,Loser,92,10,110,18.2
+598020,2013,1,Chennai Super Kings,Chennai Super Kings,Winner,169,4,120,20.0
+598020,2013,2,Delhi Daredevils,Chennai Super Kings,Loser,83,10,105,17.3
+598021,2013,1,Kings XI Punjab,Sunrisers Hyderabad,Loser,123,9,120,20.0
+598021,2013,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,127,5,113,18.5
+598022,2013,1,Kolkata Knight Riders,Chennai Super Kings,Loser,119,9,120,20.0
+598022,2013,2,Chennai Super Kings,Chennai Super Kings,Winner,124,6,115,19.1
+598023,2013,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,117,10,118,19.4
+598023,2013,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,123,3,107,17.5
+598024,2013,1,Mumbai Indians,Delhi Daredevils,Loser,161,4,120,20.0
+598024,2013,2,Delhi Daredevils,Delhi Daredevils,Winner,165,1,102,17.0
+598025,2013,1,Pune Warriors,Kings XI Punjab,Loser,185,4,120,20.0
+598025,2013,2,Kings XI Punjab,Kings XI Punjab,Winner,186,3,119,19.5
+598026,2013,1,Rajasthan Royals,Chennai Super Kings,Loser,185,4,120,20.0
+598026,2013,2,Chennai Super Kings,Chennai Super Kings,Winner,186,5,119,19.5
+598027,2013,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,263,5,120,20.0
+598027,2013,2,Pune Warriors,Royal Challengers Bangalore,Loser,133,9,120,20.0
+598028,2013,1,Kings XI Punjab,Kings XI Punjab,Winner,171,4,120,20.0
+598028,2013,2,Delhi Daredevils,Kings XI Punjab,Loser,164,7,120,20.0
+598029,2013,1,Kolkata Knight Riders,Mumbai Indians,Loser,159,6,120,20.0
+598029,2013,2,Mumbai Indians,Mumbai Indians,Winner,162,5,119,19.5
+598030,2013,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,159,6,120,20.0
+598030,2013,2,Chennai Super Kings,Chennai Super Kings,Winner,160,5,118,19.4
+598031,2013,1,Kings XI Punjab,Kolkata Knight Riders,Loser,149,6,120,20.0
+598031,2013,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,150,4,110,18.2
+598032,2013,1,Sunrisers Hyderabad,Rajasthan Royals,Loser,144,9,120,20.0
+598032,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,146,2,107,17.5
+598033,2013,1,Mumbai Indians,Mumbai Indians,Winner,194,7,120,20.0
+598033,2013,2,Royal Challengers Bangalore,Mumbai Indians,Loser,136,7,120,20.0
+598034,2013,1,Chennai Super Kings,Chennai Super Kings,Winner,200,3,120,20.0
+598034,2013,2,Kolkata Knight Riders,Chennai Super Kings,Loser,186,4,120,20.0
+598035,2013,1,Delhi Daredevils,Delhi Daredevils,Winner,164,5,120,20.0
+598035,2013,2,Pune Warriors,Delhi Daredevils,Loser,149,4,120,20.0
+598036,2013,1,Royal Challengers Bangalore,Rajasthan Royals,Loser,171,6,120,20.0
+598036,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,173,6,119,19.5
+598037,2013,1,Mumbai Indians,Mumbai Indians,Winner,174,3,120,20.0
+598037,2013,2,Kings XI Punjab,Mumbai Indians,Loser,170,10,120,20.0
+598038,2013,1,Chennai Super Kings,Chennai Super Kings,Winner,164,3,120,20.0
+598038,2013,2,Pune Warriors,Chennai Super Kings,Loser,127,9,120,20.0
+598039,2013,1,Mumbai Indians,Sunrisers Hyderabad,Loser,129,4,120,20.0
+598039,2013,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,130,3,108,18.0
+598040,2013,1,Kolkata Knight Riders,Delhi Daredevils,Loser,136,7,120,20.0
+598040,2013,2,Delhi Daredevils,Delhi Daredevils,Winner,137,3,107,17.5
+598041,2013,1,Chennai Super Kings,Chennai Super Kings,Winner,186,4,120,20.0
+598041,2013,2,Kings XI Punjab,Chennai Super Kings,Loser,171,6,120,20.0
+598042,2013,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,187,3,120,20.0
+598042,2013,2,Pune Warriors,Royal Challengers Bangalore,Loser,170,9,120,20.0
+598043,2013,1,Rajasthan Royals,Kolkata Knight Riders,Loser,132,6,120,20.0
+598043,2013,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,133,2,104,17.2
+598044,2013,1,Delhi Daredevils,Sunrisers Hyderabad,Loser,80,10,115,19.1
+598044,2013,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,81,4,83,13.5
+598045,2013,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,174,5,120,20.0
+598045,2013,2,Kings XI Punjab,Kings XI Punjab,Winner,176,3,109,18.1
+598046,2013,1,Mumbai Indians,Mumbai Indians,Winner,139,5,120,20.0
+598046,2013,2,Chennai Super Kings,Mumbai Indians,Loser,79,10,92,15.2
+598047,2013,1,Pune Warriors,Rajasthan Royals,Loser,178,4,120,20.0
+598047,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,182,5,119,19.5
+598048,2013,1,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,161,6,120,20.0
+598048,2013,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,162,3,106,17.4
+598049,2013,1,Delhi Daredevils,Rajasthan Royals,Loser,154,4,120,20.0
+598049,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,155,1,107,17.5
+598050,2013,1,Mumbai Indians,Mumbai Indians,Winner,170,6,120,20.0
+598050,2013,2,Kolkata Knight Riders,Mumbai Indians,Loser,105,10,110,18.2
+598051,2013,1,Chennai Super Kings,Chennai Super Kings,Winner,223,3,120,20.0
+598051,2013,2,Sunrisers Hyderabad,Chennai Super Kings,Loser,146,8,120,20.0
+598052,2013,1,Kings XI Punjab,Rajasthan Royals,Loser,145,6,120,20.0
+598052,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,147,2,114,19.0
+598053,2013,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,152,6,120,20.0
+598053,2013,2,Pune Warriors,Kolkata Knight Riders,Loser,106,10,117,19.3
+598054,2013,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,183,4,120,20.0
+598054,2013,2,Delhi Daredevils,Royal Challengers Bangalore,Loser,179,7,120,20.0
+598055,2013,1,Pune Warriors,Mumbai Indians,Loser,112,8,120,20.0
+598055,2013,2,Mumbai Indians,Mumbai Indians,Winner,116,5,113,18.5
+598056,2013,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,150,7,120,20.0
+598056,2013,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,120,9,120,20.0
+598057,2013,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,115,9,120,20.0
+598057,2013,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,116,5,116,19.2
+598058,2013,1,Chennai Super Kings,Rajasthan Royals,Loser,141,4,120,20.0
+598058,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,144,5,103,17.1
+598059,2013,1,Delhi Daredevils,Kings XI Punjab,Loser,120,7,120,20.0
+598059,2013,2,Kings XI Punjab,Kings XI Punjab,Winner,121,5,102,17.0
+598060,2013,1,Sunrisers Hyderabad,Mumbai Indians,Loser,178,3,120,20.0
+598060,2013,2,Mumbai Indians,Mumbai Indians,Winner,184,4,117,19.3
+598061,2013,1,Pune Warriors,Pune Warriors,Winner,170,4,120,20.0
+598061,2013,2,Kolkata Knight Riders,Pune Warriors,Loser,163,7,120,20.0
+598062,2013,1,Chennai Super Kings,Chennai Super Kings,Winner,168,4,120,20.0
+598062,2013,2,Delhi Daredevils,Chennai Super Kings,Loser,135,9,120,20.0
+598063,2013,1,Mumbai Indians,Mumbai Indians,Winner,166,8,120,20.0
+598063,2013,2,Rajasthan Royals,Mumbai Indians,Loser,152,7,120,20.0
+598064,2013,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,190,3,120,20.0
+598064,2013,2,Kings XI Punjab,Kings XI Punjab,Winner,194,4,108,18.0
+598065,2013,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,136,9,120,20.0
+598065,2013,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,113,9,120,20.0
+598066,2013,1,Kings XI Punjab,Kings XI Punjab,Winner,183,8,120,20.0
+598066,2013,2,Mumbai Indians,Kings XI Punjab,Loser,133,9,115,19.1
+598067,2013,1,Pune Warriors,Pune Warriors,Winner,172,5,120,20.0
+598067,2013,2,Delhi Daredevils,Pune Warriors,Loser,134,9,120,20.0
+598068,2013,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,106,2,48,8.0
+598068,2013,2,Chennai Super Kings,Royal Challengers Bangalore,Loser,82,6,48,8.0
+598069,2013,1,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,130,7,120,20.0
+598069,2013,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,132,5,113,18.5
+598070,2013,1,Chennai Super Kings,Chennai Super Kings,Winner,192,1,120,20.0
+598070,2013,2,Mumbai Indians,Chennai Super Kings,Loser,144,10,112,18.4
+598071,2013,1,Sunrisers Hyderabad,Rajasthan Royals,Loser,132,7,120,20.0
+598071,2013,2,Rajasthan Royals,Rajasthan Royals,Winner,135,6,116,19.2
+598072,2013,1,Rajasthan Royals,Mumbai Indians,Loser,165,6,120,20.0
+598072,2013,2,Mumbai Indians,Mumbai Indians,Winner,169,6,119,19.5
+598073,2013,1,Mumbai Indians,Mumbai Indians,Winner,148,9,120,20.0
+598073,2013,2,Chennai Super Kings,Mumbai Indians,Loser,125,9,120,20.0
+729279,2014,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,163,5,120,20.0
+729279,2014,2,Mumbai Indians,Kolkata Knight Riders,Loser,122,7,120,20.0
+729281,2014,1,Delhi Daredevils,Royal Challengers Bangalore,Loser,145,4,120,20.0
+729281,2014,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,146,2,100,16.4
+729283,2014,1,Chennai Super Kings,Kings XI Punjab,Loser,205,4,120,20.0
+729283,2014,2,Kings XI Punjab,Kings XI Punjab,Winner,206,4,113,18.5
+729285,2014,1,Sunrisers Hyderabad,Rajasthan Royals,Loser,133,6,120,20.0
+729285,2014,2,Rajasthan Royals,Rajasthan Royals,Winner,135,6,117,19.3
+729287,2014,1,Mumbai Indians,Royal Challengers Bangalore,Loser,115,9,120,20.0
+729287,2014,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,116,3,105,17.3
+729289,2014,1,Kolkata Knight Riders,Delhi Daredevils,Loser,166,5,120,20.0
+729289,2014,2,Delhi Daredevils,Delhi Daredevils,Winner,167,6,117,19.3
+729291,2014,1,Rajasthan Royals,Kings XI Punjab,Loser,191,5,120,20.0
+729291,2014,2,Kings XI Punjab,Kings XI Punjab,Winner,193,3,112,18.4
+729293,2014,1,Chennai Super Kings,Chennai Super Kings,Winner,177,7,120,20.0
+729293,2014,2,Delhi Daredevils,Chennai Super Kings,Loser,84,9,94,15.4
+729295,2014,1,Kings XI Punjab,Kings XI Punjab,Winner,193,6,120,20.0
+729295,2014,2,Sunrisers Hyderabad,Kings XI Punjab,Loser,121,10,116,19.2
+729297,2014,1,Chennai Super Kings,Chennai Super Kings,Winner,140,6,120,20.0
+729297,2014,2,Rajasthan Royals,Chennai Super Kings,Loser,133,10,119,19.5
+729299,2014,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,150,7,120,20.0
+729299,2014,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,148,5,120,20.0
+729301,2014,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,184,1,120,20.0
+729301,2014,2,Delhi Daredevils,Sunrisers Hyderabad,Loser,180,4,120,20.0
+729303,2014,1,Mumbai Indians,Chennai Super Kings,Loser,141,7,120,20.0
+729303,2014,2,Chennai Super Kings,Chennai Super Kings,Winner,142,3,114,19.0
+729305,2014,1,Royal Challengers Bangalore,Rajasthan Royals,Loser,70,10,90,15.0
+729305,2014,2,Rajasthan Royals,Rajasthan Royals,Winner,71,4,78,13.0
+729307,2014,1,Kings XI Punjab,Kings XI Punjab,Winner,132,9,120,20.0
+729307,2014,2,Kolkata Knight Riders,Kings XI Punjab,Loser,109,10,110,18.2
+729309,2014,1,Mumbai Indians,Delhi Daredevils,Loser,125,7,120,20.0
+729309,2014,2,Delhi Daredevils,Delhi Daredevils,Winner,126,4,113,18.5
+729311,2014,1,Sunrisers Hyderabad,Chennai Super Kings,Loser,145,5,120,20.0
+729311,2014,2,Chennai Super Kings,Chennai Super Kings,Winner,146,5,117,19.3
+729313,2014,1,Royal Challengers Bangalore,Kings XI Punjab,Loser,124,8,120,20.0
+729313,2014,2,Kings XI Punjab,Kings XI Punjab,Winner,127,5,113,18.5
+729315,2014,1,Rajasthan Royals,,No result,152,5,120,20.0
+729315,2014,2,Kolkata Knight Riders,,No result,152,8,120,20.0
+729315,2014,3,Kolkata Knight Riders,,No result,11,2,6,1.0
+729315,2014,4,Rajasthan Royals,,No result,11,0,6,1.0
+729317,2014,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,172,5,120,20.0
+729317,2014,2,Mumbai Indians,Sunrisers Hyderabad,Loser,157,7,120,20.0
+733971,2014,1,Chennai Super Kings,Chennai Super Kings,Winner,148,3,102,17.0
+733971,2014,2,Kolkata Knight Riders,Chennai Super Kings,Loser,114,9,102,17.0
+733973,2014,1,Kings XI Punjab,Mumbai Indians,Loser,168,5,120,20.0
+733973,2014,2,Mumbai Indians,Mumbai Indians,Winner,170,5,115,19.1
+733975,2014,1,Delhi Daredevils,Rajasthan Royals,Loser,152,5,120,20.0
+733975,2014,2,Rajasthan Royals,Rajasthan Royals,Winner,156,3,111,18.3
+733977,2014,1,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,155,6,120,20.0
+733977,2014,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,158,6,119,19.5
+733979,2014,1,Rajasthan Royals,Rajasthan Royals,Winner,170,6,120,20.0
+733979,2014,2,Kolkata Knight Riders,Rajasthan Royals,Loser,160,6,120,20.0
+733981,2014,1,Delhi Daredevils,Chennai Super Kings,Loser,178,5,120,20.0
+733981,2014,2,Chennai Super Kings,Chennai Super Kings,Winner,181,2,118,19.4
+733983,2014,1,Mumbai Indians,Mumbai Indians,Winner,187,5,120,20.0
+733983,2014,2,Royal Challengers Bangalore,Mumbai Indians,Loser,168,8,120,20.0
+733985,2014,1,Delhi Daredevils,Kolkata Knight Riders,Loser,160,5,120,20.0
+733985,2014,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,161,2,110,18.2
+733987,2014,1,Kings XI Punjab,Kings XI Punjab,Winner,231,4,120,20.0
+733987,2014,2,Chennai Super Kings,Kings XI Punjab,Loser,187,6,120,20.0
+733989,2014,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,134,9,120,20.0
+733989,2014,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,102,10,119,19.5
+733991,2014,1,Kings XI Punjab,Kings XI Punjab,Winner,198,8,120,20.0
+733991,2014,2,Royal Challengers Bangalore,Kings XI Punjab,Loser,166,9,120,20.0
+733993,2014,1,Delhi Daredevils,Sunrisers Hyderabad,Loser,143,7,120,20.0
+733993,2014,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,44,2,26,4.2
+733995,2014,1,Mumbai Indians,Chennai Super Kings,Loser,157,6,120,20.0
+733995,2014,2,Chennai Super Kings,Chennai Super Kings,Winner,160,6,117,19.3
+733997,2014,1,Kings XI Punjab,Kolkata Knight Riders,Loser,149,8,120,20.0
+733997,2014,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,150,1,108,18.0
+733999,2014,1,Royal Challengers Bangalore,Rajasthan Royals,Loser,190,5,120,20.0
+733999,2014,2,Rajasthan Royals,Rajasthan Royals,Winner,191,5,113,18.5
+734001,2014,1,Sunrisers Hyderabad,Mumbai Indians,Loser,157,3,120,20.0
+734001,2014,2,Mumbai Indians,Mumbai Indians,Winner,160,3,112,18.4
+734003,2014,1,Rajasthan Royals,Chennai Super Kings,Loser,148,8,120,20.0
+734003,2014,2,Chennai Super Kings,Chennai Super Kings,Winner,149,5,118,19.4
+734005,2014,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,186,4,120,20.0
+734005,2014,2,Delhi Daredevils,Royal Challengers Bangalore,Loser,170,7,120,20.0
+734007,2014,1,Sunrisers Hyderabad,Kings XI Punjab,Loser,205,5,120,20.0
+734007,2014,2,Kings XI Punjab,Kings XI Punjab,Winner,211,4,112,18.4
+734009,2014,1,Mumbai Indians,Kolkata Knight Riders,Loser,141,5,120,20.0
+734009,2014,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,142,4,112,18.4
+734011,2014,1,Rajasthan Royals,Rajasthan Royals,Winner,201,6,120,20.0
+734011,2014,2,Delhi Daredevils,Rajasthan Royals,Loser,139,9,120,20.0
+734013,2014,1,Chennai Super Kings,Royal Challengers Bangalore,Loser,138,4,120,20.0
+734013,2014,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,142,5,119,19.5
+734015,2014,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,142,8,120,20.0
+734015,2014,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,146,3,118,19.4
+734017,2014,1,Mumbai Indians,Mumbai Indians,Winner,178,3,120,20.0
+734017,2014,2,Rajasthan Royals,Mumbai Indians,Loser,153,8,120,20.0
+734019,2014,1,Delhi Daredevils,Kings XI Punjab,Loser,164,7,120,20.0
+734019,2014,2,Kings XI Punjab,Kings XI Punjab,Winner,165,6,118,19.4
+734021,2014,1,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,160,6,120,20.0
+734021,2014,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,161,3,118,19.4
+734023,2014,1,Chennai Super Kings,Kolkata Knight Riders,Loser,154,4,120,20.0
+734023,2014,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,156,2,108,18.0
+734025,2014,1,Kings XI Punjab,Mumbai Indians,Loser,156,8,120,20.0
+734025,2014,2,Mumbai Indians,Mumbai Indians,Winner,159,3,114,19.0
+734027,2014,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,195,4,120,20.0
+734027,2014,2,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,165,5,120,20.0
+734029,2014,1,Chennai Super Kings,Sunrisers Hyderabad,Loser,185,3,120,20.0
+734029,2014,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,189,4,118,19.4
+734031,2014,1,Mumbai Indians,Mumbai Indians,Winner,173,10,117,19.3
+734031,2014,2,Delhi Daredevils,Mumbai Indians,Loser,158,4,120,20.0
+734033,2014,1,Kings XI Punjab,Kings XI Punjab,Winner,179,4,120,20.0
+734033,2014,2,Rajasthan Royals,Kings XI Punjab,Loser,163,8,120,20.0
+734035,2014,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,154,6,120,20.0
+734035,2014,2,Chennai Super Kings,Chennai Super Kings,Winner,160,2,106,17.4
+734037,2014,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,160,7,120,20.0
+734037,2014,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,161,6,86,14.2
+734039,2014,1,Delhi Daredevils,Kings XI Punjab,Loser,115,10,109,18.1
+734039,2014,2,Kings XI Punjab,Kings XI Punjab,Winner,119,3,83,13.5
+734041,2014,1,Rajasthan Royals,Mumbai Indians,Loser,189,4,120,20.0
+734041,2014,2,Mumbai Indians,Mumbai Indians,Winner,195,5,88,14.4
+734043,2014,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,163,8,120,20.0
+734043,2014,2,Kings XI Punjab,Kolkata Knight Riders,Loser,135,8,120,20.0
+734045,2014,1,Mumbai Indians,Chennai Super Kings,Loser,173,8,120,20.0
+734045,2014,2,Chennai Super Kings,Chennai Super Kings,Winner,176,3,112,18.4
+734047,2014,1,Kings XI Punjab,Kings XI Punjab,Winner,226,6,120,20.0
+734047,2014,2,Chennai Super Kings,Kings XI Punjab,Loser,202,7,120,20.0
+734049,2014,1,Kings XI Punjab,Kolkata Knight Riders,Loser,199,4,120,20.0
+734049,2014,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,200,7,117,19.3
+829705,2015,1,Mumbai Indians,Kolkata Knight Riders,Loser,168,3,120,20.0
+829705,2015,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,170,3,111,18.3
+829707,2015,1,Chennai Super Kings,Chennai Super Kings,Winner,150,7,120,20.0
+829707,2015,2,Delhi Daredevils,Chennai Super Kings,Loser,149,9,120,20.0
+829709,2015,1,Rajasthan Royals,Rajasthan Royals,Winner,162,7,120,20.0
+829709,2015,2,Kings XI Punjab,Rajasthan Royals,Loser,136,8,120,20.0
+829711,2015,1,Chennai Super Kings,Chennai Super Kings,Winner,209,4,120,20.0
+829711,2015,2,Sunrisers Hyderabad,Chennai Super Kings,Loser,164,6,120,20.0
+829713,2015,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,177,6,120,20.0
+829713,2015,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,179,7,114,19.0
+829715,2015,1,Delhi Daredevils,Rajasthan Royals,Loser,184,3,120,20.0
+829715,2015,2,Rajasthan Royals,Rajasthan Royals,Winner,186,7,120,20.0
+829717,2015,1,Kings XI Punjab,Kings XI Punjab,Winner,177,5,120,20.0
+829717,2015,2,Mumbai Indians,Kings XI Punjab,Loser,159,7,120,20.0
+829719,2015,1,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,166,10,119,19.5
+829719,2015,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,172,2,104,17.2
+829721,2015,1,Mumbai Indians,Rajasthan Royals,Loser,164,6,120,20.0
+829721,2015,2,Rajasthan Royals,Rajasthan Royals,Winner,165,3,115,19.1
+829723,2015,1,Chennai Super Kings,Kolkata Knight Riders,Loser,165,9,120,20.0
+829723,2015,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,169,3,119,19.5
+829725,2015,1,Kings XI Punjab,Delhi Daredevils,Loser,165,7,120,20.0
+829725,2015,2,Delhi Daredevils,Delhi Daredevils,Winner,169,5,119,19.5
+829727,2015,1,Sunrisers Hyderabad,Rajasthan Royals,Loser,127,5,120,20.0
+829727,2015,2,Rajasthan Royals,Rajasthan Royals,Winner,131,4,120,20.0
+829729,2015,1,Mumbai Indians,Chennai Super Kings,Loser,183,7,120,20.0
+829729,2015,2,Chennai Super Kings,Chennai Super Kings,Winner,189,4,100,16.4
+829731,2015,1,Delhi Daredevils,Delhi Daredevils,Winner,167,4,120,20.0
+829731,2015,2,Sunrisers Hyderabad,Delhi Daredevils,Loser,163,8,120,20.0
+829733,2015,1,Kings XI Punjab,Kolkata Knight Riders,Loser,155,9,120,20.0
+829733,2015,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,159,6,107,17.5
+829735,2015,1,Chennai Super Kings,Rajasthan Royals,Loser,156,4,120,20.0
+829735,2015,2,Rajasthan Royals,Rajasthan Royals,Winner,157,2,110,18.2
+829737,2015,1,Mumbai Indians,Mumbai Indians,Winner,209,7,120,20.0
+829737,2015,2,Royal Challengers Bangalore,Mumbai Indians,Loser,191,7,120,20.0
+829739,2015,1,Delhi Daredevils,Kolkata Knight Riders,Loser,146,8,120,20.0
+829739,2015,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,147,4,109,18.1
+829741,2015,1,Rajasthan Royals,,No result,191,6,120,20.0
+829741,2015,2,Kings XI Punjab,,No result,191,6,120,20.0
+829741,2015,3,Kings XI Punjab,,No result,15,2,6,1.0
+829741,2015,4,Rajasthan Royals,,No result,6,2,3,0.3
+829743,2015,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,176,4,120,20.0
+829743,2015,2,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,101,4,72,12.0
+829745,2015,1,Chennai Super Kings,Chennai Super Kings,Winner,181,8,120,20.0
+829745,2015,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,154,8,120,20.0
+829747,2015,1,Delhi Daredevils,Delhi Daredevils,Winner,190,4,120,20.0
+829747,2015,2,Mumbai Indians,Delhi Daredevils,Loser,153,9,120,20.0
+829749,2015,1,Rajasthan Royals,Royal Challengers Bangalore,Loser,130,9,120,20.0
+829749,2015,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,134,1,97,16.1
+829751,2015,1,Mumbai Indians,Mumbai Indians,Winner,157,8,120,20.0
+829751,2015,2,Sunrisers Hyderabad,Mumbai Indians,Loser,137,8,120,20.0
+829753,2015,1,Chennai Super Kings,Chennai Super Kings,Winner,192,3,120,20.0
+829753,2015,2,Kings XI Punjab,Chennai Super Kings,Loser,95,9,120,20.0
+829757,2015,1,Delhi Daredevils,Royal Challengers Bangalore,Loser,95,10,110,18.2
+829757,2015,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,99,0,63,10.3
+829759,2015,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,150,6,120,20.0
+829759,2015,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,130,9,120,20.0
+829761,2015,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,171,7,120,20.0
+829761,2015,2,Delhi Daredevils,Kolkata Knight Riders,Loser,158,6,120,20.0
+829763,2015,1,Royal Challengers Bangalore,,No result,200,7,120,20.0
+829765,2015,1,Chennai Super Kings,Chennai Super Kings,Winner,134,6,120,20.0
+829765,2015,2,Kolkata Knight Riders,Chennai Super Kings,Loser,132,9,120,20.0
+829767,2015,1,Kings XI Punjab,Delhi Daredevils,Loser,118,8,120,20.0
+829767,2015,2,Delhi Daredevils,Delhi Daredevils,Winner,119,1,83,13.5
+829769,2015,1,Mumbai Indians,Mumbai Indians,Winner,187,5,120,20.0
+829769,2015,2,Rajasthan Royals,Mumbai Indians,Loser,179,7,120,20.0
+829771,2015,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,111,4,60,10.0
+829771,2015,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,115,3,58,9.4
+829773,2015,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,192,7,120,20.0
+829773,2015,2,Chennai Super Kings,Sunrisers Hyderabad,Loser,170,6,120,20.0
+829775,2015,1,Mumbai Indians,Mumbai Indians,Winner,172,3,120,20.0
+829775,2015,2,Kings XI Punjab,Mumbai Indians,Loser,149,7,120,20.0
+829777,2015,1,Rajasthan Royals,Rajasthan Royals,Winner,189,2,120,20.0
+829777,2015,2,Delhi Daredevils,Rajasthan Royals,Loser,175,7,120,20.0
+829779,2015,1,Chennai Super Kings,Chennai Super Kings,Winner,148,9,120,20.0
+829779,2015,2,Royal Challengers Bangalore,Chennai Super Kings,Loser,124,10,118,19.4
+829781,2015,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,167,7,120,20.0
+829781,2015,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,132,9,120,20.0
+829783,2015,1,Delhi Daredevils,Mumbai Indians,Loser,152,6,120,20.0
+829783,2015,2,Mumbai Indians,Mumbai Indians,Winner,153,5,117,19.3
+829785,2015,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,226,3,120,20.0
+829785,2015,2,Kings XI Punjab,Royal Challengers Bangalore,Loser,88,10,82,13.4
+829787,2015,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,201,4,120,20.0
+829787,2015,2,Rajasthan Royals,Sunrisers Hyderabad,Loser,194,7,120,20.0
+829789,2015,1,Chennai Super Kings,Mumbai Indians,Loser,158,5,120,20.0
+829789,2015,2,Mumbai Indians,Mumbai Indians,Winner,159,4,116,19.2
+829791,2015,1,Kings XI Punjab,Kolkata Knight Riders,Loser,183,5,120,20.0
+829791,2015,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,184,9,119,19.5
+829793,2015,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,163,4,120,20.0
+829793,2015,2,Delhi Daredevils,Sunrisers Hyderabad,Loser,157,4,120,20.0
+829795,2015,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,235,1,120,20.0
+829795,2015,2,Mumbai Indians,Royal Challengers Bangalore,Loser,196,7,120,20.0
+829797,2015,1,Chennai Super Kings,Chennai Super Kings,Winner,157,5,120,20.0
+829797,2015,2,Rajasthan Royals,Chennai Super Kings,Loser,145,9,120,20.0
+829799,2015,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,185,5,120,20.0
+829799,2015,2,Kings XI Punjab,Sunrisers Hyderabad,Loser,180,7,120,20.0
+829801,2015,1,Chennai Super Kings,Delhi Daredevils,Loser,119,6,120,20.0
+829801,2015,2,Delhi Daredevils,Delhi Daredevils,Winner,120,4,100,16.4
+829803,2015,1,Kings XI Punjab,Kings XI Punjab,Winner,106,6,60,10.0
+829803,2015,2,Royal Challengers Bangalore,Kings XI Punjab,Loser,84,6,60,10.0
+829805,2015,1,Mumbai Indians,Mumbai Indians,Winner,171,4,120,20.0
+829805,2015,2,Kolkata Knight Riders,Mumbai Indians,Loser,166,7,120,20.0
+829807,2015,1,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,135,3,66,11.0
+829807,2015,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,83,4,35,5.5
+829809,2015,1,Kings XI Punjab,Chennai Super Kings,Loser,130,7,120,20.0
+829809,2015,2,Chennai Super Kings,Chennai Super Kings,Winner,134,3,101,16.5
+829811,2015,1,Rajasthan Royals,Rajasthan Royals,Winner,199,6,120,20.0
+829811,2015,2,Kolkata Knight Riders,Rajasthan Royals,Loser,190,9,120,20.0
+829813,2015,1,Delhi Daredevils,,No result,187,5,120,20.0
+829813,2015,2,Royal Challengers Bangalore,,No result,2,0,7,1.1
+829815,2015,1,Sunrisers Hyderabad,Mumbai Indians,Loser,113,10,120,20.0
+829815,2015,2,Mumbai Indians,Mumbai Indians,Winner,114,1,83,13.5
+829817,2015,1,Mumbai Indians,Mumbai Indians,Winner,187,6,120,20.0
+829817,2015,2,Chennai Super Kings,Mumbai Indians,Loser,162,10,114,19.0
+829819,2015,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,180,4,120,20.0
+829819,2015,2,Rajasthan Royals,Royal Challengers Bangalore,Loser,109,10,114,19.0
+829821,2015,1,Royal Challengers Bangalore,Chennai Super Kings,Loser,139,8,120,20.0
+829821,2015,2,Chennai Super Kings,Chennai Super Kings,Winner,140,7,119,19.5
+829823,2015,1,Mumbai Indians,Mumbai Indians,Winner,202,5,120,20.0
+829823,2015,2,Chennai Super Kings,Mumbai Indians,Loser,161,8,120,20.0
+980901,2016,1,Mumbai Indians,Rising Pune Supergiants,Loser,121,8,120,20.0
+980901,2016,2,Rising Pune Supergiants,Rising Pune Supergiants,Winner,126,1,88,14.4
+980903,2016,1,Delhi Daredevils,Kolkata Knight Riders,Loser,98,10,106,17.4
+980903,2016,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,99,1,85,14.1
+980905,2016,1,Kings XI Punjab,Gujarat Lions,Loser,161,6,120,20.0
+980905,2016,2,Gujarat Lions,Gujarat Lions,Winner,162,5,106,17.4
+980907,2016,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,227,4,120,20.0
+980907,2016,2,Sunrisers Hyderabad,Royal Challengers Bangalore,Loser,182,6,120,20.0
+980909,2016,1,Kolkata Knight Riders,Mumbai Indians,Loser,187,5,120,20.0
+980909,2016,2,Mumbai Indians,Mumbai Indians,Winner,188,4,115,19.1
+980911,2016,1,Rising Pune Supergiants,Gujarat Lions,Loser,163,5,120,20.0
+980911,2016,2,Gujarat Lions,Gujarat Lions,Winner,164,3,108,18.0
+980913,2016,1,Kings XI Punjab,Delhi Daredevils,Loser,111,9,120,20.0
+980913,2016,2,Delhi Daredevils,Delhi Daredevils,Winner,113,2,81,13.3
+980915,2016,1,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,142,7,120,20.0
+980915,2016,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,146,2,110,18.2
+980917,2016,1,Mumbai Indians,Gujarat Lions,Loser,143,8,120,20.0
+980917,2016,2,Gujarat Lions,Gujarat Lions,Winner,147,7,120,20.0
+980919,2016,1,Rising Pune Supergiants,Kings XI Punjab,Loser,152,7,120,20.0
+980919,2016,2,Kings XI Punjab,Kings XI Punjab,Winner,153,4,112,18.4
+980921,2016,1,Royal Challengers Bangalore,Delhi Daredevils,Loser,191,5,120,20.0
+980921,2016,2,Delhi Daredevils,Delhi Daredevils,Winner,192,3,115,19.1
+980923,2016,1,Mumbai Indians,Sunrisers Hyderabad,Loser,142,6,120,20.0
+980923,2016,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,145,3,105,17.3
+980925,2016,1,Kings XI Punjab,Kolkata Knight Riders,Loser,138,8,120,20.0
+980925,2016,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,141,4,103,17.1
+980927,2016,1,Royal Challengers Bangalore,Mumbai Indians,Loser,170,7,120,20.0
+980927,2016,2,Mumbai Indians,Mumbai Indians,Winner,171,4,108,18.0
+980929,2016,1,Gujarat Lions,Sunrisers Hyderabad,Loser,135,8,120,20.0
+980929,2016,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,137,0,89,14.5
+980931,2016,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,185,3,120,20.0
+980931,2016,2,Rising Pune Supergiants,Royal Challengers Bangalore,Loser,172,9,120,20.0
+980933,2016,1,Delhi Daredevils,Delhi Daredevils,Winner,164,4,120,20.0
+980933,2016,2,Mumbai Indians,Delhi Daredevils,Loser,154,7,120,20.0
+980935,2016,1,Kings XI Punjab,Sunrisers Hyderabad,Loser,143,6,120,20.0
+980935,2016,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,146,5,107,17.5
+980937,2016,1,Royal Challengers Bangalore,Gujarat Lions,Loser,180,2,120,20.0
+980937,2016,2,Gujarat Lions,Gujarat Lions,Winner,182,4,117,19.3
+980939,2016,1,Rising Pune Supergiants,Kolkata Knight Riders,Loser,160,5,120,20.0
+980939,2016,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,162,8,117,19.3
+980941,2016,1,Mumbai Indians,Mumbai Indians,Winner,189,6,120,20.0
+980941,2016,2,Kings XI Punjab,Mumbai Indians,Loser,164,7,120,20.0
+980943,2016,1,Sunrisers Hyderabad,Rising Pune Supergiants,Loser,118,8,120,20.0
+980943,2016,2,Rising Pune Supergiants,Rising Pune Supergiants,Winner,94,3,66,11.0
+980945,2016,1,Gujarat Lions,Gujarat Lions,Winner,172,6,120,20.0
+980945,2016,2,Delhi Daredevils,Gujarat Lions,Loser,171,5,120,20.0
+980947,2016,1,Kolkata Knight Riders,Mumbai Indians,Loser,174,5,120,20.0
+980947,2016,2,Mumbai Indians,Mumbai Indians,Winner,178,4,108,18.0
+980949,2016,1,Rising Pune Supergiants,Gujarat Lions,Loser,195,3,120,20.0
+980949,2016,2,Gujarat Lions,Gujarat Lions,Winner,196,7,120,20.0
+980951,2016,1,Delhi Daredevils,Delhi Daredevils,Winner,186,8,120,20.0
+980951,2016,2,Kolkata Knight Riders,Delhi Daredevils,Loser,159,10,111,18.3
+980953,2016,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,194,5,120,20.0
+980953,2016,2,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,179,6,120,20.0
+980955,2016,1,Kings XI Punjab,Kings XI Punjab,Winner,154,10,119,19.5
+980955,2016,2,Gujarat Lions,Kings XI Punjab,Loser,131,9,120,20.0
+980957,2016,1,Rising Pune Supergiants,Mumbai Indians,Loser,159,5,120,20.0
+980957,2016,2,Mumbai Indians,Mumbai Indians,Winner,161,2,111,18.3
+980959,2016,1,Royal Challengers Bangalore,Kolkata Knight Riders,Loser,185,7,120,20.0
+980959,2016,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,189,5,115,19.1
+980961,2016,1,Gujarat Lions,Delhi Daredevils,Loser,149,7,120,20.0
+980961,2016,2,Delhi Daredevils,Delhi Daredevils,Winner,150,2,104,17.2
+980963,2016,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,164,3,120,20.0
+980963,2016,2,Kings XI Punjab,Kolkata Knight Riders,Loser,157,9,120,20.0
+980965,2016,1,Delhi Daredevils,Rising Pune Supergiants,Loser,162,7,120,20.0
+980965,2016,2,Rising Pune Supergiants,Rising Pune Supergiants,Winner,166,3,115,19.1
+980967,2016,1,Gujarat Lions,Sunrisers Hyderabad,Loser,126,6,120,20.0
+980967,2016,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,129,5,114,19.0
+980969,2016,1,Rising Pune Supergiants,Royal Challengers Bangalore,Loser,191,6,120,20.0
+980969,2016,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,195,3,117,19.3
+980971,2016,1,Kings XI Punjab,Kings XI Punjab,Winner,181,5,120,20.0
+980971,2016,2,Delhi Daredevils,Kings XI Punjab,Loser,172,5,120,20.0
+980973,2016,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,177,3,120,20.0
+980973,2016,2,Mumbai Indians,Sunrisers Hyderabad,Loser,92,10,99,16.3
+980975,2016,1,Kolkata Knight Riders,Gujarat Lions,Loser,158,4,120,20.0
+980975,2016,2,Gujarat Lions,Gujarat Lions,Winner,164,5,108,18.0
+980977,2016,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,175,6,120,20.0
+980977,2016,2,Kings XI Punjab,Royal Challengers Bangalore,Loser,174,4,120,20.0
+980979,2016,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,137,8,120,20.0
+980979,2016,2,Rising Pune Supergiants,Sunrisers Hyderabad,Loser,133,8,120,20.0
+980981,2016,1,Royal Challengers Bangalore,Mumbai Indians,Loser,151,4,120,20.0
+980981,2016,2,Mumbai Indians,Mumbai Indians,Winner,153,4,112,18.4
+980983,2016,1,Sunrisers Hyderabad,Delhi Daredevils,Loser,146,8,120,20.0
+980983,2016,2,Delhi Daredevils,Delhi Daredevils,Winner,150,3,109,18.1
+980985,2016,1,Mumbai Indians,Kings XI Punjab,Loser,124,9,120,20.0
+980985,2016,2,Kings XI Punjab,Kings XI Punjab,Winner,127,3,102,17.0
+980987,2016,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,248,3,120,20.0
+980987,2016,2,Gujarat Lions,Royal Challengers Bangalore,Loser,104,10,112,18.4
+980989,2016,1,Rising Pune Supergiants,Kolkata Knight Riders,Loser,103,6,106,17.4
+980989,2016,2,Kolkata Knight Riders,Kolkata Knight Riders,Winner,66,2,30,5.0
+980991,2016,1,Kings XI Punjab,Sunrisers Hyderabad,Loser,179,4,120,20.0
+980991,2016,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,180,3,118,19.4
+980993,2016,1,Mumbai Indians,Mumbai Indians,Winner,206,4,120,20.0
+980993,2016,2,Delhi Daredevils,Mumbai Indians,Loser,126,10,115,19.1
+980995,2016,1,Kolkata Knight Riders,Royal Challengers Bangalore,Loser,183,5,120,20.0
+980995,2016,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,186,1,112,18.4
+980997,2016,1,Delhi Daredevils,Rising Pune Supergiants,Loser,121,6,120,20.0
+980997,2016,2,Rising Pune Supergiants,Rising Pune Supergiants,Winner,76,1,66,11.0
+980999,2016,1,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,211,3,90,15.0
+980999,2016,2,Kings XI Punjab,Royal Challengers Bangalore,Loser,120,9,84,14.0
+981001,2016,1,Kolkata Knight Riders,Gujarat Lions,Loser,124,8,120,20.0
+981001,2016,2,Gujarat Lions,Gujarat Lions,Winner,125,4,81,13.3
+981003,2016,1,Sunrisers Hyderabad,Delhi Daredevils,Loser,158,7,120,20.0
+981003,2016,2,Delhi Daredevils,Delhi Daredevils,Winner,161,4,120,20.0
+981005,2016,1,Kings XI Punjab,Rising Pune Supergiants,Loser,172,7,120,20.0
+981005,2016,2,Rising Pune Supergiants,Rising Pune Supergiants,Winner,173,6,120,20.0
+981007,2016,1,Mumbai Indians,Gujarat Lions,Loser,172,8,120,20.0
+981007,2016,2,Gujarat Lions,Gujarat Lions,Winner,173,4,107,17.5
+981009,2016,1,Kolkata Knight Riders,Kolkata Knight Riders,Winner,171,6,120,20.0
+981009,2016,2,Sunrisers Hyderabad,Kolkata Knight Riders,Loser,149,8,120,20.0
+981011,2016,1,Delhi Daredevils,Royal Challengers Bangalore,Loser,138,8,120,20.0
+981011,2016,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,139,4,109,18.1
+981013,2016,1,Gujarat Lions,Royal Challengers Bangalore,Loser,158,10,120,20.0
+981013,2016,2,Royal Challengers Bangalore,Royal Challengers Bangalore,Winner,159,6,110,18.2
+981015,2016,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,162,8,120,20.0
+981015,2016,2,Kolkata Knight Riders,Sunrisers Hyderabad,Loser,140,8,120,20.0
+981017,2016,1,Gujarat Lions,Sunrisers Hyderabad,Loser,162,7,120,20.0
+981017,2016,2,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,163,6,116,19.2
+981019,2016,1,Sunrisers Hyderabad,Sunrisers Hyderabad,Winner,208,7,120,20.0
+981019,2016,2,Royal Challengers Bangalore,Sunrisers Hyderabad,Loser,200,7,120,20.0

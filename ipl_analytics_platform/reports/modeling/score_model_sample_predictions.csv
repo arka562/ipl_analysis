@@ -1,0 +1,31 @@
+match_id,season,innings,batting_team,runs_so_far,wickets_so_far,final_score,predicted_final_score,absolute_error
+501209,2011,2,Kolkata Knight Riders,90,1,160,160,0
+1082642,2017,2,Rising Pune Supergiant,78,3,161,161,0
+1082600,2017,2,Mumbai Indians,85,3,159,159,0
+1082596,2017,2,Sunrisers Hyderabad,89,1,140,140,0
+501214,2011,2,Kolkata Knight Riders,45,2,85,85,0
+1216505,2020,2,Delhi Capitals,81,1,154,154,0
+980995,2016,1,Kolkata Knight Riders,87,1,183,183,0
+734033,2014,2,Rajasthan Royals,64,3,163,163,0
+598023,2013,2,Royal Challengers Bangalore,67,3,123,123,0
+1359542,2023,2,Kolkata Knight Riders,82,3,175,175,0
+598021,2013,2,Sunrisers Hyderabad,56,2,127,127,0
+1529311,2026,1,Lucknow Super Giants,100,3,196,196,0
+829801,2015,2,Delhi Daredevils,66,2,120,120,0
+829799,2015,1,Sunrisers Hyderabad,86,1,185,185,0
+419141,2009,2,Deccan Chargers,86,2,157,157,0
+733973,2014,1,Kings XI Punjab,70,2,168,168,0
+548306,2012,2,Mumbai Indians,76,3,115,115,0
+1473457,2025,1,Sunrisers Hyderabad,64,3,152,152,0
+1304101,2022,1,Chennai Super Kings,100,0,208,209,1
+1175372,2019,2,Kolkata Knight Riders,94,2,206,207,1
+598005,2013,2,Kolkata Knight Riders,55,5,125,124,1
+1304094,2022,2,Punjab Kings,76,1,145,144,1
+1422137,2024,2,Rajasthan Royals,95,1,189,190,1
+980915,2016,2,Kolkata Knight Riders,72,0,146,145,1
+336006,2007,2,Kings XI Punjab,81,2,127,128,1
+1359478,2023,2,Sunrisers Hyderabad,48,5,131,130,1
+501198,2011,2,Kolkata Knight Riders,76,1,151,150,1
+1426305,2024,2,Mumbai Indians,92,2,196,195,1
+1216514,2020,1,Rajasthan Royals,70,3,154,153,1
+1359501,2023,2,Punjab Kings,77,5,150,149,1

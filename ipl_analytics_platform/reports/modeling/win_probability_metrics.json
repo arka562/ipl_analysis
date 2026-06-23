@@ -1,0 +1,27 @@
+{
+  "model_type": "RandomForestClassifier",
+  "prediction_task": "Predict batting team win probability at over checkpoints",
+  "rows_total": 47966,
+  "rows_train": 38372,
+  "rows_test": 9594,
+  "accuracy": 0.74,
+  "roc_auc": 0.834,
+  "log_loss": 0.496,
+  "features": [
+    "season",
+    "innings",
+    "batting_team",
+    "over_number",
+    "current_score",
+    "wickets_lost",
+    "balls_bowled",
+    "overs_remaining",
+    "current_run_rate",
+    "last_over_runs",
+    "last_over_wickets",
+    "target",
+    "runs_required",
+    "required_run_rate",
+    "is_chase"
+  ]
+}

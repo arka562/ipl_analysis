@@ -1,0 +1,58 @@
+team,phase,innings,runs,run_rate,wickets_lost_per_innings,team_phase_strength_score
+Royal Challengers Bengaluru,Death,37,1558,11.71,1.97,100.0
+Punjab Kings,Death,80,3190,11.15,1.82,94.74
+Gujarat Titans,Death,71,2826,11.15,1.92,89.47
+Lucknow Super Giants,Death,70,2779,10.86,1.94,84.21
+Rising Pune Supergiants,Death,11,443,10.85,2.18,78.95
+Chennai Super Kings,Death,255,10087,10.81,1.65,73.68
+Mumbai Indians,Death,272,10692,10.73,2.07,68.42
+Royal Challengers Bangalore,Death,220,8417,10.67,1.92,63.16
+Delhi Capitals,Death,116,4170,10.4,1.84,57.89
+Kolkata Knight Riders,Death,245,8849,10.25,1.95,52.63
+Sunrisers Hyderabad,Death,198,7262,10.07,2.16,47.37
+Rising Pune Supergiant,Death,15,555,10.06,2.13,42.11
+Delhi Daredevils,Death,145,5043,10.02,1.78,36.84
+Rajasthan Royals,Death,230,8171,9.96,1.99,31.58
+Kings XI Punjab,Death,177,6227,9.56,2.07,26.32
+Deccan Chargers,Death,72,2539,9.52,2.51,21.05
+Gujarat Lions,Death,28,921,9.51,2.18,15.79
+Kochi Tuskers Kerala,Death,11,337,8.79,2.64,10.53
+Pune Warriors,Death,44,1360,8.4,2.34,5.26
+Royal Challengers Bengaluru,Middle,44,4055,9.68,2.8,100.0
+Gujarat Titans,Middle,74,6548,8.88,2.38,94.74
+Punjab Kings,Middle,87,7549,8.84,3.05,89.47
+Lucknow Super Giants,Middle,72,6246,8.7,2.93,84.21
+Delhi Capitals,Middle,119,9603,8.16,2.77,78.95
+Rajasthan Royals,Middle,247,19688,8.09,2.82,73.68
+Sunrisers Hyderabad,Middle,208,16558,8.07,2.53,68.42
+Gujarat Lions,Middle,30,2382,8.07,2.77,63.16
+Mumbai Indians,Middle,290,23010,8.03,2.67,57.89
+Kings XI Punjab,Middle,190,14883,8.02,2.65,52.63
+Kolkata Knight Riders,Middle,274,21409,8.01,2.68,47.37
+Chennai Super Kings,Middle,265,20951,7.98,2.43,42.11
+Royal Challengers Bangalore,Middle,237,18356,7.95,2.63,36.84
+Delhi Daredevils,Middle,159,11893,7.64,2.65,31.58
+Rising Pune Supergiants,Middle,14,982,7.63,2.0,26.32
+Deccan Chargers,Middle,75,5507,7.42,2.59,21.05
+Rising Pune Supergiant,Middle,16,1130,7.24,2.25,15.79
+Pune Warriors,Middle,45,3103,6.94,2.64,10.53
+Kochi Tuskers Kerala,Middle,14,884,6.84,2.43,5.26
+Royal Challengers Bengaluru,Powerplay,44,2612,9.89,1.34,100.0
+Punjab Kings,Powerplay,87,4770,9.14,1.57,94.74
+Gujarat Titans,Powerplay,74,3833,8.63,1.12,89.47
+Delhi Capitals,Powerplay,123,6186,8.63,1.63,84.21
+Lucknow Super Giants,Powerplay,73,3729,8.62,1.45,78.95
+Gujarat Lions,Powerplay,31,1559,8.61,1.42,73.68
+Sunrisers Hyderabad,Powerplay,213,10624,8.46,1.31,68.42
+Rising Pune Supergiant,Powerplay,16,785,8.18,1.38,63.16
+Rajasthan Royals,Powerplay,252,12121,8.14,1.34,57.89
+Kochi Tuskers Kerala,Powerplay,14,680,8.1,1.64,52.63
+Kolkata Knight Riders,Powerplay,283,13388,8.05,1.55,47.37
+Mumbai Indians,Powerplay,296,13939,7.97,1.4,42.11
+Chennai Super Kings,Powerplay,266,12562,7.9,1.35,36.84
+Kings XI Punjab,Powerplay,195,8954,7.83,1.47,31.58
+Delhi Daredevils,Powerplay,162,7360,7.62,1.68,26.32
+Royal Challengers Bangalore,Powerplay,243,10919,7.6,1.39,21.05
+Rising Pune Supergiants,Powerplay,14,638,7.6,1.14,15.79
+Deccan Chargers,Powerplay,75,3417,7.59,1.45,10.53
+Pune Warriors,Powerplay,45,1895,7.02,1.69,5.26
