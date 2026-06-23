@@ -183,3 +183,74 @@ def train_model(frame):
 
     return model, metrics, sample, feature_cols
 
+def main():
+    parser = argparse.ArgumentParser(description="Train IPL win probability model.")
+    parser.add_argument("--processed-dir", default="ipl_analytics_platform/data/processed")
+    parser.add_argument("--model-dir",     default="ipl_analytics_platform/models")
+    parser.add_argument("--reports-dir",   default="ipl_analytics_platform/reports/modeling")
+    args = parser.parse_args()
+
+    processed_dir = Path(args.processed_dir)
+    model_dir     = Path(args.model_dir)
+    reports_dir   = Path(args.reports_dir)
+    model_dir.mkdir(parents=True, exist_ok=True)
+    reports_dir.mkdir(parents=True, exist_ok=True)
+
+    print("Building checkpoint frame...")
+    frame = build_checkpoint_frame(
+        processed_dir / "deliveries.csv",
+        processed_dir / "innings.csv",
+    )
+
+    print("Training model...")
+    model, metrics, sample, feature_cols = train_model(frame)
+
+    joblib.dump(model, model_dir / "win_probability_model.joblib")
+    frame.to_csv(reports_dir / "win_probability_training_data.csv", index=False)
+    sample.to_csv(reports_dir / "win_probability_sample_predictions.csv", index=False)
+
+    metrics["features"] = feature_cols
+    (reports_dir / "win_probability_metrics.json").write_text(
+        json.dumps(metrics, indent=2), encoding="utf-8"
+    )
+
+    summary = [
+        "# Win Probability Model",
+        "",
+        "## Task",
+        "",
+        "Predict whether the batting team will win from over-by-over match checkpoints.",
+        "",
+        "## Metrics",
+        "",
+        f"- Rows used  : {metrics['rows_total']:,}",
+        f"- Train rows : {metrics['rows_train']:,}",
+        f"- Test rows  : {metrics['rows_test']:,}",
+        f"- Accuracy   : {metrics['accuracy']}",
+        f"- ROC AUC    : {metrics['roc_auc']}",
+        f"- Log loss   : {metrics['log_loss']}",
+        "",
+        "## Features",
+        "",
+    ]
+    summary.extend(f"- `{f}`" for f in feature_cols)
+    summary.extend(
+        [
+            "",
+            "## Interpretation",
+            "",
+            "This model powers live-style win probability curves. It shows how a team's "
+            "chances evolved over each over based on score, wickets, innings context, "
+            "target pressure, and recent scoring.",
+        ]
+    )
+    (reports_dir / "win_probability_summary.md").write_text("\n".join(summary) + "\n", encoding="utf-8")
+
+    print(f"Model saved : {(model_dir / 'win_probability_model.joblib').resolve()}")
+    print(f"Accuracy    : {metrics['accuracy']}")
+    print(f"ROC AUC     : {metrics['roc_auc']}")
+    print(f"Log loss    : {metrics['log_loss']}")
+
+
+if __name__ == "__main__":
+    main()
