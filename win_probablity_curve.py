@@ -153,3 +153,75 @@ def make_svg(match_frame, output_path):
 
     parts.append("</svg>")
     output_path.write_text("\n".join(parts), encoding="utf-8")
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Generate a win-probability curve CSV and SVG for one match."
+    )
+    parser.add_argument(
+        "--training-data",
+        default="ipl_analytics_platform/reports/modeling/win_probability_training_data.csv",
+    )
+    parser.add_argument(
+        "--model-path",
+        default="ipl_analytics_platform/models/win_probability_model.joblib",
+    )
+    parser.add_argument(
+        "--metrics-path",
+        default="ipl_analytics_platform/reports/modeling/win_probability_metrics.json",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default="ipl_analytics_platform/reports/visuals",
+    )
+    parser.add_argument(
+        "--match-id",
+        default="",
+        help="Specific match ID to plot. Leave blank to auto-select most exciting match.",
+    )
+    args = parser.parse_args()
+
+    print("Loading model and data...")
+    frame   = pd.read_csv(args.training_data)
+    model   = joblib.load(args.model_path)
+    metrics = json.loads(Path(args.metrics_path).read_text(encoding="utf-8"))
+    features = metrics["features"]
+
+    # Score every row
+    frame["win_probability"] = (
+        model.predict_proba(frame[features])[:, 1] * 100
+    ).round(1)
+
+    # Pick match
+    match_id   = args.match_id or choose_match(frame)
+    match_frame = frame[frame["match_id"].astype(str) == str(match_id)].copy()
+
+    if match_frame.empty:
+        raise SystemExit(f"No rows found for match_id: {match_id}")
+
+    output_dir = Path(args.output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    csv_path = output_dir / f"win_probability_curve_{match_id}.csv"
+    svg_path = output_dir / f"win_probability_curve_{match_id}.svg"
+
+    # Write CSV
+    match_frame[
+        [
+            "match_id", "season", "innings", "batting_team",
+            "over_number", "current_score", "wickets_lost",
+            "target", "runs_required", "batting_team_won", "win_probability",
+        ]
+    ].to_csv(csv_path, index=False)
+
+    # Write SVG
+    make_svg(match_frame, svg_path)
+
+    print(f"Match selected : {match_id}")
+    print(f"Curve CSV      : {csv_path.resolve()}")
+    print(f"Curve SVG      : {svg_path.resolve()}")
+
+
+if __name__ == "__main__":
+    main()
