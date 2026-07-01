@@ -1,7 +1,11 @@
 import argparse
+import re
 from pathlib import Path
 
 import duckdb
+
+
+_VALID_IDENTIFIER = re.compile(r'^[A-Za-z_][A-Za-z0-9_]*$')
 
 
 TABLES = {
@@ -150,11 +154,18 @@ REPORT_QUERIES = {
 }
 
 def sql_path(path):
-    return str(path).replace("\\", "/").replace("'", "''")
+    """Escape a filesystem path for safe use inside a SQL single-quoted string."""
+    sanitized = str(path).replace("\\", "/").replace("'", "''")
+    # Reject characters that could break out of a string literal
+    if any(c in sanitized for c in (';', '--', '/*')):
+        raise ValueError(f"Potentially unsafe path rejected: {path}")
+    return sanitized
 
 
 def load_tables(connection, processed_dir):
     for table_name, file_name in TABLES.items():
+        if not _VALID_IDENTIFIER.match(table_name):
+            raise ValueError(f"Invalid table name: {table_name!r}")
         csv_path = processed_dir / file_name
         if not csv_path.exists():
             raise FileNotFoundError(f"Missing required input file: {csv_path}")

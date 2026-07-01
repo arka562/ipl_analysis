@@ -172,7 +172,12 @@ def load(path):
 
 @st.cache_resource
 def load_model(path):
-    return joblib.load(path)
+    resolved = Path(path).resolve()
+    if not resolved.is_file():
+        raise FileNotFoundError(f"Model file not found: {resolved}")
+    if not str(resolved).endswith(".joblib"):
+        raise ValueError(f"Unexpected model file extension: {resolved}")
+    return joblib.load(resolved)
 
 @st.cache_data
 def load_json(path):
