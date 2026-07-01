@@ -1,7 +1,8 @@
 import argparse
-import csv
 from collections import defaultdict
 from pathlib import Path
+
+from shared.io_utils import as_float, as_int, read_csv, safe_rate, write_csv
 
 
 PHASES = ("Powerplay", "Middle", "Death")
@@ -10,42 +11,11 @@ PLAYER_IMPACT_MIN_BOWLING_BALLS = 600
 DEATH_INDEX_MIN_BALLS = 120
 
 
-def read_csv(path):
-    with path.open("r", encoding="utf-8", newline="") as handle:
-        return list(csv.DictReader(handle))
-
-
-def write_csv(path, rows, headers):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=headers)
-        writer.writeheader()
-        writer.writerows(rows)
-
-
-def as_int(value):
-    try:
-        return int(float(value))
-    except (TypeError, ValueError):
-        return 0
-
-
-def as_float(value):
-    try:
-        return float(value)
-    except (TypeError, ValueError):
-        return 0.0
-
-
 def pct_rank(value, values):
     if not values:
         return 0.0
     lower_or_equal = sum(1 for item in values if item <= value)
     return 100.0 * lower_or_equal / len(values)
-
-
-def safe_rate(numerator, denominator, multiplier=1.0):
-    return multiplier * numerator / denominator if denominator else 0.0
 
 
 def build_match_lookup(matches):
