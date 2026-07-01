@@ -37,17 +37,41 @@ def fmt_pct(value):
 def fmt_num(value):
     return f"{as_float(value):,.2f}".rstrip("0").rstrip(".")
 
+def _require_rows(rows, name):
+    if not rows:
+        raise ValueError(f"No data found in {name} — cannot generate insights.")
+    return rows
+
+
 def build_insights(reports_dir, processed_dir):
-    season       = read_csv(reports_dir / "season_summary.csv")
-    toss         = read_csv(reports_dir / "toss_impact_by_season.csv")
-    chasing      = read_csv(reports_dir / "chasing_vs_defending.csv")
-    venues       = read_csv(reports_dir / "venue_summary.csv")
-    teams        = read_csv(reports_dir / "team_summary.csv")
-    phase_batters = read_csv(reports_dir / "top_batters_by_phase.csv")
-    death_bowlers = read_csv(reports_dir / "top_death_bowlers.csv")
-    batting      = read_csv(processed_dir / "batting_summary.csv")
-    bowling      = read_csv(processed_dir / "bowling_summary.csv")
-    phase_summary = read_csv(processed_dir / "phase_summary.csv")
+    required_files = {
+        "season_summary.csv": reports_dir,
+        "toss_impact_by_season.csv": reports_dir,
+        "chasing_vs_defending.csv": reports_dir,
+        "venue_summary.csv": reports_dir,
+        "team_summary.csv": reports_dir,
+        "top_batters_by_phase.csv": reports_dir,
+        "top_death_bowlers.csv": reports_dir,
+        "batting_summary.csv": processed_dir,
+        "bowling_summary.csv": processed_dir,
+        "phase_summary.csv": processed_dir,
+    }
+    missing = [f"{d / f}" for f, d in required_files.items() if not (d / f).exists()]
+    if missing:
+        raise FileNotFoundError(
+            "Missing input files for insight generation:\n" + "\n".join(f"  - {p}" for p in missing)
+        )
+
+    season       = _require_rows(read_csv(reports_dir / "season_summary.csv"), "season_summary")
+    toss         = _require_rows(read_csv(reports_dir / "toss_impact_by_season.csv"), "toss_impact_by_season")
+    chasing      = _require_rows(read_csv(reports_dir / "chasing_vs_defending.csv"), "chasing_vs_defending")
+    venues       = _require_rows(read_csv(reports_dir / "venue_summary.csv"), "venue_summary")
+    teams        = _require_rows(read_csv(reports_dir / "team_summary.csv"), "team_summary")
+    phase_batters = _require_rows(read_csv(reports_dir / "top_batters_by_phase.csv"), "top_batters_by_phase")
+    death_bowlers = _require_rows(read_csv(reports_dir / "top_death_bowlers.csv"), "top_death_bowlers")
+    batting      = _require_rows(read_csv(processed_dir / "batting_summary.csv"), "batting_summary")
+    bowling      = _require_rows(read_csv(processed_dir / "bowling_summary.csv"), "bowling_summary")
+    phase_summary = _require_rows(read_csv(processed_dir / "phase_summary.csv"), "phase_summary")
 
     season_start   = min(as_int(row["season"]) for row in season)
     season_end     = max(as_int(row["season"]) for row in season)
@@ -61,32 +85,41 @@ def build_insights(reports_dir, processed_dir):
     worst_toss    = bottom_row(toss, "toss_winner_win_pct")
     best_chasing  = top_row(chasing,  "chasing_win_pct")
     worst_chasing = bottom_row(chasing, "chasing_win_pct")
-    best_team     = top_row(
-        [row for row in teams if as_int(row["matches"]) >= 50], "win_pct"
-    )
+    qualified_teams = [row for row in teams if as_int(row["matches"]) >= 50]
+    if not qualified_teams:
+        raise ValueError("No teams with 50+ matches found in team_summary.")
+    best_team     = top_row(qualified_teams, "win_pct")
     highest_venue = top_row(venues, "avg_first_innings_score")
     toss_venue    = top_row(venues, "toss_winner_win_pct")
     top_batter    = batting[0]
     top_bowler    = bowling[0]
-    death_batter  = top_row(
-        [row for row in phase_batters if row["phase"] == "Death"], "strike_rate"
-    )
-    powerplay_batter = top_row(
-        [row for row in phase_batters if row["phase"] == "Powerplay"], "runs"
-    )
+
+    death_phase_batters = [row for row in phase_batters if row["phase"] == "Death"]
+    if not death_phase_batters:
+        raise ValueError("No Death-phase batters found in top_batters_by_phase.")
+    death_batter  = top_row(death_phase_batters, "strike_rate")
+
+    powerplay_batters = [row for row in phase_batters if row["phase"] == "Powerplay"]
+    if not powerplay_batters:
+        raise ValueError("No Powerplay-phase batters found in top_batters_by_phase.")
+    powerplay_batter = top_row(powerplay_batters, "runs")
     death_bowler  = death_bowlers[0]
 
     # Phase winner-loser gap
     phase_edges = []
     for phase in ("Powerplay", "Middle", "Death"):
         winner = next(
-            row for row in phase_summary
-            if row["batting_result"] == "Winner" and row["phase"] == phase
+            (row for row in phase_summary
+             if row["batting_result"] == "Winner" and row["phase"] == phase),
+            None,
         )
         loser = next(
-            row for row in phase_summary
-            if row["batting_result"] == "Loser" and row["phase"] == phase
+            (row for row in phase_summary
+             if row["batting_result"] == "Loser" and row["phase"] == phase),
+            None,
         )
+        if winner is None or loser is None:
+            raise ValueError(f"Missing Winner/Loser rows for {phase} phase in phase_summary.")
         edge = as_float(winner["avg_runs"]) - as_float(loser["avg_runs"])
         phase_edges.append((phase, edge, winner["avg_runs"], loser["avg_runs"]))
 

@@ -182,10 +182,22 @@ def main():
     )
     args = parser.parse_args()
 
+    for label, path in [("training data", args.training_data),
+                         ("model", args.model_path),
+                         ("metrics", args.metrics_path)]:
+        if not Path(path).exists():
+            raise SystemExit(
+                f"Required {label} file not found: {path}\n"
+                f"Run `python win_probablity_model.py` first."
+            )
+
     print("Loading model and data...")
     frame   = pd.read_csv(args.training_data)
     model   = joblib.load(args.model_path)
     metrics = json.loads(Path(args.metrics_path).read_text(encoding="utf-8"))
+
+    if "features" not in metrics:
+        raise SystemExit(f"Metrics file {args.metrics_path} is missing the 'features' key.")
     features = metrics["features"]
 
     # Score every row

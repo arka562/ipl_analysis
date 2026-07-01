@@ -201,9 +201,19 @@ def main():
     args = parser.parse_args()
 
     processed_dir = Path(args.processed_dir)
-    
+
+    matches_path = processed_dir / "matches.csv"
+    if not matches_path.exists():
+        raise SystemExit(
+            f"Required input file not found: {matches_path}\n"
+            f"Run the parser first: python parsers/match_parser.py"
+        )
+
     print("Loading historical data...")
     df = load_and_prep_data(processed_dir)
+
+    if df.empty:
+        raise SystemExit("No usable match data after preparation — cannot train simulator model.")
     
     model = build_prematch_model(df)
     

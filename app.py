@@ -1,4 +1,5 @@
 import json
+import logging
 from pathlib import Path
 
 import joblib
@@ -6,6 +7,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+
+logger = logging.getLogger(__name__)
 
 # ─────────────────────────────────────────────
 # CONFIG
@@ -168,15 +171,33 @@ hr {{ border-color: {BORDER}; }}
 # ─────────────────────────────────────────────
 @st.cache_data
 def load(path):
-    return pd.read_csv(path)
+    csv_path = Path(path)
+    if not csv_path.exists():
+        raise FileNotFoundError(f"Required data file not found: {csv_path}")
+    try:
+        return pd.read_csv(csv_path)
+    except pd.errors.ParserError as exc:
+        raise ValueError(f"Failed to parse CSV {csv_path}: {exc}") from exc
 
 @st.cache_resource
 def load_model(path):
-    return joblib.load(path)
+    model_path = Path(path)
+    if not model_path.exists():
+        raise FileNotFoundError(f"Required model file not found: {model_path}")
+    try:
+        return joblib.load(model_path)
+    except Exception as exc:
+        raise RuntimeError(f"Failed to load model {model_path}: {exc}") from exc
 
 @st.cache_data
 def load_json(path):
-    return json.loads(Path(path).read_text(encoding="utf-8"))
+    json_path = Path(path)
+    if not json_path.exists():
+        raise FileNotFoundError(f"Required JSON file not found: {json_path}")
+    try:
+        return json.loads(json_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise ValueError(f"Invalid JSON in {json_path}: {exc}") from exc
 
 
 # ─────────────────────────────────────────────
@@ -206,6 +227,7 @@ with st.sidebar:
 # PAGE 1 — SEASON OVERVIEW
 # ─────────────────────────────────────────────
 if page == "Season Overview":
+  try:
     st.title("Season Overview")
     st.caption("How IPL scoring and match dynamics have evolved across seasons.")
 
@@ -267,12 +289,17 @@ if page == "Season Overview":
 
     st.markdown("### Full Season Table")
     st.dataframe(df.sort_values("season", ascending=False), use_container_width=True, hide_index=True)
+  except FileNotFoundError as exc:
+    st.error(f"Missing data file — run the data pipeline first.\n\n`{exc}`")
+  except (ValueError, KeyError) as exc:
+    st.error(f"Data format error on Season Overview page: {exc}")
 
 
 # ─────────────────────────────────────────────
 # PAGE 2 — TEAM PERFORMANCE
 # ─────────────────────────────────────────────
 elif page == "Team Performance":
+  try:
     st.title("Team Performance")
     st.caption("Win rates, toss impact, chasing trends, and phase-wise batting strength.")
 
@@ -351,12 +378,17 @@ elif page == "Team Performance":
         index="team", columns="phase", values="team_phase_strength_score"
     ).reset_index()
     st.dataframe(phase_pivot, use_container_width=True, hide_index=True)
+  except FileNotFoundError as exc:
+    st.error(f"Missing data file — run the data pipeline first.\n\n`{exc}`")
+  except (ValueError, KeyError) as exc:
+    st.error(f"Data format error on Team Performance page: {exc}")
 
 
 # ─────────────────────────────────────────────
 # PAGE 3 — PLAYER ANALYSIS
 # ─────────────────────────────────────────────
 elif page == "Player Analysis":
+  try:
     st.title("Player Analysis")
     st.caption("Impact scores, phase performance, and death-over specialists.")
 
@@ -459,12 +491,17 @@ elif page == "Player Analysis":
             ]],
             use_container_width=True, hide_index=True,
         )
+  except FileNotFoundError as exc:
+    st.error(f"Missing data file — run the data pipeline first.\n\n`{exc}`")
+  except (ValueError, KeyError) as exc:
+    st.error(f"Data format error on Player Analysis page: {exc}")
 
 
 # ─────────────────────────────────────────────
 # PAGE 4 — VENUE INSIGHTS
 # ─────────────────────────────────────────────
 elif page == "Venue Insights":
+  try:
     st.title("Venue Insights")
     st.caption("Par scores, chasing success rates, and ground characteristics.")
 
@@ -546,12 +583,17 @@ elif page == "Venue Insights":
 
     st.markdown("### Full Venue Table")
     st.dataframe(venue_par, use_container_width=True, hide_index=True)
+  except FileNotFoundError as exc:
+    st.error(f"Missing data file — run the data pipeline first.\n\n`{exc}`")
+  except (ValueError, KeyError) as exc:
+    st.error(f"Data format error on Venue Insights page: {exc}")
 
 
 # ─────────────────────────────────────────────
 # PAGE 5 — WIN PROBABILITY
 # ─────────────────────────────────────────────
 elif page == "Win Probability":
+  try:
     st.title("Win Probability Curve")
     st.caption("Over-by-over win probability for any match in the dataset.")
 
@@ -622,12 +664,17 @@ elif page == "Win Probability":
             ]],
             use_container_width=True, hide_index=True,
         )
+  except FileNotFoundError as exc:
+    st.error(f"Missing data or model file — run `python win_probablity_model.py` first.\n\n`{exc}`")
+  except (ValueError, KeyError, RuntimeError) as exc:
+    st.error(f"Error on Win Probability page: {exc}")
 
 
 # ─────────────────────────────────────────────
 # PAGE 6 — SCORE PREDICTOR
 # ─────────────────────────────────────────────
 elif page == "Score Predictor":
+  try:
     st.title("Score Predictor")
     st.caption("Enter first 10 overs stats to predict final innings score.")
 
@@ -730,6 +777,10 @@ elif page == "Score Predictor":
             f"the model predicts a final score of **{prediction}** runs "
             f"(confidence range: **{low}–{high}**)."
         )
+  except FileNotFoundError as exc:
+    st.error(f"Missing data or model file — run `python model3.py` first.\n\n`{exc}`")
+  except (ValueError, KeyError, RuntimeError) as exc:
+    st.error(f"Error on Score Predictor page: {exc}")
 
 # ─────────────────────────────────────────────
 # PAGE 7 — TOURNAMENT SIMULATOR
@@ -740,7 +791,10 @@ elif page == "Tournament Simulator":
 
     try:
         sim_results = load(MODELING / "tournament_simulation_results.csv")
-        
+
+        if sim_results.empty:
+            raise ValueError("Tournament simulation file is empty — re-run `python tournament_simulator.py`.")
+
         top_team = sim_results.iloc[0]
         
         c1, c2, c3 = st.columns(3)
@@ -769,4 +823,6 @@ elif page == "Tournament Simulator":
         st.markdown("### Full Simulation Results")
         st.dataframe(sim_results, use_container_width=True, hide_index=True)
     except FileNotFoundError:
-        st.warning("Tournament Simulation results not found. Please run `python tournament_simulator.py` first.")
+        st.warning("Tournament simulation results not found. Run `python tournament_simulator.py` first.")
+    except (ValueError, KeyError) as exc:
+        st.error(f"Error reading tournament simulation data: {exc}")

@@ -429,10 +429,21 @@ def main():
     processed_dir = Path(args.processed_dir)
     output_dir    = Path(args.output_dir)
 
+    required = ["matches.csv", "innings.csv", "deliveries.csv"]
+    missing = [f for f in required if not (processed_dir / f).exists()]
+    if missing:
+        raise SystemExit(
+            f"Missing required input files in {processed_dir}: {', '.join(missing)}\n"
+            f"Run the parser first: python parsers/match_parser.py"
+        )
+
     print("Reading processed CSVs...")
     matches    = read_csv(processed_dir / "matches.csv")
     innings    = read_csv(processed_dir / "innings.csv")
     deliveries = read_csv(processed_dir / "deliveries.csv")
+
+    if not deliveries:
+        raise SystemExit("deliveries.csv is empty — cannot compute metrics.")
 
     print("Building player impact scores...")
     player_impact = build_player_impact(deliveries)
