@@ -4,19 +4,16 @@ Predicts final innings score using first-10-over features + venue + chase contex
 Model: GradientBoostingRegressor (improved over v1 RandomForest)
 """
 import argparse
-import json
-import math
 from pathlib import Path
 
-import joblib
 import pandas as pd
-from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.impute import SimpleImputer
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder
+
+from shared.artifacts import create_model_dirs, save_model_artifacts
+from shared.evaluation import evaluate_regression, build_regression_sample
+from shared.preprocessing import build_preprocessor
 
 
 FEATURE_OVER_LIMIT = 10
@@ -96,24 +93,8 @@ def train_model(frame):
     numeric_features     = [c for c in feature_cols if c not in ("batting_team", "venue")]
     categorical_features = ["batting_team", "venue"]
 
-    preprocessor = ColumnTransformer(
-        transformers=[
-            (
-                "numeric",
-                Pipeline([("imputer", SimpleImputer(strategy="median"))]),
-                numeric_features,
-            ),
-            (
-                "categorical",
-                Pipeline(
-                    [
-                        ("imputer", SimpleImputer(strategy="most_frequent")),
-                        ("onehot",  OneHotEncoder(handle_unknown="ignore", sparse_output=False)),
-                    ]
-                ),
-                categorical_features,
-            ),
-        ]
+    preprocessor = build_preprocessor(
+        numeric_features, categorical_features, sparse_output=False
     )
 
     model = Pipeline(
@@ -143,9 +124,7 @@ def train_model(frame):
         "rows_total":  int(len(frame)),
         "rows_train":  int(len(train_df)),
         "rows_test":   int(len(test_df)),
-        "mae":  round(mean_absolute_error(test_df[target_col], predictions), 2),
-        "rmse": round(math.sqrt(mean_squared_error(test_df[target_col], predictions)), 2),
-        "r2":   round(r2_score(test_df[target_col], predictions), 3),
+        **evaluate_regression(test_df[target_col], predictions),
         "innings_1_rows": int(len(frame[frame["innings"] == 1])),
         "innings_2_rows": int(len(frame[frame["innings"] == 2])),
     }
@@ -155,16 +134,16 @@ def train_model(frame):
         sub = test_df[test_df["innings"] == inn_no]
         if len(sub):
             preds = model.predict(sub[feature_cols])
-            metrics[f"mae_innings_{inn_no}"] = round(mean_absolute_error(sub[target_col], preds), 2)
-            metrics[f"r2_innings_{inn_no}"]  = round(r2_score(sub[target_col], preds), 3)
+            inn_metrics = evaluate_regression(sub[target_col], preds)
+            metrics[f"mae_innings_{inn_no}"] = inn_metrics["mae"]
+            metrics[f"r2_innings_{inn_no}"]  = inn_metrics["r2"]
 
-    sample = test_df[
-        ["match_id", "season", "innings", "batting_team",
-         "runs_so_far", "wickets_so_far", "final_score"]
-    ].copy()
-    sample["predicted_final_score"] = predictions.round(0).astype(int)
-    sample["absolute_error"] = (sample["predicted_final_score"] - sample["final_score"]).abs()
-    sample = sample.sort_values("absolute_error").head(30)
+    sample = build_regression_sample(
+        test_df, predictions,
+        id_cols=["match_id", "season", "innings", "batting_team",
+                 "runs_so_far", "wickets_so_far"],
+        target_col=target_col,
+    )
 
     return model, metrics, sample, feature_cols
 
@@ -177,10 +156,7 @@ def main():
     args = parser.parse_args()
 
     processed_dir = Path(args.processed_dir)
-    model_dir     = Path(args.model_dir)
-    reports_dir   = Path(args.reports_dir)
-    model_dir.mkdir(parents=True, exist_ok=True)
-    reports_dir.mkdir(parents=True, exist_ok=True)
+    model_dir, reports_dir = create_model_dirs(args.model_dir, args.reports_dir)
 
     print("Building training frame...")
     frame = build_training_frame(
@@ -191,15 +167,6 @@ def main():
 
     print("Training model...")
     model, metrics, sample, feature_cols = train_model(frame)
-
-    joblib.dump(model, model_dir / "final_score_predictor.joblib")
-    frame.to_csv(reports_dir / "score_model_training_data.csv", index=False)
-    sample.to_csv(reports_dir / "score_model_sample_predictions.csv", index=False)
-
-    metrics["features"] = feature_cols
-    (reports_dir / "score_model_metrics.json").write_text(
-        json.dumps(metrics, indent=2), encoding="utf-8"
-    )
 
     summary = [
         "# Score Prediction Model — v2",
@@ -244,7 +211,20 @@ def main():
             "Useful for score projection, par-score analysis, and live match storytelling.",
         ]
     )
-    (reports_dir / "score_model_summary.md").write_text("\n".join(summary) + "\n", encoding="utf-8")
+
+    save_model_artifacts(
+        model=model,
+        model_path=model_dir / "final_score_predictor.joblib",
+        training_frame=frame,
+        training_data_path=reports_dir / "score_model_training_data.csv",
+        sample_df=sample,
+        sample_path=reports_dir / "score_model_sample_predictions.csv",
+        metrics=metrics,
+        metrics_path=reports_dir / "score_model_metrics.json",
+        feature_cols=feature_cols,
+        summary_lines=summary,
+        summary_path=reports_dir / "score_model_summary.md",
+    )
 
     print(f"Model saved    : {(model_dir / 'final_score_predictor.joblib').resolve()}")
     print(f"MAE            : {metrics['mae']} runs")

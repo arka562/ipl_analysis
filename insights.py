@@ -1,25 +1,7 @@
 import argparse
-import csv
 from pathlib import Path
 
-
-def read_csv(path):
-    with path.open("r", encoding="utf-8", newline="") as handle:
-        return list(csv.DictReader(handle))
-
-
-def as_float(value):
-    try:
-        return float(value)
-    except (TypeError, ValueError):
-        return 0.0
-
-
-def as_int(value):
-    try:
-        return int(float(value))
-    except (TypeError, ValueError):
-        return 0
+from shared.io_utils import as_float, as_int, read_csv
 
 
 def top_row(rows, key):

@@ -3,14 +3,13 @@ import random
 from collections import defaultdict
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
-from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder
 from tqdm import tqdm
+
+from shared.paths import resolve_processed_dir
+from shared.preprocessing import build_preprocessor
 
 # Current 10 IPL Franchises and their primary home venues
 TEAMS_AND_VENUES = {
@@ -75,17 +74,10 @@ def build_prematch_model(df: pd.DataFrame):
     X = df[["team_A", "team_B", "venue"]]
     y = df["team_A_won"]
     
-    preprocessor = ColumnTransformer(
-        transformers=[
-            (
-                "categorical",
-                Pipeline([
-                    ("imputer", SimpleImputer(strategy="most_frequent")),
-                    ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False)),
-                ]),
-                ["team_A", "team_B", "venue"],
-            ),
-        ]
+    preprocessor = build_preprocessor(
+        numeric_features=[],
+        categorical_features=["team_A", "team_B", "venue"],
+        sparse_output=False,
     )
     
     model = Pipeline([
@@ -191,12 +183,7 @@ def run_monte_carlo(model, num_simulations=1000):
 
 def main():
     parser = argparse.ArgumentParser(description="Monte Carlo IPL Tournament Simulator")
-    
-    default_processed = Path("ipl_analytics_platform/data/processed")
-    if Path("parsers/ipl_analytics_platform/data/processed").exists():
-        default_processed = Path("parsers/ipl_analytics_platform/data/processed")
-        
-    parser.add_argument("--processed-dir", default=str(default_processed))
+    parser.add_argument("--processed-dir", default=str(resolve_processed_dir()))
     parser.add_argument("--simulations", type=int, default=1000)
     args = parser.parse_args()
 
@@ -210,7 +197,7 @@ def main():
     results_df = run_monte_carlo(model, num_simulations=args.simulations)
     
     print("\n" + "="*60)
-    print("🏆 TOURNAMENT SIMULATION RESULTS 🏆")
+    print("TOURNAMENT SIMULATION RESULTS")
     print("="*60)
     print(results_df.to_string(index=False))
     print("="*60)

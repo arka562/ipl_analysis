@@ -4,19 +4,17 @@ Predicts batting-team win probability at over-by-over checkpoints.
 Model: RandomForestClassifier
 """
 import argparse
-import json
 from pathlib import Path
 
-import joblib
 import numpy as np
 import pandas as pd
-from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.impute import SimpleImputer
-from sklearn.metrics import accuracy_score, log_loss, roc_auc_score
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder
+
+from shared.artifacts import create_model_dirs, save_model_artifacts
+from shared.evaluation import evaluate_classification
+from shared.preprocessing import build_preprocessor
 
 
 RANDOM_STATE = 42
@@ -120,25 +118,7 @@ def train_model(frame):
     numeric_features     = [c for c in feature_cols if c != "batting_team"]
     categorical_features = ["batting_team"]
 
-    preprocessor = ColumnTransformer(
-        transformers=[
-            (
-                "numeric",
-                Pipeline([("imputer", SimpleImputer(strategy="median"))]),
-                numeric_features,
-            ),
-            (
-                "categorical",
-                Pipeline(
-                    [
-                        ("imputer", SimpleImputer(strategy="most_frequent")),
-                        ("onehot",  OneHotEncoder(handle_unknown="ignore")),
-                    ]
-                ),
-                categorical_features,
-            ),
-        ]
-    )
+    preprocessor = build_preprocessor(numeric_features, categorical_features)
 
     model = Pipeline(
         [
@@ -158,7 +138,6 @@ def train_model(frame):
 
     model.fit(train_df[feature_cols], train_df[target_col])
     probabilities = model.predict_proba(test_df[feature_cols])[:, 1]
-    predictions   = (probabilities >= 0.5).astype(int)
 
     metrics = {
         "model_type":     "RandomForestClassifier",
@@ -166,9 +145,7 @@ def train_model(frame):
         "rows_total":  int(len(frame)),
         "rows_train":  int(len(train_df)),
         "rows_test":   int(len(test_df)),
-        "accuracy":  round(accuracy_score(test_df[target_col], predictions), 3),
-        "roc_auc":   round(roc_auc_score(test_df[target_col], probabilities), 3),
-        "log_loss":  round(log_loss(test_df[target_col], probabilities), 3),
+        **evaluate_classification(test_df[target_col], probabilities),
     }
 
     sample = test_df[
@@ -191,10 +168,7 @@ def main():
     args = parser.parse_args()
 
     processed_dir = Path(args.processed_dir)
-    model_dir     = Path(args.model_dir)
-    reports_dir   = Path(args.reports_dir)
-    model_dir.mkdir(parents=True, exist_ok=True)
-    reports_dir.mkdir(parents=True, exist_ok=True)
+    model_dir, reports_dir = create_model_dirs(args.model_dir, args.reports_dir)
 
     print("Building checkpoint frame...")
     frame = build_checkpoint_frame(
@@ -204,15 +178,6 @@ def main():
 
     print("Training model...")
     model, metrics, sample, feature_cols = train_model(frame)
-
-    joblib.dump(model, model_dir / "win_probability_model.joblib")
-    frame.to_csv(reports_dir / "win_probability_training_data.csv", index=False)
-    sample.to_csv(reports_dir / "win_probability_sample_predictions.csv", index=False)
-
-    metrics["features"] = feature_cols
-    (reports_dir / "win_probability_metrics.json").write_text(
-        json.dumps(metrics, indent=2), encoding="utf-8"
-    )
 
     summary = [
         "# Win Probability Model",
@@ -244,7 +209,20 @@ def main():
             "target pressure, and recent scoring.",
         ]
     )
-    (reports_dir / "win_probability_summary.md").write_text("\n".join(summary) + "\n", encoding="utf-8")
+
+    save_model_artifacts(
+        model=model,
+        model_path=model_dir / "win_probability_model.joblib",
+        training_frame=frame,
+        training_data_path=reports_dir / "win_probability_training_data.csv",
+        sample_df=sample,
+        sample_path=reports_dir / "win_probability_sample_predictions.csv",
+        metrics=metrics,
+        metrics_path=reports_dir / "win_probability_metrics.json",
+        feature_cols=feature_cols,
+        summary_lines=summary,
+        summary_path=reports_dir / "win_probability_summary.md",
+    )
 
     print(f"Model saved : {(model_dir / 'win_probability_model.joblib').resolve()}")
     print(f"Accuracy    : {metrics['accuracy']}")

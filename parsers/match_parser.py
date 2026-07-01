@@ -1,8 +1,11 @@
 import argparse
-import csv
 import json
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from shared.io_utils import write_csv
 
 
 BOWLER_CREDITED_WICKETS = {
@@ -42,14 +45,6 @@ def phase_for_over(over):
         return "Death"
     return "Other"
 
-
-def write_csv(path, rows, headers):
-    path.parent.mkdir(parents=True, exist_ok=True)
-
-    with path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=headers)
-        writer.writeheader()
-        writer.writerows(rows)
 
 
 def parse_match(path):
