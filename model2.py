@@ -182,12 +182,23 @@ def main():
     model_dir.mkdir(parents=True, exist_ok=True)
     reports_dir.mkdir(parents=True, exist_ok=True)
 
+    required = ["deliveries.csv", "innings.csv", "matches.csv"]
+    missing = [f for f in required if not (processed_dir / f).exists()]
+    if missing:
+        raise SystemExit(
+            f"Missing required input files in {processed_dir}: {', '.join(missing)}\n"
+            f"Run the parser first: python parsers/match_parser.py"
+        )
+
     print("Building training frame...")
     frame = build_training_frame(
         processed_dir / "deliveries.csv",
         processed_dir / "innings.csv",
         processed_dir / "matches.csv",
     )
+
+    if frame.empty:
+        raise SystemExit("Training frame is empty — no valid data to train on.")
 
     print("Training model...")
     model, metrics, sample, feature_cols = train_model(frame)

@@ -167,13 +167,20 @@ def load_tables(connection, processed_dir):
 
 def export_reports(connection, reports_dir):
     reports_dir.mkdir(parents=True, exist_ok=True)
+    failed = []
     for report_name, query in REPORT_QUERIES.items():
         output_path = reports_dir / f"{report_name}.csv"
-        connection.execute(
-            f"copy ({query}) to '{sql_path(output_path)}' with (header true, delimiter ',')"
-        )
-        count = connection.execute(f"select count(*) from ({query})").fetchone()[0]
-        print(f"  {report_name}.csv — {count} rows")
+        try:
+            connection.execute(
+                f"copy ({query}) to '{sql_path(output_path)}' with (header true, delimiter ',')"
+            )
+            count = connection.execute(f"select count(*) from ({query})").fetchone()[0]
+            print(f"  {report_name}.csv — {count} rows")
+        except duckdb.Error as exc:
+            failed.append(report_name)
+            print(f"  {report_name}.csv — FAILED: {exc}")
+    if failed:
+        raise RuntimeError(f"Failed to generate {len(failed)} report(s): {', '.join(failed)}")
 
 
 def main():

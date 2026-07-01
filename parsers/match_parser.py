@@ -1,6 +1,7 @@
 import argparse
 import csv
 import json
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -298,7 +299,14 @@ def main():
     input_dir = Path(args.input_dir)
     output_dir = Path(args.output_dir)
 
-    for path in sorted(input_dir.glob("*.json")):
+    if not input_dir.exists():
+        raise SystemExit(f"Input directory not found: {input_dir}")
+
+    json_files = sorted(input_dir.glob("*.json"))
+    if not json_files:
+        raise SystemExit(f"No JSON files found in {input_dir}")
+
+    for path in json_files:
         try:
             match, innings_rows, delivery_rows, player_rows = parse_match(path)
         except (json.JSONDecodeError, OSError, KeyError, TypeError, ValueError) as error:
@@ -350,6 +358,7 @@ def main():
             ["file", "error"],
         )
 
+    total_files = len(matches) + len(skipped)
     seasons = sorted({row["season"] for row in matches if row["season"]})
 
     print(f"Matches parsed  : {len(matches)}")
@@ -358,6 +367,14 @@ def main():
     print(f"Seasons         : {seasons[0]}-{seasons[-1]}" if seasons else "Seasons: unknown")
     print(f"Skipped files   : {len(skipped)}")
     print(f"Output folder   : {output_dir.resolve()}")
+
+    if skipped and total_files > 0 and len(skipped) / total_files > 0.1:
+        pct = 100 * len(skipped) / total_files
+        print(
+            f"WARNING: {pct:.0f}% of input files were skipped due to errors. "
+            f"Review {output_dir / 'skipped_files.csv'} for details.",
+            file=sys.stderr,
+        )
 
 
 if __name__ == "__main__":
